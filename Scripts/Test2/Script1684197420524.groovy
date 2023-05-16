@@ -17,29 +17,47 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.openBrowser('', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.navigateToUrl('https://www.hancomdocs.com/')
+WebUI.navigateToUrl('https://www.hancomdocs.com/', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Landing/Landing_Appbar_Login'))
+WebUI.click(findTestObject('Object Repository/HD_Landing/Landing_Appbar_Login'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setText(findTestObject('HD_Landing/Login_input__email'), 'hcnewbiz+prdat2@gmail.com')
+WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+prdat2@gmail.com', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setEncryptedText(findTestObject('HD_Landing/Login_input__password'), 'IiiKlAiWmeOR474j7JBH5w==')
+WebUI.setEncryptedText(findTestObject('Object Repository/HD_Landing/Login_input__password'), 'IiiKlAiWmeOR474j7JBH5w==', 
+    FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Landing/button_Login'))
+WebUI.click(findTestObject('Object Repository/HD_Landing/button_Login'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/LNB_Menu/Menu_Storage'))
+WebUI.click(findTestObject('Object Repository/HD_Luncher/LNB_Menu/Menu_Storage'))
 
-WebUI.click(findTestObject('HD_Luncher/File_Folder Open/Storage/Open_Folder_FomatFolder'), FailureHandling.CONTINUE_ON_FAILURE)
+'스토리지 공유탭'
+WebUI.click(findTestObject('Object Repository/Page_-/button_'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/File_Folder Open/Home/Open_hwp_Account2'))
+WebUI.click(findTestObject('Object Repository/Page_-/h3_hwpx'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_hwpx .hwpx -  Web v2/div_hwpx .hwpx -  ( )'), 'hwpx 보기권한.hwpx - 한글 (읽기 전용)')
+
+WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/h3_hwpx .hwpx'))
+
+WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_hwpx .hwpx -  Web v2/div_hwpx .hwpx -  ( )'), 'hwpx 보기권한.hwpx - 한글 (읽기 전용)')
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 

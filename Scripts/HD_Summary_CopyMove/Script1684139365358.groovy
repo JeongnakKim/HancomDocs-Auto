@@ -24,11 +24,11 @@ WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_NewCreate
 '폴더'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_NewCreate_Folder'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.sendKeys(findTestObject('Object Repository/HD_Luncher/input_foldername'), Keys.chord(Keys.BACK_SPACE), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.sendKeys(findTestObject('Object Repository/HD_Luncher/InPutBox/input_foldername'), Keys.chord(Keys.BACK_SPACE), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/input_foldername'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/InPutBox/input_foldername'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/HD_Luncher/input_foldername'), '복사 테스트', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.setText(findTestObject('Object Repository/HD_Luncher/InPutBox/input_foldername'), '복사 테스트', FailureHandling.CONTINUE_ON_FAILURE)
 
 '만들기'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_NewFolder_Make'), FailureHandling.CONTINUE_ON_FAILURE)
@@ -61,11 +61,11 @@ WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_NewCreate
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_NewCreate_Folder'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.sendKeys(findTestObject('Object Repository/HD_Luncher/input_foldername'), Keys.chord(Keys.BACK_SPACE), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.sendKeys(findTestObject('Object Repository/HD_Luncher/InPutBox/input_foldername'), Keys.chord(Keys.BACK_SPACE), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/input_foldername'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/InPutBox/input_foldername'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/HD_Luncher/input_foldername'), '이동 테스트', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.setText(findTestObject('Object Repository/HD_Luncher/InPutBox/input_foldername'), '이동 테스트', FailureHandling.CONTINUE_ON_FAILURE)
 
 '만들기'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_NewFolder_Make'), FailureHandling.CONTINUE_ON_FAILURE)

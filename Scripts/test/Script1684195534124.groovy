@@ -17,31 +17,20 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.openBrowser('', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.navigateToUrl('https://www.hancomdocs.com/')
+WebUI.navigateToUrl('https://www.hancomdocs.com/', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Landing/Landing_Appbar_Login'))
+WebUI.click(findTestObject('Object Repository/HD_Landing/Landing_Appbar_Login'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setText(findTestObject('HD_Landing/Login_input__email'), 'hcnewbiz+prdat2@gmail.com')
+WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+prdat2@gmail.com', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setEncryptedText(findTestObject('HD_Landing/Login_input__password'), 'IiiKlAiWmeOR474j7JBH5w==')
+WebUI.setEncryptedText(findTestObject('Object Repository/HD_Landing/Login_input__password'), 'IiiKlAiWmeOR474j7JBH5w==', 
+    FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Landing/button_Login'))
+WebUI.click(findTestObject('Object Repository/HD_Landing/button_Login'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/File_Folder Open/Home/Open_hwp_Account2'))
-
-WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.click(findTestObject('Page_-/h3_ppt'))
+WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Home/Open_hwp_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -49,7 +38,29 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
+WebUI.verifyElementText(findTestObject('Page_hwp .hwp -  Web v2/div_hwp .hwp -'), 'hwp파일 테스트.hwp - 한글')
+
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/h3_ppt'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('Page_ppt .ppt -  Web v2/div_ppt .ppt -'), 'ppt파일 테스트.ppt - 한쇼')
+
+WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowTitle('')
+
+WebUI.click(findTestObject('Object Repository/Page_-/svg__icon-neutral'))
+
+WebUI.click(findTestObject('Object Repository/Page_-/main_ppt 1 503KBhwp 2 1.6MBhwpx 5 lBCiqL20K_2e2099'))
 

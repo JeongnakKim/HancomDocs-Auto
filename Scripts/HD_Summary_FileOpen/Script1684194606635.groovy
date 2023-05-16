@@ -67,7 +67,7 @@ WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Home/Open_hwpx_Account2'))
 
-WebUI.switchToWindowTitle('', FailureHandling.STOP_ON_FAILURE)
+WebUI.switchToWindowIndex(1, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 

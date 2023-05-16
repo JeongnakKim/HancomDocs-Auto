@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ppt .ppt -</name>
+   <tag></tag>
+   <elementGuidId>055de4e6-fe37-4e9b-845b-3e6e5f04e26f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.file_name.text_align_right.inline_panel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='title_bar']/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>368b1583-d2d7-4852-a15b-3abe74b28c20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>file_name text_align_right inline_panel</value>
+      <webElementGuid>d728450a-9656-4799-9174-69e6faef4b10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>file_name</value>
+      <webElementGuid>f025ab64-6e7a-424a-9501-d74720c19123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ppt파일 테스트.ppt - 한쇼</value>
+      <webElementGuid>0f780c5b-edf0-492f-b0c7-3a9aa2d9c052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;title_bar&quot;)/div[@class=&quot;top_title normal_panel&quot;]/div[@class=&quot;guide inline_panel&quot;]/div[@class=&quot;normal_panel align_item_center&quot;]/div[@class=&quot;file_name text_align_right inline_panel&quot;]</value>
+      <webElementGuid>d448745c-9096-4aa8-b0b2-66e0fe1b1886</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='title_bar']/div[2]/div[2]/div/div</value>
+      <webElementGuid>faa7bbb7-7a79-4a71-8e67-a6016c8419f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='도움말'])[1]/preceding::div[9]</value>
+      <webElementGuid>bce9f7e2-91fe-483a-b393-509d44ae5040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='한쇼 정보...'])[1]/preceding::div[10]</value>
+      <webElementGuid>7f0197c4-1677-46ce-973b-b63aed598d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ppt파일 테스트.ppt - 한쇼']/parent::*</value>
+      <webElementGuid>58c4b37c-66dd-471c-a869-1c65b96f6008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>41df8cf9-c94b-4bf2-8581-37fbb6c19969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ppt파일 테스트.ppt - 한쇼' or . = 'ppt파일 테스트.ppt - 한쇼')]</value>
+      <webElementGuid>8cb75416-fee3-4c5c-b37c-387442c79b46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
