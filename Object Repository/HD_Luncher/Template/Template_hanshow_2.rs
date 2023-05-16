@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Template_hanshow_2</name>
+   <tag></tag>
+   <elementGuidId>6180f365-f87e-417e-a3b0-4cb4c4a9b5eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/div/div[2]/div/div[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a53cfc15-0ee6-4525-8750-71636cdb3b69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-1lpvoe6</value>
+      <webElementGuid>7e4cd5f8-4b21-4f58-b02b-9260c40a4668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>오피스</value>
+      <webElementGuid>fee367bd-47af-488b-a6b7-101e07bffee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[@class=&quot;MuiBox-root css-18174ce&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;css-9jay18&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 css-1cm0wb0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1lpvoe6&quot;]</value>
+      <webElementGuid>a55c6cc6-8ce7-4878-a5ac-5034a6d55732</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/div/div[2]/div/div[3]/div/div</value>
+      <webElementGuid>82942e92-682e-4c5c-be38-176ea70c0f34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='활동'])[1]/following::div[21]</value>
+      <webElementGuid>d8905640-5241-4e19-b968-c40e45991aac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='서식 더 보기'])[1]/preceding::div[10]</value>
+      <webElementGuid>a55c2193-6802-4be3-851b-091d26fdd162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='최근'])[1]/preceding::div[12]</value>
+      <webElementGuid>95937a5f-054f-4ef7-8f81-deaf304ffeee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div</value>
+      <webElementGuid>89c5397d-d60d-4096-8b9c-797755e883f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '오피스' or . = '오피스')]</value>
+      <webElementGuid>ed5700af-b894-4781-9eae-2681ee4b653c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

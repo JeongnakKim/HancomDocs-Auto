@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_NewCreate_hancell</name>
+   <tag></tag>
+   <elementGuidId>edbba5f2-4311-4ac1-8e40-b67261bc7fde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h4[(text() = '한셀' or . = '한셀')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>a24c2596-d3cb-48a8-9628-b8fc4ff0820d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h4 css-1oiz5sf</value>
+      <webElementGuid>6fb56adf-88a6-4577-9c9f-3a10152c97a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>한셀</value>
+      <webElementGuid>e52cb23e-a1d5-4981-930f-773c4cf8f247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;basic-menu&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiMenu-paper MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-b3oyi4&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-r8u8y9&quot;]/li[@class=&quot;MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root css-pp3r5a&quot;]/h4[@class=&quot;MuiTypography-root MuiTypography-h4 css-1oiz5sf&quot;]</value>
+      <webElementGuid>862b6f3c-78a8-4b2c-97ab-3d4bba6964fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='basic-menu']/div[3]/ul/li[7]/h4</value>
+      <webElementGuid>c9b49b37-b311-4820-9a7c-608237465756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='한글'])[2]/following::h4[1]</value>
+      <webElementGuid>8ab4d564-29ed-4f9f-aa7c-aaf6163aa60a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='폴더 업로드'])[1]/following::h4[2]</value>
+      <webElementGuid>57d7e444-86dc-4043-bf70-03a200b08c50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='한쇼'])[2]/preceding::h4[1]</value>
+      <webElementGuid>9c9abe10-95a1-44c0-a500-17d3b172bdd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='한워드'])[2]/preceding::h4[2]</value>
+      <webElementGuid>dd0f0aea-8b75-468e-b16d-d2a9ae618bad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/h4</value>
+      <webElementGuid>0857fa15-5b0e-4651-901b-3afbaefd9ec6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = '한셀' or . = '한셀')]</value>
+      <webElementGuid>101c236b-6b57-4880-aa7d-597b8301e31d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>랜딩페이지 테스트
+ 1.랜딩페이지 표시 및 버튼 동작
+    a.각 버튼 클릭시 페이지 이동
+    b.요금제 플랜 클릭 > 로그인 이동 > 구독화면 이동 (일부)
+    c.이용권 등록 > 로그인 > 설정 이동
+ 2.요금제 페이지 이동 및 버튼 동작
+    a.요금제 컨텐츠 정상 표시
+    b.요금제 플랜 클릭 > 로그인 이동 > 구독화면 이동 (일부)</description>
+   <name>HD_Summary_Landing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7076a6c5-18c4-4678-9a03-58a1c9f5fbce</testCaseGuid>
+</TestCaseEntity>

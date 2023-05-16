@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>파일 오픈
+ 1. 런처홈 - 문서파일 열기
+ 2. 각앱 - 문서파일 열기
+ 3. 저장소 - 문서파일, 뷰어파일, 기타파일 열기</description>
+   <name>HD_Summary_FileOpen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30133b4b-e1cd-4512-9792-270fa614b456</testCaseGuid>
+</TestCaseEntity>

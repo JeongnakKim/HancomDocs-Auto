@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Menu_Hangeul</name>
+   <tag></tag>
+   <elementGuidId>d6546597-050c-4565-913a-310e116efc93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[1]/div[1]/div/div[1]/li[3]
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>738b950a-bbc7-445e-bf26-ca5c962c6080</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>40</value>
+      <webElementGuid>87c7a71f-23f2-4c7b-bf54-f509e568fe49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>40</value>
+      <webElementGuid>c6f75c27-3f12-4cb2-b860-982f5892157c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 40 40</value>
+      <webElementGuid>445f63ab-957a-46c1-93d6-510d2a998e7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>0a8041cf-36f0-47a8-a3f9-831914bb9ea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-neutral</value>
+      <webElementGuid>805e2a19-38f3-49c9-8cf8-0c82d97db737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked css-1fkn2w9&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft css-le3spj&quot;]/div[@class=&quot;MuiList-root MuiList-padding css-x5uutx&quot;]/li[@class=&quot;MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root css-yb6xbr&quot;]/a[@class=&quot;css-1mftry9&quot;]/svg[1]</value>
+      <webElementGuid>74f1afbc-ba8d-429c-be34-7c9b275789e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>fab7992a-8e76-48ea-934d-9f489be30de1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='세부 정보'])[1]/preceding::*[name()='svg'][7]</value>
+      <webElementGuid>a6b202ec-306d-4a3c-9771-d9a74d1deeb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='상세'])[1]/preceding::*[name()='svg'][7]</value>
+      <webElementGuid>c8504984-7902-4278-afe7-140b9aa892e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='세부 정보'])[1]/preceding::*[name()='svg'][8]</value>
+      <webElementGuid>47f51c18-8a75-49ba-89fe-40d90b3ebe6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='상세'])[1]/preceding::*[name()='svg'][8]</value>
+      <webElementGuid>5c4af359-7eb8-4be2-8c88-25acff2e357b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='세부 정보'])[1]/preceding::*[name()='svg'][9]</value>
+      <webElementGuid>5a66ba05-b483-4fdd-b73f-9d0e4288b4d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='상세'])[1]/preceding::*[name()='svg'][9]</value>
+      <webElementGuid>67fe8699-7c12-4755-bd55-125950c417d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
