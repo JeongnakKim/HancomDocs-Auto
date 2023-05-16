@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>vo6</name>
+   <tag></tag>
+   <elementGuidId>854ef34d-3093-4590-96ff-115a781144ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-kc6it0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3[(text() = '이동 테스트' or . = '이동 테스트')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c91a9daa-22a8-43bf-a53d-48ca13814dd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-kc6it0</value>
+      <webElementGuid>6a2bbeeb-81ed-4e9b-8254-ccedccf4d408</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>저장 공간새로 만들기</value>
+      <webElementGuid>c2352434-2c70-4ffb-a33b-d78d7603656d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[@class=&quot;MuiBox-root css-kc6it0&quot;]</value>
+      <webElementGuid>4da83af1-70bb-4952-b368-eefc603650e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div</value>
+      <webElementGuid>296bb321-527a-4e07-a15b-08fb57a2be9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='활동'])[1]/following::div[3]</value>
+      <webElementGuid>9e5ca2ef-1c1f-4d38-959e-f11b91d8ddd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='상세'])[1]/following::div[3]</value>
+      <webElementGuid>734839c5-6795-46fa-89d3-0566eb8e8469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div</value>
+      <webElementGuid>b4bd4636-06c5-4549-a563-8f8c78d49df0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '저장 공간새로 만들기' or . = '저장 공간새로 만들기')]</value>
+      <webElementGuid>5c130515-9495-4ef3-af80-a1260bb89aa3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

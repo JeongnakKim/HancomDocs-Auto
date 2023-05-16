@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Landing_Appbar_Login</name>
+   <tag></tag>
+   <elementGuidId>fdb6e672-ba9f-4872-91c7-ad085a89fbe3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButton-root.MuiButton-textOnly.MuiButton-textOnlyPrimary.MuiButton-sizeMedium.MuiButton-textOnlySizeMedium.MuiButtonBase-root.css-e90map > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/header/div/div/div/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4195a46a-7e94-4a2a-8c60-dae52cf77a9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>로그인</value>
+      <webElementGuid>6c62efb0-75a6-459f-9512-e855aec57a2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1j23mgk&quot;]/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-1ehj4p5&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-dense css-1by8ed8&quot;]/div[@class=&quot;MuiBox-root css-oajpp9&quot;]/div[@class=&quot;MuiBox-root css-v82dal&quot;]/div[@class=&quot;MuiBox-root css-18ypqnj&quot;]/button[@class=&quot;MuiButton-root MuiButton-textOnly MuiButton-textOnlyPrimary MuiButton-sizeMedium MuiButton-textOnlySizeMedium MuiButtonBase-root css-e90map&quot;]/span[1]</value>
+      <webElementGuid>381fd56d-ec27-4758-8443-1d9f74beb403</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/header/div/div/div/div[2]/button/span</value>
+      <webElementGuid>45b77df6-3a2e-4a1d-b505-7d2ea1ff4360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='요금제'])[1]/following::span[1]</value>
+      <webElementGuid>32a69007-3a01-4dc4-910c-7ef904241385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='다운로드'])[1]/following::span[1]</value>
+      <webElementGuid>da066239-d57e-4505-b6be-b6e386886d86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='구독하기'])[1]/preceding::span[1]</value>
+      <webElementGuid>33f5ccea-0d03-4f47-88e9-0827124f5739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='이용권 등록하기'])[1]/preceding::span[2]</value>
+      <webElementGuid>7f77e44c-2464-4204-9af5-d28418b9508c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='로그인']/parent::*</value>
+      <webElementGuid>50d9916f-b2ee-4352-aaa5-be2ae08dbf26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>c413777b-261e-4eaf-a439-8a307bbf8f81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '로그인' or . = '로그인')]</value>
+      <webElementGuid>1a5b2766-ce65-485d-9c9d-60de32f50bf1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

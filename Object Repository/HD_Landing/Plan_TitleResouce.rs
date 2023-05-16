@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Plan_TitleResouce</name>
+   <tag></tag>
+   <elementGuidId>5d82038d-a8bb-436e-a754-920d6de5283f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/section/div/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4.MuiTypography-root.MuiTypography-h4.css-1oiz5sf</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>03be40b5-a294-474a-a9ab-076fabc842e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h4 css-1oiz5sf</value>
+      <webElementGuid>f174ec38-d474-4045-872a-ef09cbbdee09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>나에게 맞는 요금제로 합리적인 서비스를 경험하세요.</value>
+      <webElementGuid>fd52f038-d3fc-46e4-9842-e3282d0b877a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1j23mgk&quot;]/main[@class=&quot;MuiBox-root css-hngt96&quot;]/div[@class=&quot;MuiBox-root css-1t9hyv3&quot;]/section[@class=&quot;css-oz1t3v&quot;]/div[@class=&quot;MuiBox-root css-1pc1w1t&quot;]/div[@class=&quot;MuiBox-root css-uogtfz&quot;]/h4[@class=&quot;MuiTypography-root MuiTypography-h4 css-1oiz5sf&quot;]</value>
+      <webElementGuid>e3137bf1-90b8-47fa-9577-14739e7e2248</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/section/div/div/h4</value>
+      <webElementGuid>73755aed-474e-45e7-aa22-b59a73604d5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='무료'])[1]/preceding::h4[1]</value>
+      <webElementGuid>e9db1405-3f9b-4d5a-a300-df267f080a5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₩0'])[1]/preceding::h4[1]</value>
+      <webElementGuid>afc8d41b-5eb6-421e-bc94-6937aa2b25d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='나에게 맞는 요금제로 합리적인 서비스를 경험하세요.']/parent::*</value>
+      <webElementGuid>1b5ef195-37e5-4c35-9e8e-d178d8bbb0e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>5b396d56-94c4-420c-8371-bcc712590fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = '나에게 맞는 요금제로 합리적인 서비스를 경험하세요.' or . = '나에게 맞는 요금제로 합리적인 서비스를 경험하세요.')]</value>
+      <webElementGuid>aa0d3f83-7e82-4563-aab7-d8c7a5bf770b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

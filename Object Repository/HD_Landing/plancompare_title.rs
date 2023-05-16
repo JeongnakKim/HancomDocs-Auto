@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>plancompare_title</name>
+   <tag></tag>
+   <elementGuidId>befe89fd-a75f-4409-a96c-9a31c09a0c6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/section[3]/div/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h5.MuiTypography-root.MuiTypography-h5.css-nw8w3k</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>9a34dfee-2e43-488a-8ea9-e208bc10eb1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h5 css-nw8w3k</value>
+      <webElementGuid>d3a414a8-ab82-4ec7-850f-f2eb9dde6434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>요금제 비교</value>
+      <webElementGuid>79f21936-b7fb-40d7-a184-52837a1f6a19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1j23mgk&quot;]/main[@class=&quot;MuiBox-root css-hngt96&quot;]/div[@class=&quot;MuiBox-root css-1t9hyv3&quot;]/section[@class=&quot;css-5cbihu&quot;]/div[@class=&quot;MuiBox-root css-1pc1w1t&quot;]/h5[@class=&quot;MuiTypography-root MuiTypography-h5 css-nw8w3k&quot;]</value>
+      <webElementGuid>d5ca9440-703a-4d54-bd6c-669004cff025</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/section[3]/div/h5</value>
+      <webElementGuid>6463b0c1-a379-476e-adca-1b4261e8a93c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₩99,000원/년으로 구독'])[1]/following::h5[1]</value>
+      <webElementGuid>87457d27-6004-4264-9437-839720217fa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='또는'])[2]/following::h5[1]</value>
+      <webElementGuid>a9057f1b-b7c3-4205-aad3-ccd2298251e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='기본 항목'])[1]/preceding::h5[1]</value>
+      <webElementGuid>81fd372c-8214-4f68-933d-57f46f46f45f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='무료'])[2]/preceding::h5[1]</value>
+      <webElementGuid>e3e2efa2-1bed-4c05-a687-6730ccec5249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='요금제 비교']/parent::*</value>
+      <webElementGuid>41fc0011-b1c3-40aa-8ecf-0bc2659aa637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>c2bcc738-2bdf-4e59-bd88-24ac6f609d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = '요금제 비교' or . = '요금제 비교')]</value>
+      <webElementGuid>e69cf700-ca6b-404b-9120-42849dccf4a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

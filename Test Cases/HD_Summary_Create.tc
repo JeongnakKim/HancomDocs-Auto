@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.새문서 만들기 -> 한글,셀,쇼,워드,폼 생성
+2.템플릿 만들기 -> 한글,셀,쇼,워드 템플릿 만들기 생성
+3.폴더만들기
+4.이동 테스트
+5.복사 테스트
+6.모두 삭제
+7.휴지통 비우기</description>
+   <name>HD_Summary_Create</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8774391f-e0a1-4a03-937c-c0647b653dec</testCaseGuid>
+</TestCaseEntity>

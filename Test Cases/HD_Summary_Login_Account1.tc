@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>로그인
+ 1.랜딩페이지 앱바 로그인버튼을 통해 이메일 계정 로그인</description>
+   <name>HD_Summary_Login_Account1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdc6797c-e7d2-4479-ac71-191e69d65807</testCaseGuid>
+</TestCaseEntity>

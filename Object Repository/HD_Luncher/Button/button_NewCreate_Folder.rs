@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_NewCreate_Folder</name>
+   <tag></tag>
+   <elementGuidId>cafcb6ff-0d95-47a7-ac00-95a3488bd043</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4.MuiTypography-root.MuiTypography-h4.css-1oiz5sf</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h4[(text() = '폴더' or . = '폴더')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>9efef38a-b635-4773-bc55-6834a726b2a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h4 css-1oiz5sf</value>
+      <webElementGuid>6b60369f-afcf-4e0d-bae4-d2bb64e56c17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>폴더</value>
+      <webElementGuid>fefeb4b9-4e9c-4652-b959-bdff6ae832a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;basic-menu&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiMenu-paper MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-161yt8n&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-r8u8y9&quot;]/li[@class=&quot;MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root css-gqh2po&quot;]/h4[@class=&quot;MuiTypography-root MuiTypography-h4 css-1oiz5sf&quot;]</value>
+      <webElementGuid>67c6f771-2c19-4fb5-a70d-0bffe4d15453</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='basic-menu']/div[3]/ul/li/h4</value>
+      <webElementGuid>2ede994b-28b9-4568-94d1-45e8aae558da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='필터 초기화'])[1]/following::h4[1]</value>
+      <webElementGuid>4d4c2b33-efe1-4a98-8766-8d8a93f6bf6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='적용'])[1]/following::h4[1]</value>
+      <webElementGuid>179d117c-8376-4f78-b6e9-263df62b781d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='파일 업로드'])[1]/preceding::h4[1]</value>
+      <webElementGuid>148f0ba7-fc69-4a40-a947-e7726c23baa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='폴더 업로드'])[1]/preceding::h4[2]</value>
+      <webElementGuid>8702f615-dd70-4903-b231-eae1e124d8b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='폴더']/parent::*</value>
+      <webElementGuid>7a33a1ff-1093-4c86-9880-58dfa59690a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>566788a6-f504-4949-9fea-9d779f21a361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = '폴더' or . = '폴더')]</value>
+      <webElementGuid>888462b2-c9a0-4175-9646-9d5c0cb76f83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

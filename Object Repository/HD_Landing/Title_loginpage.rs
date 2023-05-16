@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Title_loginpage</name>
+   <tag></tag>
+   <elementGuidId>88ffd753-3ee7-4630-b260-e33d416347b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.MuiTypography-root.MuiTypography-bodyTitle.css-1u5mghr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>dfea13f3-0463-480a-9e74-33bc8d43207f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-bodyTitle css-1u5mghr</value>
+      <webElementGuid>7a1d1ac3-2c67-4903-91bb-a00d1e01adb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>한글과컴퓨터 서비스 계정으로 한컴독스 서비스를 이용하세요.</value>
+      <webElementGuid>279bf333-e6e4-42ca-bdbe-b073535412e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiContainer-root MuiContainer-disableGutters css-1k27323&quot;]/main[@class=&quot;MuiBox-root css-5an8xb&quot;]/h2[@class=&quot;MuiTypography-root MuiTypography-bodyTitle css-1u5mghr&quot;]</value>
+      <webElementGuid>02c8de81-8a41-4900-acf2-1f32d2ec6b82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/main/h2</value>
+      <webElementGuid>238766a8-4e37-4d2b-8e09-1c5f76bfc28d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='계정 만들기'])[1]/preceding::h2[1]</value>
+      <webElementGuid>ac76b3ae-4232-46ea-876b-33f25cae17b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='로그인'])[1]/preceding::h2[1]</value>
+      <webElementGuid>2d392aae-4bda-4cbe-8b3a-7640c84ff664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='한글과컴퓨터 서비스 계정으로']/parent::*</value>
+      <webElementGuid>6e3b0b42-31c6-41b8-b2ea-77917452366b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>ef347ce2-5e3a-435d-9b70-02ed3e5eea70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = '한글과컴퓨터 서비스 계정으로 한컴독스 서비스를 이용하세요.' or . = '한글과컴퓨터 서비스 계정으로 한컴독스 서비스를 이용하세요.')]</value>
+      <webElementGuid>ac2c35a7-4d75-4dd4-89d5-89aa6f98367f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

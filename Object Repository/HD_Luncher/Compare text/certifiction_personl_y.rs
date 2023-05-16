@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>certifiction_personl_y</name>
+   <tag></tag>
+   <elementGuidId>aa7d461e-ba03-427b-bbac-5afddf50d84d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-body1.css-cc7v7o</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>09d8fca8-4eed-4ffa-ad03-cfac3fe1e519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-cc7v7o</value>
+      <webElementGuid>929cf801-fabb-4c95-92e4-3d46a0fad9e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>개인용 연간 이용</value>
+      <webElementGuid>9de42c63-38b3-4b40-a345-4b6c59865bad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[@class=&quot;MuiBox-root css-5094bx&quot;]/div[@class=&quot;MuiBox-root css-14f6zur&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-cc7v7o&quot;]</value>
+      <webElementGuid>7dcbe634-e214-4391-b727-28da9031566a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/div/p</value>
+      <webElementGuid>38535e6e-5a1f-4d32-9aa4-c826115ef7fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='언제든지 쉽게 구독을 취소할 수 있어요!'])[1]/following::p[2]</value>
+      <webElementGuid>04d2d6d7-ecdf-4ed8-88e0-31f16540cbdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='활동'])[1]/following::p[3]</value>
+      <webElementGuid>eca5168f-0410-477f-a3a4-3bb7bd93cf37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='연간 이용']/parent::*</value>
+      <webElementGuid>7eadfa1a-89e3-4290-af76-fc54a646c435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/p</value>
+      <webElementGuid>00905e74-2400-4b1e-88a8-05e89edf7482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '개인용 연간 이용' or . = '개인용 연간 이용')]</value>
+      <webElementGuid>09548e1c-3e0e-4ed9-b7eb-0fc90115196a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

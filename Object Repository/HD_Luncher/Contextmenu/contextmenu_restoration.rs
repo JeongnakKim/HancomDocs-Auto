@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>contextmenu_restoration</name>
+   <tag></tag>
+   <elementGuidId>845ad77b-1d3e-4ffb-bfa9-3f26f1742b97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiTypography-root.MuiTypography-body1.MuiListItemText-primary.css-jeghl</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = '복원' or . = '복원')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bff15950-4ee1-4b5d-9f6c-3192001ed31a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-jeghl</value>
+      <webElementGuid>2c48b8e8-35b7-426c-a832-8eff36e41871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>복원</value>
+      <webElementGuid>79ad3518-3506-4eee-a057-c5cb7300cb3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root MuiPopover-root css-1jsv331&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiMenu-paper MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-b3oyi4&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-r8u8y9&quot;]/li[@class=&quot;MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root css-pp3r5a&quot;]/div[@class=&quot;MuiListItemText-root css-1tsvksn&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-jeghl&quot;]</value>
+      <webElementGuid>f4392b21-560c-4d57-94b8-4abf60cb1131</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='필터 초기화'])[1]/following::span[1]</value>
+      <webElementGuid>d78e7ad3-7ec9-4397-bfa6-c0102cb4f14e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='적용'])[1]/following::span[1]</value>
+      <webElementGuid>c95e3530-6ea3-4a9f-80de-f08a7e790c88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='완전히 삭제'])[2]/preceding::span[4]</value>
+      <webElementGuid>d11ee1f7-c719-40b8-a23c-62c255cabb1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>74935303-b2d3-43f9-b864-3363c959add6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '복원' or . = '복원')]</value>
+      <webElementGuid>33cba904-7c54-49ff-ab92-73de79bcf48b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

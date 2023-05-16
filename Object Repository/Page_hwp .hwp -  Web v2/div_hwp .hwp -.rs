@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_hwp .hwp -</name>
+   <tag></tag>
+   <elementGuidId>ac6c124c-5f6c-4da7-a64a-13827fbcb054</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.file_name.text_align_right.inline_panel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='title_bar']/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c97d00ea-0c3d-4ea1-a2ae-cea28a3e9106</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>file_name text_align_right inline_panel</value>
+      <webElementGuid>dd9b46e4-873e-416a-8bfc-c37984f5ef2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>file_name</value>
+      <webElementGuid>470f5516-2842-4387-b1b2-099e289c3a36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>hwp파일 테스트.hwp - 한글</value>
+      <webElementGuid>466ee898-db29-40fa-b4bb-8edc58223fd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;title_bar&quot;)/div[@class=&quot;top_title normal_panel&quot;]/div[@class=&quot;guide inline_panel&quot;]/div[@class=&quot;normal_panel align_item_center&quot;]/div[@class=&quot;file_name text_align_right inline_panel&quot;]</value>
+      <webElementGuid>d022d785-825e-438e-a920-2006452580bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='title_bar']/div[2]/div[2]/div/div</value>
+      <webElementGuid>aa5c2f63-940e-4a4d-9e37-de582199da1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='도움말'])[1]/preceding::div[9]</value>
+      <webElementGuid>35cfbd4c-a216-4843-bc8d-b1e6a1108587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='한글 정보...'])[1]/preceding::div[10]</value>
+      <webElementGuid>f6e59e06-6a26-42e4-997b-97e7bdc9dcf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='hwp파일 테스트.hwp - 한글']/parent::*</value>
+      <webElementGuid>f4b7fd1c-e654-4a36-a344-dc46908665e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>e2276292-fbcf-402a-85c4-ac4a73eb886c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'hwp파일 테스트.hwp - 한글' or . = 'hwp파일 테스트.hwp - 한글')]</value>
+      <webElementGuid>20beccdb-aec5-4954-9a38-c023c09b85e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

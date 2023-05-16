@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BI_Docs</name>
+   <tag></tag>
+   <elementGuidId>66567332-6907-426c-9028-c89e10775a4a</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='나에게 맞는 요금제로 합리적인 서비스를 경험하세요.'])[1]/preceding::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1j23mgk&quot;]/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-1ehj4p5&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-dense css-1by8ed8&quot;]/div[@class=&quot;MuiBox-root css-oajpp9&quot;]/div[@class=&quot;MuiBox-root css-v82dal&quot;]/div[@class=&quot;MuiBox-root css-18ypqnj&quot;]/div[@class=&quot;MuiBox-root css-13meicu&quot;]/div[@class=&quot;MuiBox-root css-1aq8ltq&quot;]/svg[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>f123534b-716a-4766-a05d-ecba04f0b370</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>64</value>
+      <webElementGuid>6caa260a-1693-4789-9cc5-7acbf1ce5273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>324e816b-66d1-4a10-b65e-ffb464246dd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 64 24</value>
+      <webElementGuid>48145cb4-02ec-4211-b612-8fb3453777a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>7c0f9c83-e2af-4b13-94d5-187f69ee59ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>c21d4fd6-623e-4ae8-9e71-1b0eceeb71ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1j23mgk&quot;]/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-1ehj4p5&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-dense css-1by8ed8&quot;]/div[@class=&quot;MuiBox-root css-oajpp9&quot;]/div[@class=&quot;MuiBox-root css-v82dal&quot;]/div[@class=&quot;MuiBox-root css-18ypqnj&quot;]/div[@class=&quot;MuiBox-root css-13meicu&quot;]/div[@class=&quot;MuiBox-root css-1aq8ltq&quot;]/svg[1]</value>
+      <webElementGuid>4f51cafb-f040-4280-b0fc-e80571a481b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='나에게 맞는 요금제로 합리적인 서비스를 경험하세요.'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>f731be10-f7f8-464d-9789-cce32d49fbd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='무료'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ee5e5775-0da4-4e77-b2e6-4684b93f2c6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
