@@ -30,12 +30,12 @@ WebUI.setEncryptedText(findTestObject('Object Repository/HD_Landing/Login_input_
 
 WebUI.click(findTestObject('Object Repository/HD_Landing/button_Login'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/LNB_Menu/Menu_Storage'))
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/LNB_Menu/Menu_Storage'))
 
 '스토리지 공유탭'
-WebUI.click(findTestObject('Object Repository/Page_-/button_'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('null'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_-/h3_hwpx'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('null'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -43,13 +43,13 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_hwpx .hwpx -  Web v2/div_hwpx .hwpx -  ( )'), 'hwpx 보기권한.hwpx - 한글 (읽기 전용)')
+WebUI.verifyElementText(findTestObject('null'), 'hwpx 보기권한.hwpx - 한글 (읽기 전용)')
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_-/h3_hwpx .hwpx'))
+WebUI.click(findTestObject('null'))
 
 WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -57,7 +57,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_hwpx .hwpx -  Web v2/div_hwpx .hwpx -  ( )'), 'hwpx 보기권한.hwpx - 한글 (읽기 전용)')
+WebUI.verifyElementText(findTestObject('null'), 'hwpx 보기권한.hwpx - 한글 (읽기 전용)')
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 

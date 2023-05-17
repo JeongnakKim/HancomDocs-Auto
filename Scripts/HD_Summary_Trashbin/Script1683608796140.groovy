@@ -17,19 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('http://www.hancomdocs.com/')
-
-WebUI.click(findTestObject('HD_Landing/Landing_Appbar_Login'))
-
-WebUI.setText(findTestObject('HD_Landing/Login_input__email'), 'hcnewbiz+prdat1@gmail.com')
-
-WebUI.setEncryptedText(findTestObject('HD_Landing/Login_input__password'), 'IiiKlAiWmeOR474j7JBH5w==')
-
-WebUI.click(findTestObject('HD_Landing/button_Login'))
-
-WebUI.click(findTestObject('HD_Luncher/LNB_Menu/Menu_Storage'))
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Storage'))
 
 WebUI.click(findTestObject('HD_Luncher/Button/button_NewCreate'))
 
@@ -81,29 +69,29 @@ WebUI.click(findTestObject('HD_Luncher/Checkbox/Storage_Checkbox_3'))
 
 WebUI.click(findTestObject('HD_Luncher/Button/button_header_delete'))
 
-WebUI.click(findTestObject('HD_Luncher/LNB_Menu/Menu_Trashbin'))
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Trashbin'))
 
 WebUI.click(findTestObject('HD_Luncher/variable object/svg (1)'))
 
-WebUI.click(findTestObject('HD_Luncher/Contextmenu/contextmenu_restoration'))
+WebUI.click(findTestObject('HD_Luncher/Menu/Contextmenu/contextmenu_restoration'))
 
 WebUI.click(findTestObject('HD_Luncher/variable object/svg (2)'))
 
-WebUI.click(findTestObject('HD_Luncher/Contextmenu/contextmenu_complete delete'))
+WebUI.click(findTestObject('HD_Luncher/Menu/Contextmenu/contextmenu_complete delete'))
 
 WebUI.click(findTestObject('HD_Luncher/Button/button_trashbinclear_OK'))
 
-WebUI.click(findTestObject('HD_Luncher/LNB_Menu/Menu_Storage'))
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Storage'))
 
 WebUI.click(findTestObject('HD_Luncher/variable object/svg'))
 
-WebUI.click(findTestObject('HD_Luncher/Contextmenu/contextmenu_delete'))
+WebUI.click(findTestObject('HD_Luncher/Menu/Contextmenu/contextmenu_delete'))
 
-WebUI.click(findTestObject('HD_Luncher/LNB_Menu/Menu_Trashbin'))
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Trashbin'))
 
 WebUI.click(findTestObject('HD_Luncher/Button/button_trashbinclear'))
 
 WebUI.click(findTestObject('HD_Luncher/Button/button_trashbinclear_OK'))
 
-WebUI.verifyElementText(findTestObject('HD_Luncher/Compare text/Nodata_Trashbin'), '항목 없음')
+WebUI.verifyElementText(findTestObject('HD_Luncher/Compare check/Nodata_Trashbin'), '항목 없음')
 

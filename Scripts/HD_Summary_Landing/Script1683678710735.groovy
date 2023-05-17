@@ -41,7 +41,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/HD_Landing/Login_input_
 
 WebUI.click(findTestObject('Object Repository/HD_Landing/button_Login'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Compare text/certifiction_personl_y'), '개인용 연간 이용')
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Compare check/certifiction_personl_y'), '개인용 연간 이용')
 
 WebUI.navigateToUrl('http://www.hancomdocs.com/home')
 
@@ -71,7 +71,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/HD_Landing/Login_input_
 
 WebUI.click(findTestObject('Object Repository/HD_Landing/button_Login'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Compare text/Title_Setting'), '설정')
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Compare check/Title_Setting'), '설정')
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'))
 

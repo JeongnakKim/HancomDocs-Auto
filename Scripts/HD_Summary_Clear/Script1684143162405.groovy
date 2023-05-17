@@ -18,14 +18,14 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 '저장공간이동'
-WebUI.click(findTestObject('HD_Luncher/LNB_Menu/Menu_Storage'))
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Storage'))
 
 '전체선택 체크박스'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Checkbox/Storage_Checkbox_All'))
 
 WebUI.click(findTestObject('HD_Luncher/Button/button_header_delete'))
 
-WebUI.click(findTestObject('HD_Luncher/LNB_Menu/Menu_Trashbin'))
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Trashbin'))
 
 WebUI.click(findTestObject('HD_Luncher/Button/button_trashbinclear'))
 

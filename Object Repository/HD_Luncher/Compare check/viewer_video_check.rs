@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>viewer_video_check</name>
+   <tag></tag>
+   <elementGuidId>7c679546-f879-469c-95d3-d70390a030f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>video</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//video</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>video</value>
+      <webElementGuid>23ba10c4-3314-4293-adf4-30cec3ba4d86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://api.hancomdocs.com/mydrive/controller/LoadPublicFileAction/mp4%ED%8C%8C%EC%9D%BC%20%ED%85%8C%EC%8A%A4%ED%8A%B8.mp4?fid=781c3b4dc7226808dec36c3330293248673c36e96659ef72&amp;uid=d7e93bc16caf08c4e1970243a9093eafebe7e2c877e4037e</value>
+      <webElementGuid>1ecfa5f0-4990-4681-a91d-727956b6ed7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>preload</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>a43e883f-4f8d-4b43-9a06-17559bbc0bae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root MuiDialog-root css-ve8d41&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiDialog-paperFullScreen css-cc4x4&quot;]/div[@class=&quot;css-1d45h3o&quot;]/div[1]/video[1]</value>
+      <webElementGuid>30c9b606-9930-414e-a5f2-7c4d07cad1a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//video</value>
+      <webElementGuid>0d67891b-31c1-4923-9cf3-693bcbd18a1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//video[@src = 'https://api.hancomdocs.com/mydrive/controller/LoadPublicFileAction/mp4%ED%8C%8C%EC%9D%BC%20%ED%85%8C%EC%8A%A4%ED%8A%B8.mp4?fid=781c3b4dc7226808dec36c3330293248673c36e96659ef72&amp;uid=d7e93bc16caf08c4e1970243a9093eafebe7e2c877e4037e']</value>
+      <webElementGuid>cc1a389a-4da1-4eaf-a022-a32748cb082a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

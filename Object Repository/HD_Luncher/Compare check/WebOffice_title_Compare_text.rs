@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WebOffice_title_Compare_text</name>
+   <tag></tag>
+   <elementGuidId>844d8455-7f25-45b8-b05d-3921add9380b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.file_name.text_align_right.inline_panel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='title_bar']/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>546a49c0-0213-4727-90dc-ffed1a660270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>file_name text_align_right inline_panel</value>
+      <webElementGuid>d50aa98c-596b-41c6-afd0-1c6116ae75d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>file_name</value>
+      <webElementGuid>c4a22466-e932-4054-9eec-1349cb97bd6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>doc파일 테스트.doc - 한워드</value>
+      <webElementGuid>ffe7cb22-7e08-42c5-a2f3-d92674a3e28f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;title_bar&quot;)/div[@class=&quot;top_title normal_panel&quot;]/div[@class=&quot;guide inline_panel&quot;]/div[@class=&quot;normal_panel align_item_center&quot;]/div[@class=&quot;file_name text_align_right inline_panel&quot;]</value>
+      <webElementGuid>275d5383-fc76-485b-8866-f9c5339a6a34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='title_bar']/div[2]/div[2]/div/div</value>
+      <webElementGuid>b7a0593b-fcb3-458b-b771-5899e4b779b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='도움말'])[1]/preceding::div[9]</value>
+      <webElementGuid>e58c2ccc-1954-4244-90c5-fa4bc680453e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='한워드 정보...'])[1]/preceding::div[10]</value>
+      <webElementGuid>297f96f2-4e2c-4933-b497-9ecdeb3b86e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='doc파일 테스트.doc - 한워드']/parent::*</value>
+      <webElementGuid>c22f2dfb-687c-43dc-9d9f-d314f09f98e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>e2ebc6aa-18f8-4000-ae93-228f9b7a787b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'doc파일 테스트.doc - 한워드' or . = 'doc파일 테스트.doc - 한워드')]</value>
+      <webElementGuid>9e43359d-e2ca-4f34-8fe7-262a1d93b6e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

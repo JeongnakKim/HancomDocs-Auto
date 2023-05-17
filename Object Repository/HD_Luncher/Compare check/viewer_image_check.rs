@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>viewer_image_check</name>
+   <tag></tag>
+   <elementGuidId>a54b874e-14f7-4f90-90bf-aaf951d85212</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;draggable&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='draggable']
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a8129c0b-5a96-47aa-9c68-95ffeb118ff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://api.hancomdocs.com/mydrive/mobile/content?fileId=m%3A0%3A1234497392&amp;x-mapi-sid=932a817f-91bd-46a5-a50b-eab5f1847632&amp;ext=jpg</value>
+      <webElementGuid>d5193b7d-11ee-4830-bb3e-f35aaa155707</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>draggable</value>
+      <webElementGuid>33c14b39-24c7-4d6f-9fe8-f8b83d5ee9e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root MuiDialog-root css-ve8d41&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiDialog-paperFullScreen css-cc4x4&quot;]/div[@class=&quot;css-1d45h3o&quot;]/div[1]/img[1]</value>
+      <webElementGuid>edfb67d7-6a4e-4514-919c-3ac180adb29d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='draggable']</value>
+      <webElementGuid>3fa9b836-c34a-4ea2-bfce-f6ec24de18ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/img</value>
+      <webElementGuid>dd6a77e0-c37a-4abd-8ce7-f9aa7a410780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://api.hancomdocs.com/mydrive/mobile/content?fileId=m%3A0%3A1234497392&amp;x-mapi-sid=932a817f-91bd-46a5-a50b-eab5f1847632&amp;ext=jpg' and @alt = 'draggable']</value>
+      <webElementGuid>27e6a7f9-abb6-45b9-8e62-843f8771d1a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

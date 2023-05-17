@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/LNB_Menu/Menu_Storage'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/LNB_Menu/Menu_Storage'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_NewCreate'), FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -43,7 +43,7 @@ WebUI.click(findTestObject('Object Repository/HD_Luncher/Checkbox/Storage_Checkb
 WebUI.click(findTestObject('HD_Luncher/variable object/vo2'), FailureHandling.CONTINUE_ON_FAILURE)
 
 '복사'
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Contextmenu/contextmenu_copy'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/Contextmenu/contextmenu_copy'), FailureHandling.CONTINUE_ON_FAILURE)
 
 '복사폴더 선택'
 WebUI.click(findTestObject('HD_Luncher/variable object/vo1'), FailureHandling.CONTINUE_ON_FAILURE)
@@ -55,7 +55,7 @@ WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_copy_here
 WebUI.click(findTestObject('HD_Luncher/variable object/vo3'), FailureHandling.CONTINUE_ON_FAILURE)
 
 '저장공간'
-WebUI.click(findTestObject('HD_Luncher/LNB_Menu/Menu_Storage'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Storage'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_NewCreate'), FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -77,7 +77,7 @@ WebUI.click(findTestObject('HD_Luncher/Checkbox/Storage_Checkbox_4'), FailureHan
 '컨텍스트메뉴'
 WebUI.click(findTestObject('HD_Luncher/variable object/vo2'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Contextmenu/contextmenu_move'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/Contextmenu/contextmenu_move'), FailureHandling.CONTINUE_ON_FAILURE)
 
 '이동폴더 선택'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/variable object/vo5'), FailureHandling.CONTINUE_ON_FAILURE)
@@ -88,5 +88,5 @@ WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_move_here
 '이동 테스트 폴더 진입'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/variable object/vo6'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/LNB_Menu/Menu_Storage'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Storage'), FailureHandling.CONTINUE_ON_FAILURE)
 

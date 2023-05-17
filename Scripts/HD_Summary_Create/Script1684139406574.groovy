@@ -18,7 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 '새로만들기 버튼'
-WebUI.click(findTestObject('Object Repository/HD_Luncher/LNB_Menu/Menu_NewCreate'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/LNB_Menu/Menu_NewCreate'), FailureHandling.CONTINUE_ON_FAILURE)
 
 '새로만들기->한글'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_LNB_new_hangeul'), FailureHandling.CONTINUE_ON_FAILURE)
@@ -33,7 +33,7 @@ WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/LNB_Menu/Menu_NewCreate'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/LNB_Menu/Menu_NewCreate'), FailureHandling.CONTINUE_ON_FAILURE)
 
 '새로만들기->셀\r\n'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_LNB_new_hancell'), FailureHandling.CONTINUE_ON_FAILURE)
@@ -48,7 +48,7 @@ WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/LNB_Menu/Menu_NewCreate'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/LNB_Menu/Menu_NewCreate'), FailureHandling.CONTINUE_ON_FAILURE)
 
 '새로만들기->쇼'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_LNB_new_hanshow'), FailureHandling.CONTINUE_ON_FAILURE)
@@ -63,7 +63,7 @@ WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/LNB_Menu/Menu_NewCreate'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/LNB_Menu/Menu_NewCreate'), FailureHandling.CONTINUE_ON_FAILURE)
 
 '새로만들기->워드'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_LNB_new_hanword'), FailureHandling.CONTINUE_ON_FAILURE)
@@ -78,7 +78,7 @@ WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/LNB_Menu/Menu_NewCreate'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/LNB_Menu/Menu_NewCreate'), FailureHandling.CONTINUE_ON_FAILURE)
 
 '새로만들기->폼'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_LNB_new_hanform'), FailureHandling.CONTINUE_ON_FAILURE)
@@ -94,7 +94,7 @@ WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
 '햔글메뉴2\r\n'
-WebUI.click(findTestObject('Object Repository/HD_Luncher/LNB_Menu/Menu_Hangeul'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/LNB_Menu/Menu_Hangeul'), FailureHandling.CONTINUE_ON_FAILURE)
 
 '보고서'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Template/Template_hangeul_1'), FailureHandling.CONTINUE_ON_FAILURE)
@@ -149,7 +149,7 @@ WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
 '한셀메뉴\r\n'
-WebUI.click(findTestObject('Object Repository/HD_Luncher/LNB_Menu/Menu_Hancell'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/LNB_Menu/Menu_Hancell'), FailureHandling.CONTINUE_ON_FAILURE)
 
 '자기자본명세서'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Template/Template_hancell_1'), FailureHandling.CONTINUE_ON_FAILURE)
@@ -203,7 +203,7 @@ WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/LNB_Menu/Menu_Hanshow'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/LNB_Menu/Menu_Hanshow'), FailureHandling.CONTINUE_ON_FAILURE)
 
 '도시'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Template/Template_hanshow_1'), FailureHandling.CONTINUE_ON_FAILURE)
@@ -257,7 +257,7 @@ WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/LNB_Menu/Menu_Hanword'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/LNB_Menu/Menu_Hanword'), FailureHandling.CONTINUE_ON_FAILURE)
 
 '이력서'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Template/Template_hanword_1'), FailureHandling.CONTINUE_ON_FAILURE)
@@ -311,5 +311,5 @@ WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/LNB_Menu/Menu_Storage'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Storage'), FailureHandling.CONTINUE_ON_FAILURE)
 
