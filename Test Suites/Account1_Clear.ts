@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>HD_Summary_2</name>
+   <name>Account1_Clear</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,37 +10,23 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>9fbf583b-56c4-41b3-a7f4-48a2ce04db29</testSuiteGuid>
+   <testSuiteGuid>60fca70d-8c1e-42e9-8877-e48809990d72</testSuiteGuid>
    <testCaseLink>
-      <guid>35752e55-d2d0-4c43-bfde-938e5c6c61ba</guid>
+      <guid>a0f31a90-9da8-4048-9baf-dc43639dfa52</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/HD_Summary_Login_Account2</testCaseId>
+      <testCaseId>Test Cases/HD_Summary_Login_Account1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>7f11b367-b23f-4cfc-b5e7-05ec9dc7a305</guid>
+      <guid>1fc726f7-f557-4c0f-86e3-ddf23c46ac8c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/HD_Summary_FileOpen_Home</testCaseId>
+      <testCaseId>Test Cases/HD_Summary_Clear</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>caf3be50-266d-46d6-808d-c595ff63b044</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/HD_Summary_FileOpen_Storage</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>e1e98ae0-73f7-48b6-8ea5-bab04c87a2d8</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/HD_Summary_Contextmenu</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>e1abcba6-31b6-49b3-80a7-d8e1fbc988b7</guid>
+      <guid>cff4b402-39d9-4952-8099-baac515c1109</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/HD_Summary_Logout</testCaseId>

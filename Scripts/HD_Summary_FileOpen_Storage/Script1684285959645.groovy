@@ -43,7 +43,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Compare check/WebOffice_title_Compare_text'), 'ods파일 테스트.ods - 한셀', 
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/WebOffice_title_Compare_text'), 'ods파일 테스트.ods - 한셀', 
     FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
@@ -58,7 +58,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Compare check/WebOffice_title_Compare_text'), 'owpml파일 테스트.owpml - 한글', 
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/WebOffice_title_Compare_text'), 'owpml파일 테스트.owpml - 한글', 
     FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
@@ -94,21 +94,27 @@ to.addProperty('xpath', ConditionType.EQUALS, '/html/body/div[4]/div[3]/div/div[
 'audio객체를 verify element present 일반함수로 사용 불가해서 script작성'
 boolean isElementPresent = WebUI.verifyElementPresent(to, 10)
 
-WebUI.click(findTestObject('Object Repository/Page_-/button_viewer_back'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('HD_Luncher/Button/button_back_viewer'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_mp4_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Compare check/viewer_video_check'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Check_Object/viewer_video_check'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_-/button_viewer_back'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('HD_Luncher/Button/button_back_viewer'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_jpeg_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Check_Object/viewer_image_check'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('HD_Luncher/Button/button_back_viewer'), FailureHandling.CONTINUE_ON_FAILURE)
 
 'jpg파일클릭'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_jpg_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
 
 '이미지 정상 표시 확인'
-WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Compare check/viewer_image_check'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Check_Object/viewer_image_check'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_-/button_viewer_back'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('HD_Luncher/Button/button_back_viewer'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_odp_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -118,7 +124,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Compare check/WebOffice_title_Compare_text'), 'odp파일 테스트.odp - 한쇼', 
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/WebOffice_title_Compare_text'), 'odp파일 테스트.odp - 한쇼', 
     FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
@@ -133,7 +139,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Compare check/WebOffice_title_Compare_text'), 'hwpx파일 테스트.hwpx - 한글', 
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/WebOffice_title_Compare_text'), 'hwpx파일 테스트.hwpx - 한글', 
     FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
@@ -148,7 +154,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Compare check/WebOffice_title_Compare_text'), 'hwp파일 테스트.hwp - 한글', 
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/WebOffice_title_Compare_text'), 'hwp파일 테스트.hwp - 한글', 
     FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
@@ -163,7 +169,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Compare check/WebOffice_title_Compare_text'), 'docx파일 테스트.docx - 한워드', 
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/WebOffice_title_Compare_text'), 'docx파일 테스트.docx - 한워드', 
     FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
@@ -178,7 +184,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Compare check/WebOffice_title_Compare_text'), 'cell파일 테스트.cell - 한셀', 
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/WebOffice_title_Compare_text'), 'cell파일 테스트.cell - 한셀', 
     FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
@@ -193,7 +199,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Compare check/WebOffice_title_Compare_text'), 'doc파일 테스트.doc - 한워드', 
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/WebOffice_title_Compare_text'), 'doc파일 테스트.doc - 한워드', 
     FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
@@ -208,27 +214,14 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Compare check/WebOffice_title_Compare_text'), 'xls파일 테스트.xls - 한셀', 
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/WebOffice_title_Compare_text'), 'xls파일 테스트.xls - 한셀', 
     FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_xlsx_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Compare check/WebOffice_title_Compare_text'), 'xlsx파일 테스트.xlsx - 한셀', 
-    FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_Show_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -238,7 +231,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Compare check/WebOffice_title_Compare_text'), 'show파일 테스트.show - 한쇼', 
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/WebOffice_title_Compare_text'), 'show파일 테스트.show - 한쇼', 
     FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
@@ -247,9 +240,9 @@ WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_txt_Account2'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Compare check/viewer_etc_check'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Check_Object/viewer_etc_check'))
 
-WebUI.click(findTestObject('Object Repository/Page_-/button_viewer_back'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('HD_Luncher/Button/button_back_viewer'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_pptx_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -259,7 +252,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Compare check/WebOffice_title_Compare_text'), 'pptx파일 테스트.pptx - 한쇼', 
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/WebOffice_title_Compare_text'), 'pptx파일 테스트.pptx - 한쇼', 
     FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
@@ -274,7 +267,24 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Compare check/WebOffice_title_Compare_text'), 'pdf파일 테스트.pdf - 한PDF', 
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/WebOffice_title_Compare_text'), 'pdf파일 테스트.pdf - 한PDF', 
+    FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_xlsx_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(5)
+
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/WebOffice_title_Compare_text'), 'xlsx파일 테스트.xlsx - 한셀', 
     FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
@@ -284,38 +294,32 @@ WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 'gif파일 클릭\r\n'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_gif_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Compare check/viewer_image_check'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Check_Object/viewer_image_check'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_-/button_viewer_back'), FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_bmp_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Compare check/viewer_image_check'), FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/Page_-/button_viewer_back'), FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_jpeg_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Compare check/viewer_image_check'), FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/Page_-/button_viewer_back'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('HD_Luncher/Button/button_back_viewer'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_bmp_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Compare check/viewer_image_check'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Check_Object/viewer_image_check'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_-/button_viewer_back'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('HD_Luncher/Button/button_back_viewer'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_bmp_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Check_Object/viewer_image_check'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('HD_Luncher/Button/button_back_viewer'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_wav_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
 
 'audio객체를 verify element present 일반함수로 사용 불가해서 script작성'
 isElementPresent = WebUI.verifyElementPresent(to, 10)
 
-WebUI.click(findTestObject('Object Repository/Page_-/button_viewer_back'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('HD_Luncher/Button/button_back_viewer'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_png_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Compare check/viewer_image_check'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Check_Object/viewer_image_check'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_-/button_viewer_back'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('HD_Luncher/Button/button_back_viewer'), FailureHandling.CONTINUE_ON_FAILURE)
 

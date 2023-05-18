@@ -6,12 +6,12 @@
    <elementGuidId>7c679546-f879-469c-95d3-d70390a030f4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>video</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//video</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>video</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

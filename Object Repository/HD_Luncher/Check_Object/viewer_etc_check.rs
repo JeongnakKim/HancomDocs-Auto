@@ -6,12 +6,12 @@
    <elementGuidId>53ff8642-7bfb-4829-98b6-f78ac272eabc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>p.MuiTypography-root.MuiTypography-body1.css-snyd6q</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//p[(text() = '미리보기를 할 수 없는 파일입니다.' or . = '미리보기를 할 수 없는 파일입니다.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-body1.css-snyd6q</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

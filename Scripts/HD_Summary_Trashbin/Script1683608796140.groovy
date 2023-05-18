@@ -93,5 +93,5 @@ WebUI.click(findTestObject('HD_Luncher/Button/button_trashbinclear'))
 
 WebUI.click(findTestObject('HD_Luncher/Button/button_trashbinclear_OK'))
 
-WebUI.verifyElementText(findTestObject('HD_Luncher/Compare check/Nodata_Trashbin'), '항목 없음')
+WebUI.verifyElementText(findTestObject('HD_Luncher/Text/Nodata_Trashbin'), '항목 없음')
 

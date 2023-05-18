@@ -6,12 +6,12 @@
    <elementGuidId>6626f683-cfc3-4e6f-8293-538e4aacad14</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.css-1d45h3o</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>/html/body/div[5]/div[3]/div/div[1]/div/audio</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1d45h3o</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

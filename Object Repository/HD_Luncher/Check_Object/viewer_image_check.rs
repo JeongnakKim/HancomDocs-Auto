@@ -6,13 +6,13 @@
    <elementGuidId>a54b874e-14f7-4f90-90bf-aaf951d85212</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>img[alt=&quot;draggable&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//img[@alt='draggable']
 </value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;draggable&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

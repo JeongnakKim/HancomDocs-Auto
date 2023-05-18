@@ -33,5 +33,11 @@ WebUI.click(findTestObject('Object Repository/HD_Landing/button_Login'), Failure
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/LNB_Menu/Menu_Storage'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('null'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_Folder_FomatFolder'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/HD_Luncher/BodyTable/Storage/context_storage_9'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/Contextmenu/contextmenu_viewer'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_back_viewer'), FailureHandling.CONTINUE_ON_FAILURE)
 

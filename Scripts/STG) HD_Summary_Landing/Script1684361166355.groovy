@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://www.hancomdocs.com/')
+WebUI.navigateToUrl('http://www.stg.hancomdocs.com/')
 
 WebUI.verifyElementText(findTestObject('Object Repository/HD_Landing/MainCopy'), '이제 한컴오피스 구독으로')
 
@@ -31,11 +31,11 @@ WebUI.click(findTestObject('Object Repository/HD_Landing/plancard_subscribe_pers
 
 WebUI.verifyElementText(findTestObject('Object Repository/HD_Landing/button_Login'), '로그인')
 
-WebUI.navigateToUrl('http://www.hancomdocs.com/')
+WebUI.navigateToUrl('http://www.stg.hancomdocs.com/')
 
 WebUI.click(findTestObject('Object Repository/HD_Landing/plancard_subscribe_personal_y'))
 
-WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+prdat1@gmail.com')
+WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+stgat1@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/HD_Landing/Login_input__password'), 'IiiKlAiWmeOR474j7JBH5w==')
 
@@ -43,7 +43,7 @@ WebUI.click(findTestObject('Object Repository/HD_Landing/button_Login'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/certifiction_personl_y'), '개인용 연간 이용')
 
-WebUI.navigateToUrl('http://www.hancomdocs.com/home')
+WebUI.navigateToUrl('http://www.stg.hancomdocs.com/home')
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'))
 
@@ -55,17 +55,17 @@ WebUI.click(findTestObject('Object Repository/HD_Landing/plancard_subscribe_biz_
 
 WebUI.verifyElementText(findTestObject('Object Repository/HD_Landing/button_Login'), '로그인')
 
-WebUI.navigateToUrl('http://www.hancomdocs.com/')
+WebUI.navigateToUrl('http://www.stg.hancomdocs.com/')
 
 WebUI.click(findTestObject('Object Repository/HD_Landing/plancard_subscribe_biz_y'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/HD_Landing/button_Login'), '로그인')
 
-WebUI.navigateToUrl('http://www.hancomdocs.com/')
+WebUI.navigateToUrl('http://www.stg.hancomdocs.com/')
 
 WebUI.click(findTestObject('Object Repository/HD_Landing/button_Cupon'))
 
-WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+prdat1@gmail.com')
+WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+stgat1@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/HD_Landing/Login_input__password'), 'IiiKlAiWmeOR474j7JBH5w==')
 
@@ -103,17 +103,17 @@ WebUI.click(findTestObject('Object Repository/HD_Landing/plancard_subscribe_pers
 
 WebUI.verifyElementText(findTestObject('Object Repository/HD_Landing/button_Login'), '로그인')
 
-WebUI.navigateToUrl('http://www.hancomdocs.com/plans')
+WebUI.navigateToUrl('http://www.stg.hancomdocs.com/plans')
 
 WebUI.click(findTestObject('Object Repository/HD_Landing/plancard_subscribe_personal_y_plan'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/HD_Landing/button_Login'), '로그인')
 
-WebUI.navigateToUrl('http://www.hancomdocs.com/plans')
+WebUI.navigateToUrl('http://www.stg.hancomdocs.com/plans')
 
 WebUI.click(findTestObject('HD_Landing/plancard_subscribe_biz_m_plan'))
 
-WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+prdat1@gmail.com')
+WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+stgat1@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/HD_Landing/Login_input__password'), 'IiiKlAiWmeOR474j7JBH5w==')
 
@@ -121,7 +121,7 @@ WebUI.click(findTestObject('Object Repository/HD_Landing/button_Login'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/HD_Landing/certifiction_biz_m'), '기업용 월간 이용')
 
-WebUI.navigateToUrl('http://www.hancomdocs.com/home')
+WebUI.navigateToUrl('http://www.stg.hancomdocs.com/home')
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'))
 
@@ -133,5 +133,5 @@ WebUI.click(findTestObject('Object Repository/HD_Landing/plancard_subscribe_biz_
 
 WebUI.verifyElementText(findTestObject('Object Repository/HD_Landing/button_Login'), '로그인')
 
-WebUI.navigateToUrl('http://www.hancomdocs.com/')
+WebUI.navigateToUrl('http://www.stg.hancomdocs.com/')
 
