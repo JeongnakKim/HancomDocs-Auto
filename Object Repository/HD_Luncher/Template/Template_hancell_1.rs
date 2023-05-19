@@ -6,11 +6,11 @@
    <elementGuidId>b5790be1-9887-46f2-a3c4-f0c900770013</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//div[(text() = '자기 자본 명세서' or . = '자기 자본 명세서')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/main/div/div/div[2]/div/div[2]/div/div</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>055e4083-0a24-4784-bb3c-76a85e2d85e7</webElementGuid>
+      <webElementGuid>3e0b3102-e89e-4365-8993-b09e01eaefe8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiBox-root css-11aexy4</value>
-      <webElementGuid>6a80f63d-4ab0-4be9-98a6-8548b0346d70</webElementGuid>
+      <webElementGuid>b3024abb-f1e2-4305-b6ef-6d3eb7277e7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>자기 자본 명세서</value>
-      <webElementGuid>a548ec59-870b-4b8f-a50e-4fb7e7a013a3</webElementGuid>
+      <webElementGuid>1e377e9c-822e-4b25-9a68-15fef69c2e84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[@class=&quot;MuiBox-root css-18174ce&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;css-9jay18&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 css-1cm0wb0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-11aexy4&quot;]</value>
-      <webElementGuid>96a855e8-7ee5-49ef-b932-ade7a3eef46a</webElementGuid>
+      <webElementGuid>8c413375-f897-4611-b319-430cfd3a2f55</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div/div/div[2]/div/div[2]/div/div</value>
-      <webElementGuid>b06f1af1-942e-415d-9fc8-5d55a0a8c41c</webElementGuid>
+      <webElementGuid>28cee826-829d-4649-8ff7-0df56fd6c58d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='활동'])[1]/following::div[17]</value>
-      <webElementGuid>1192f8ef-4a69-43ce-97ce-4ff9ea042df3</webElementGuid>
+      <webElementGuid>756a4f4d-c0cc-45ec-9c3c-3e51c51cb409</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서식 더 보기'])[1]/preceding::div[14]</value>
-      <webElementGuid>1fc56435-659a-4d61-ae6e-ece23fc52f9c</webElementGuid>
+      <webElementGuid>458fff7b-7c44-4cb6-9dd8-1ce69badd34d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='최근'])[1]/preceding::div[16]</value>
-      <webElementGuid>10340a98-6d1e-48b7-86c7-280899702f1f</webElementGuid>
+      <webElementGuid>90956e16-0d7c-4208-aa12-ae1b8032766b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//main/div/div/div[2]/div/div[2]/div/div</value>
-      <webElementGuid>81ec1582-d19f-4f2c-abf8-972e2090ef60</webElementGuid>
+      <webElementGuid>23e0feca-2228-4ed1-998f-10b69bcfa7de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '자기 자본 명세서' or . = '자기 자본 명세서')]</value>
-      <webElementGuid>0d55fa2c-c940-488f-897f-d3d3dcda8fa2</webElementGuid>
+      <webElementGuid>91e69896-8c38-4311-b76b-02ec5f9344d6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

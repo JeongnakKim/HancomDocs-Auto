@@ -17,3 +17,245 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.navigateToUrl('https://www.hancomdocs.com/', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/HD_Landing/Landing_Appbar_Login'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+prdat2@gmail.com', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.setEncryptedText(findTestObject('Object Repository/HD_Landing/Login_input__password'), 'IiiKlAiWmeOR474j7JBH5w==', 
+    FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/HD_Landing/button_Login'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/Home_Share_Tab'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_-/Body_Home_Share_1'), 'hwpx 편집권한', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_-/Body_Home_Share_2'), 'hwpx 보기권한', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/Open_hwpx_edit_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/WebOffice_title_Compare_text'), 'hwpx 편집권한.hwpx - 한글', 
+    FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/Open_hwpx_view_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/WebOffice_title_Compare_text'), 'hwpx 보기권한.hwpx - 한글 (읽기 전용)', 
+    FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/Home_Favorite_Tab'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_-/Body_Home_Favorite_1'), 'odp파일 테스트', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_-/Body_Home_Favorite_2'), 'ods파일 테스트', FailureHandling.CONTINUE_ON_FAILURE)
+
+'기존 저장된 파일이름 오픈 객체 불러옴'
+WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Home/Open_ods_Accout2'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/WebOffice_title_Compare_text'), 'ods파일 테스트.ods - 한셀', 
+    FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/Menu_9'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_-/LNB_makedocs_txt'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/LNB_makedocs_txt'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_-/LNB_makedos_dropdown_hwp_txt'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/LNB_makedocs_txt'))
+
+'닫기'
+WebUI.click(findTestObject('Object Repository/Page_-/Menu_9_close'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/LNB_Menu/Menu_Hangeul'), FailureHandling.CONTINUE_ON_FAILURE)
+
+'한글템플릿 접기'
+WebUI.click(findTestObject('Object Repository/Page_-/button_app_template_close'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_-/Buotton_App_hangeul_new'))
+
+'한글템플릿 펴기'
+WebUI.click(findTestObject('Object Repository/Page_-/button_app_tamplate_open'), FailureHandling.CONTINUE_ON_FAILURE)
+
+'템플릿 사진 추가 필요\r\n'
+WebUI.verifyElementVisible(findTestObject('HD_Luncher/Template/Template_hangeul_1'))
+
+WebUI.click(findTestObject('HD_Luncher/File_Folder Open/Home/Open_hwp_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'hwp파일 테스트.hwp - 한글', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/Home_Share_Tab'), FailureHandling.CONTINUE_ON_FAILURE)
+
+'공유 1번항목'
+WebUI.verifyElementText(findTestObject('Object Repository/Page_-/Body_Home_Share_1'), 'hwpx 편집권한', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/Home_Favorite_Tab'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_-/Nodata_favorite'))
+
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Hancell'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/button_app_template_close'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Page_-/Buotton_App_hancell_new'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/button_app_tamplate_open'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('HD_Luncher/Template/Template_hancell_1'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('HD_Luncher/File_Folder Open/Home/Open_xlsx_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'xlsx파일 테스트.xlsx - 한셀', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/Home_Share_Tab'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Page_-/Nodata_share'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/Home_Favorite_Tab'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('Page_-/Body_Home_Favorite_1'), 'ods파일 테스트', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Hanshow'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/button_app_template_close'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Page_-/Buotton_App_hanshow_new'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/button_app_tamplate_open'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('HD_Luncher/Template/Template_hanshow_1'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('HD_Luncher/File_Folder Open/Home/Open_pptx_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'pptx파일 테스트.pptx - 한쇼', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/Home_Share_Tab'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Page_-/Nodata_share'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/Home_Favorite_Tab'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('Page_-/Body_Home_Favorite_1'), 'odp파일 테스트', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Hanword'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/button_app_template_close'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Page_-/Buotton_App_hanword_new'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/button_app_tamplate_open'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('HD_Luncher/Template/Template_hanword_1'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('HD_Luncher/File_Folder Open/Home/Open_docx_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'docx파일 테스트.docx - 한워드', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/Home_Share_Tab'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Page_-/Nodata_share'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/Home_Favorite_Tab'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Page_-/Nodata_favorite'))
+
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Hanform'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/button_app_template_close'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Page_-/Buotton_App_hanform_new'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/button_app_tamplate_open'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('HD_Luncher/File_Folder Open/Home/Open_hfrm_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('HD_Luncher/Menu/Tab/hfrm_question_tab'), '질문', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_-/Home_Favorite_Tab'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Page_-/Nodata_favorite'))
+

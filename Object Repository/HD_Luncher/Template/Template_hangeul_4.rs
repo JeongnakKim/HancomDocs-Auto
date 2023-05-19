@@ -6,11 +6,11 @@
    <elementGuidId>9ce807d2-6145-4744-9c47-1f9c777c0de5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//div[(text() = '회의록' or . = '회의록')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/main/div/div/div[2]/div/div[5]/div/div</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>7de050d3-70c1-41aa-a1a3-ee70848822ca</webElementGuid>
+      <webElementGuid>def1f130-297a-410c-93b0-50cc90746697</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiBox-root css-1sfpm82</value>
-      <webElementGuid>97518d51-dd93-489a-893e-ebc9a8d269f3</webElementGuid>
+      <webElementGuid>99671b4b-0ce8-42b5-947e-47f064128b17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>회의록</value>
-      <webElementGuid>423064c9-59cc-4fbc-b1db-ce9ca517ccec</webElementGuid>
+      <webElementGuid>007f6dd4-fd7f-4231-9988-d72f19a67dd4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[@class=&quot;MuiBox-root css-18174ce&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;css-9jay18&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 css-1cm0wb0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1sfpm82&quot;]</value>
-      <webElementGuid>0b195d4b-5deb-4555-aab5-d012d9c86a13</webElementGuid>
+      <webElementGuid>977792d0-162d-4840-9b2a-8de66740b0df</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div/div/div[2]/div/div[5]/div/div</value>
-      <webElementGuid>50351a66-5624-45bc-af4f-ac97db1d5719</webElementGuid>
+      <webElementGuid>e259d3d7-d0e9-4ea4-b743-5adbd4744e90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='활동'])[1]/following::div[29]</value>
-      <webElementGuid>35f942f0-41c0-41b0-a580-831dc0e3bde7</webElementGuid>
+      <webElementGuid>f6a81d33-6501-4d83-a405-03c62cf892e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서식 더 보기'])[1]/preceding::div[2]</value>
-      <webElementGuid>ded7b40f-cc67-47cb-b0f4-87607c9aafd2</webElementGuid>
+      <webElementGuid>adbc66a2-8ebf-42da-89b3-5b5b4624b278</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='최근'])[1]/preceding::div[4]</value>
-      <webElementGuid>ea4e15b6-a8ef-49ff-ad92-2c6fac583199</webElementGuid>
+      <webElementGuid>32b70018-2979-4bff-8727-7c51fd3c196f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div</value>
-      <webElementGuid>93f5e010-42c2-4948-81e4-7315e24c7fa6</webElementGuid>
+      <webElementGuid>79bab475-2d3b-40bd-9314-ff512d397139</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '회의록' or . = '회의록')]</value>
-      <webElementGuid>8471e871-28d4-43bf-a7a1-807f28096be9</webElementGuid>
+      <webElementGuid>04ee4b63-8be8-433f-9b16-ce21189c9bb1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

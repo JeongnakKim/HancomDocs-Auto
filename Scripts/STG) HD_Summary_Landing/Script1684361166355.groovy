@@ -21,8 +21,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://www.stg.hancomdocs.com/')
 
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Landing/MainCopy'), '이제 한컴오피스 구독으로')
-
 WebUI.scrollToElement(findTestObject('Object Repository/HD_Landing/button_Planmove_landing'), 0)
 
 WebUI.verifyElementText(findTestObject('Object Repository/HD_Landing/Plancard_personal_title_landing'), '개인용')

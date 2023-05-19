@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Template_hancell_3</name>
+   <name>div_owpml</name>
    <tag></tag>
-   <elementGuidId>d7a7e1d9-49ca-46bc-ad70-3c05a5ad8183</elementGuidId>
+   <elementGuidId>f742d951-98c3-4cbc-a1e5-d6e3c26e816e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[(text() = '포트폴리오 배분' or . = '포트폴리오 배분')]</value>
+         <value>//div[@id='root']/div/div/main/div[3]/div[2]/div[2]/div/div/div[5]/div/div/div</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,78 +22,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>3ffa9c15-6567-42e3-be25-74d158df08bc</webElementGuid>
+      <webElementGuid>21fb8a4d-ef0c-42da-bc8b-9734af801a0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiBox-root css-11aexy4</value>
-      <webElementGuid>374642cc-2372-41a0-84dd-fa2f6425a4a4</webElementGuid>
+      <value>MuiBox-root css-1pnq6ic</value>
+      <webElementGuid>1c38c761-038e-4b0a-be4a-2b4f2aa5c649</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>포트폴리오 배분</value>
-      <webElementGuid>e70acc1d-1310-46af-91d6-baccbc1d7dfa</webElementGuid>
+      <value>owpml파일 테스트</value>
+      <webElementGuid>07680b90-8e93-440b-bbfe-7720056b0377</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[@class=&quot;MuiBox-root css-18174ce&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;css-9jay18&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 css-1cm0wb0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-11aexy4&quot;]</value>
-      <webElementGuid>b7d2e3a9-c8a5-418e-8dfa-19da3ee35cd6</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[@class=&quot;MuiBox-root css-18174ce&quot;]/div[@class=&quot;list MuiBox-root css-1k2xkov&quot;]/div[@class=&quot;MuiBox-root css-1eaexpl&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;row MuiBox-root css-5f709d&quot;]/div[@class=&quot;MuiBox-root css-14miu69&quot;]/div[@class=&quot;MuiBox-root css-oynn15&quot;]/div[@class=&quot;MuiBox-root css-1pnq6ic&quot;]</value>
+      <webElementGuid>bb9c9a51-4ccd-4f73-824b-1ec9320fccd9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div/main/div/div/div[2]/div/div[4]/div/div</value>
-      <webElementGuid>d5687a45-cd34-42dc-8af5-a8550d683fd6</webElementGuid>
+      <value>//div[@id='root']/div/div/main/div[3]/div[2]/div[2]/div/div/div[5]/div/div/div</value>
+      <webElementGuid>a2734574-56a5-477b-824c-297e4222c365</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='활동'])[1]/following::div[25]</value>
-      <webElementGuid>05a0f247-3f7a-4ec7-9f20-dee961ceeae1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='나'])[2]/following::div[5]</value>
+      <webElementGuid>367369af-e3ca-442f-9e27-43ef126daccb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='서식 더 보기'])[1]/preceding::div[6]</value>
-      <webElementGuid>c02b5ffd-dff5-4091-88a4-2b3645a8533f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='어제'])[2]/following::div[7]</value>
+      <webElementGuid>ee6230c9-f0ec-4bef-92fe-10a7cf45e9e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='최근'])[1]/preceding::div[8]</value>
-      <webElementGuid>b8f6ab5c-3f69-40b6-afec-cffe02045d18</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='어제'])[3]/preceding::div[4]</value>
+      <webElementGuid>0946eea3-312b-4aaa-9ef5-98fcb1c87150</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div[4]/div/div</value>
-      <webElementGuid>875ab737-d7af-48b5-821e-c2d52c134485</webElementGuid>
+      <value>//div[2]/div/div/div[5]/div/div/div</value>
+      <webElementGuid>d4454fab-2e1c-43a9-9e07-fb9acc8d7b5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = '포트폴리오 배분' or . = '포트폴리오 배분')]</value>
-      <webElementGuid>eae89c56-5b08-4492-85dd-67d24b3a01cf</webElementGuid>
+      <value>//div[(text() = 'owpml파일 테스트' or . = 'owpml파일 테스트')]</value>
+      <webElementGuid>c01de8e1-08c9-4ada-b4c8-e302d5359580</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

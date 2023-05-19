@@ -6,11 +6,11 @@
    <elementGuidId>0254e3a8-cf1c-4e15-a3b6-bc044a789824</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//div[(text() = '도시' or . = '도시')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/main/div/div/div[2]/div/div[2]/div/div</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8270745e-fce5-416b-a765-b67c8f9cf3db</webElementGuid>
+      <webElementGuid>d87faab7-086f-4645-a4e2-eb11b196ba70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiBox-root css-1lpvoe6</value>
-      <webElementGuid>87532939-6d88-48b6-a580-fe0e54d345a0</webElementGuid>
+      <webElementGuid>d0fc863e-0b1b-43a9-b942-a379b5bbba9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>도시</value>
-      <webElementGuid>02b3c754-549a-47f3-bb05-94517ed6f3f2</webElementGuid>
+      <webElementGuid>a9f15d3d-13b3-41cf-8102-7b3cdfa6ab0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[@class=&quot;MuiBox-root css-18174ce&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;css-9jay18&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 css-1cm0wb0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1lpvoe6&quot;]</value>
-      <webElementGuid>175e3252-90e4-4a62-821b-296f1b4c088d</webElementGuid>
+      <webElementGuid>f2b2c910-7def-467d-a921-e506db074512</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div/div/div[2]/div/div[2]/div/div</value>
-      <webElementGuid>aaafbae5-d492-463d-87fb-752aa8a69621</webElementGuid>
+      <webElementGuid>d0615f8a-5c5b-4e13-b30c-0a9c7550f3bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='활동'])[1]/following::div[17]</value>
-      <webElementGuid>6c3515ad-94f0-4352-a8de-cd3cfdb04995</webElementGuid>
+      <webElementGuid>84ba6038-50e6-4d65-9f77-ab1ea7bfe262</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서식 더 보기'])[1]/preceding::div[14]</value>
-      <webElementGuid>1fc3d4d4-ef9f-48a1-876b-0aff665781da</webElementGuid>
+      <webElementGuid>52ed3152-6423-4712-91e1-cf4b0c3d2055</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='최근'])[1]/preceding::div[16]</value>
-      <webElementGuid>f308440e-0eb4-4a5f-9765-9640c471318d</webElementGuid>
+      <webElementGuid>11dfb851-11c5-4988-8248-5000c8847fff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//main/div/div/div[2]/div/div[2]/div/div</value>
-      <webElementGuid>113ee747-beb7-402b-ae36-29c35af84472</webElementGuid>
+      <webElementGuid>25600826-12e2-4a76-bf70-b645d4af1bcb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '도시' or . = '도시')]</value>
-      <webElementGuid>6adc022e-e4df-4c6b-b887-26842e56b7ed</webElementGuid>
+      <webElementGuid>114604d4-ac4e-4675-aa53-ec2a01118908</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

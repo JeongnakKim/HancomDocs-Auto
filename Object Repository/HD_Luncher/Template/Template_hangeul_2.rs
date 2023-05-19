@@ -6,11 +6,11 @@
    <elementGuidId>918db3f8-05fd-45e9-a11f-76752a735ccf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//div[(text() = '주간 업무 보고' or . = '주간 업무 보고')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/main/div/div/div[2]/div/div[3]/div/div</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>84b612e4-8561-44dc-bceb-0dc1152e30f7</webElementGuid>
+      <webElementGuid>602079fb-3a5c-4e14-a3a7-f685021b705c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiBox-root css-1sfpm82</value>
-      <webElementGuid>bcaa0917-bdaf-4911-a9be-547ada711af8</webElementGuid>
+      <webElementGuid>73bf3ce7-cda0-436d-951d-6299ec178f40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>b5b158ad-84a2-44b2-bdf5-4c4a8377cf12</webElementGuid>
+      <webElementGuid>25477980-d5e5-4d6c-b22e-a8a6aa672f30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>df095eeb-b3dd-4efd-94e8-73805a15e1f8</webElementGuid>
+      <webElementGuid>40adb130-706a-4c98-b666-cda322126441</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>주간 업무 보고</value>
-      <webElementGuid>fe107feb-8a0f-451b-899b-2d9569e66e85</webElementGuid>
+      <webElementGuid>f116b92f-52ba-4141-b0bb-b25ac5ceb576</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[@class=&quot;MuiBox-root css-18174ce&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;css-9jay18&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 css-1cm0wb0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1sfpm82&quot;]</value>
-      <webElementGuid>e3bb5434-c99b-4636-9d91-6a4518e4aac1</webElementGuid>
+      <webElementGuid>8ef7d0a9-ddb5-4284-9755-37f9d92fe353</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div/div/div[2]/div/div[3]/div/div</value>
-      <webElementGuid>d4c11cce-d269-4da9-8ce1-d7a51221693f</webElementGuid>
+      <webElementGuid>14d004b8-b167-41ed-b09d-acf467ec2c87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='활동'])[1]/following::div[21]</value>
-      <webElementGuid>2146cedf-acbd-4b7c-95a6-dc9f8ba4224f</webElementGuid>
+      <webElementGuid>1c8e38e2-773d-4280-bce1-dc7c6b974e9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='서식 더 보기'])[1]/preceding::div[10]</value>
-      <webElementGuid>4e8f9023-572b-4095-9165-703636e705d6</webElementGuid>
+      <webElementGuid>4aba7ddf-b2b5-4e9d-b119-8db9c68a4329</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='최근'])[1]/preceding::div[12]</value>
-      <webElementGuid>ae5d7b10-5c9f-4e72-90bb-5a22fbfade0d</webElementGuid>
+      <webElementGuid>a4a03786-bc5e-4d6b-863e-081f7dc15dc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[3]/div/div</value>
-      <webElementGuid>f0a8e711-37f9-4e97-b63c-a2493beea390</webElementGuid>
+      <webElementGuid>48e6abb4-affe-49b7-bdb1-8550641b6757</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '주간 업무 보고' or . = '주간 업무 보고')]</value>
-      <webElementGuid>c4510278-16a3-4d2e-ad30-eb95fb9d80d5</webElementGuid>
+      <webElementGuid>9244ae5f-1b57-45d1-bdd3-54cb8990f6f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='한글 문서 만들기'])[1]/following::div[1]</value>
-      <webElementGuid>c6915a67-2cec-4632-bfc5-5a9d18d08cf7</webElementGuid>
+      <webElementGuid>fa55b735-4173-425e-bcee-51eda93a5a91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='필터 초기화'])[1]/following::div[10]</value>
-      <webElementGuid>23994467-5c98-4eb7-8006-ea530b0c356b</webElementGuid>
+      <webElementGuid>780bf9a1-0831-4577-92cc-2a6110e67699</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='한쇼 문서 만들기'])[1]/preceding::div[4]</value>
-      <webElementGuid>88e6ce4f-95da-4cab-91e1-fff510234638</webElementGuid>
+      <webElementGuid>99ad5eaa-6785-43e4-8cf9-ec6b66e3965c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[3]/div/div[2]</value>
-      <webElementGuid>85e20817-9aca-4dc1-90a0-3b4305a45e00</webElementGuid>
+      <webElementGuid>b2392b1d-a7d8-4629-88a7-70f7f59c9443</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '한셀 문서 만들기' or . = '한셀 문서 만들기')]</value>
-      <webElementGuid>693c28b8-2a5a-4a6c-a0a6-4ca9a4e7423f</webElementGuid>
+      <webElementGuid>c51da12f-53c3-49e8-aa58-f799877ae9c9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
