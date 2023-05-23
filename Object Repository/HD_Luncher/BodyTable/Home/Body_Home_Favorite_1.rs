@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Body_Home_Favorite_1</name>
+   <tag></tag>
+   <elementGuidId>96ce8b4f-073a-4e31-accb-f68e032768c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[1]/main/div[3]/div[2]/div[2]/div/div/div[1]/div[1]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-1pnq6ic</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>397746f1-5d8a-446b-b511-b40e18ab3f81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-1pnq6ic</value>
+      <webElementGuid>0b850e81-ee40-46ad-9864-6ab9e46eecd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>odp파일 테스트</value>
+      <webElementGuid>e2fb504a-a936-43f2-954b-b6a70ed0906e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[@class=&quot;MuiBox-root css-18174ce&quot;]/div[@class=&quot;list MuiBox-root css-1k2xkov&quot;]/div[@class=&quot;MuiBox-root css-1eaexpl&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;row MuiBox-root css-5f709d&quot;]/div[@class=&quot;MuiBox-root css-14miu69&quot;]/div[@class=&quot;MuiBox-root css-oynn15&quot;]/div[@class=&quot;MuiBox-root css-1pnq6ic&quot;]</value>
+      <webElementGuid>cfe26beb-cef0-4b1d-928a-c97bb249c207</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div[3]/div[2]/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>caa6ccd7-21bd-47c2-b8ee-6ae36bb5edb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='즐겨찾기'])[1]/following::div[17]</value>
+      <webElementGuid>09c2e26e-ec0e-455f-bfcc-8731b1c425f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='공유'])[1]/following::div[17]</value>
+      <webElementGuid>eb4a9f87-c817-4d93-b35d-9b6977cab2f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='나'])[1]/preceding::div[6]</value>
+      <webElementGuid>c65581d4-0a71-439c-aa82-a390f877f703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>be29cd9e-51cb-4aa7-b7d8-7520e539bde8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'odp파일 테스트' or . = 'odp파일 테스트')]</value>
+      <webElementGuid>17cb0b0e-4552-4cb2-817d-e23329320703</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_copymovepopup_close</name>
+   <tag></tag>
+   <elementGuidId>23535039-c55f-4053-a8ca-26a3748aa10e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[4]/div[3]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeSmall.enabled.css-1dio3d3 > svg.icon-appbar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>560ff3e5-c7ee-4c49-b4cb-b92951b56808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-appbar</value>
+      <webElementGuid>d0fa73bb-1a57-4e75-a798-70270a1b2033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>73da383e-55b5-483d-8459-449d293827f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>9530ad5d-94ee-4d27-bfef-53def97b8ad7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>75b49ae6-88a1-4d7d-b9ff-a6ae5580dd70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>KeyboardArrowDownIcon</value>
+      <webElementGuid>7adec1cd-10b5-46c2-8b5c-d21581b393fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-ov9fzc&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-dense css-1lljh5p&quot;]/div[@class=&quot;MuiBox-root css-oajpp9&quot;]/div[@class=&quot;MuiBox-root css-ach2iy&quot;]/div[@class=&quot;css-2bvkzo&quot;]/form[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 searchInput isFocused css-1xlrwas&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 hasString css-115oyum&quot;]/div[@class=&quot;MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-adornedEnd css-147f9nd&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeSmall enabled css-1dio3d3&quot;]/svg[@class=&quot;icon-appbar&quot;]</value>
+      <webElementGuid>c50821a9-b0fa-464b-98c7-6b75d4afde96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>c8211027-c622-4030-be19-03438b20a4c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>962714f7-48c9-488e-a1ca-6bb65207b3f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>d4d18c58-d7bf-44a3-a33a-ad847bc96b77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>8c80dfa6-bc47-4962-8b06-6b966bf5c437</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='xls파일 테스트.xls'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>3bc7980a-4518-45b1-ad39-0e1a69459a80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='xlsx파일 테스트.xlsx'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>8f88da0e-fa6b-49ed-b81d-652d1d3f5903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='세부 정보'])[1]/preceding::*[name()='svg'][14]</value>
+      <webElementGuid>fdf0dec4-5a13-48f0-8c8a-8eb94b6f3726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='상세'])[1]/preceding::*[name()='svg'][14]</value>
+      <webElementGuid>aa447af9-6e50-4eb5-9203-7f5c95236a1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='세부 정보'])[1]/preceding::*[name()='svg'][13]</value>
+      <webElementGuid>28a881b6-e268-4a9e-b505-9b90b43c34cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='상세'])[1]/preceding::*[name()='svg'][13]</value>
+      <webElementGuid>6372e105-3e5a-4223-b81c-daafa4cb064b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='여기로 복사'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>d57e0e1b-7d6f-45d6-b964-d6b04306aa2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='폴더자체를 공유'])[2]/following::*[name()='svg'][3]</value>
+      <webElementGuid>c8756252-9e84-4c4d-bfc2-6fae3652350d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='여기로 이동'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>681c08db-01db-4b6e-a8f5-070559efed2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='내 저장 공간'])[1]/following::*[name()='svg'][4]</value>
+      <webElementGuid>3cdedb30-e69c-4e2a-8c46-b9bbcc32f6fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='세부 정보'])[1]/preceding::*[name()='svg'][8]</value>
+      <webElementGuid>42a86f8e-cdd9-491f-a7cf-7c0f039f504e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='상세'])[1]/preceding::*[name()='svg'][8]</value>
+      <webElementGuid>a9b51961-6d70-44f3-8f0d-eee63869e1d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='문서 만들기'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>d2162c2b-7003-499e-83c9-8c549583eeb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='홈'])[2]/following::*[name()='svg'][2]</value>
+      <webElementGuid>16890ef7-6d55-4ae2-8396-3676d3ee104d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='한글'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>6a6f9986-c643-4b7a-bf83-785588bfb43f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='한셀'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>ae0cf68b-90f9-4d3e-a6e2-63570995db8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>button_filter_mine</name>
    <tag></tag>
-   <elementGuidId>a597cbf8-2f18-48a7-9120-861256b8bf3d</elementGuidId>
+   <elementGuidId>af9ae1c2-3162-4d9e-a623-735a42343bff</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='email_login']</value>
+         <value>//button[@type = 'button' and (text() = '내가 소유' or . = '내가 소유')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#email_login</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +21,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c93e56a1-d478-4d7f-9bed-013b5889a50f</webElementGuid>
+      <webElementGuid>14a42753-93e1-4065-a969-74908c209610</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-disableElevation MuiButton-fullWidth css-jm1mwq</value>
-      <webElementGuid>3ee91a78-d757-44f9-a664-d0e544dfa196</webElementGuid>
+      <value>MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root  css-set5xn</value>
+      <webElementGuid>6bbbe636-3da6-47ae-9b30-92ffa3220dc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,102 +37,102 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>9129bb5d-b133-41b0-aa5c-7ec06b84c6b6</webElementGuid>
+      <webElementGuid>e8390166-404a-4284-83ab-a821dde22380</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>3e27a46b-276e-4c47-9011-6fb01add1356</webElementGuid>
+      <value>button</value>
+      <webElementGuid>1e5e9671-81e4-4839-a7ce-8a557b90ec12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>value</name>
       <type>Main</type>
-      <value>email_login</value>
-      <webElementGuid>9cc8115c-700e-4fa2-8e5c-fdd85004ad9f</webElementGuid>
+      <value>FILTER_OWNER_ME</value>
+      <webElementGuid>6d2f1553-b781-481f-ae4d-baa0a55d5495</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>로그인</value>
-      <webElementGuid>d8963f03-7bd1-40a8-abfe-271633bf54c6</webElementGuid>
+      <value>내가 소유</value>
+      <webElementGuid>5d062e8b-1f12-4f35-b4da-005f5e523de5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;email_login&quot;)</value>
-      <webElementGuid>e87c16ad-10d1-40c2-b9e0-f915246a091e</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root MuiDrawer-root MuiDrawer-modal css-3hh2i6&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation16 MuiDrawer-paper MuiDrawer-paperAnchorRight css-195cncu&quot;]/div[@class=&quot;MuiBox-root css-1miwzlu&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-qaagk4&quot;]/div[@class=&quot;MuiBox-root css-1xaqcky&quot;]/button[@class=&quot;MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root  css-set5xn&quot;]</value>
+      <webElementGuid>6862f5c5-9abf-40d3-ba96-9cad919300cb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='email_login']</value>
-      <webElementGuid>b54e8f5f-6e71-4b2c-863b-a331e8bf2525</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='root']/div[2]/main/form/div[3]/button</value>
-      <webElementGuid>b6d33043-e704-4074-88e0-c7334f052a69</webElementGuid>
+      <value>//button[@value='FILTER_OWNER_ME']</value>
+      <webElementGuid>3d8f617a-ffb2-4e44-b7ef-f9f1f4b1c66c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='계정 만들기'])[1]/following::button[2]</value>
-      <webElementGuid>9b073b8f-c720-469f-bfde-e8d83c090201</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='소유자'])[2]/following::button[1]</value>
+      <webElementGuid>05699983-d424-40c7-828a-e7f30491e815</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='아이디 찾기'])[1]/preceding::button[1]</value>
-      <webElementGuid>94b9a263-656d-4672-8218-d11f49475c3e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='이전'])[1]/following::button[1]</value>
+      <webElementGuid>cf2ba24b-bd91-4043-b152-92797d876ed6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='비밀번호 찾기'])[1]/preceding::button[1]</value>
-      <webElementGuid>953bbde6-2568-4b6a-b21e-3e49716da9e6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='다른 사람이 소유'])[1]/preceding::button[1]</value>
+      <webElementGuid>5c218a1f-f4ea-471c-8898-edda595f7216</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='로그인']/parent::*</value>
-      <webElementGuid>e68e1ff8-76d7-4438-b0fc-ed2e508e9514</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='필터 초기화'])[1]/preceding::button[2]</value>
+      <webElementGuid>95c37a57-3c3e-4f57-a7e6-6d251dde6c13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='내가 소유']/parent::*</value>
+      <webElementGuid>d1022d37-3493-49bd-b0ae-ccd6a20b9d97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>d9dd3442-2a8d-40c8-9e62-e3d132ea5a94</webElementGuid>
+      <value>//div[4]/button</value>
+      <webElementGuid>eaf61324-bf2a-4afd-a2e7-36489c42f2df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'email_login' and (text() = '로그인' or . = '로그인')]</value>
-      <webElementGuid>02595362-00f0-4003-91cb-40cf0f8bd1b5</webElementGuid>
+      <value>//button[@type = 'button' and (text() = '내가 소유' or . = '내가 소유')]</value>
+      <webElementGuid>f7de7eee-4b08-4feb-8913-12578e60dd3b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

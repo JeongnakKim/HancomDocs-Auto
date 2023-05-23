@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description></description>
-   <name>HD_Summary_2</name>
+   <description>웹오피스 업데이트 대응 테스트
+ 1.새문서 만들기
+ 2.기존문서 파일 열어보기</description>
+   <name>HD_ConnectService_WepOffice</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,51 +12,58 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>9fbf583b-56c4-41b3-a7f4-48a2ce04db29</testSuiteGuid>
+   <testSuiteGuid>ff4410a6-e49a-4f41-98f0-d3a0f2b41b40</testSuiteGuid>
    <testCaseLink>
-      <guid>35752e55-d2d0-4c43-bfde-938e5c6c61ba</guid>
+      <guid>d51f8665-1361-4953-ac05-f43284e75435</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HD_Summary_Login_Account1</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0833dfb7-1c32-451b-a457-2418c25a6b80</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HD_Summary_Create</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4ff10396-22c2-426c-aa26-86cbdfcfa904</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HD_Summary_Clear</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0d3330cb-9e3e-49ac-939a-1c42089afcda</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HD_Summary_Logout</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>22fd78ff-dfc3-43ea-b475-2bbc6f3b31b3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/HD_Summary_Login_Account2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>7f11b367-b23f-4cfc-b5e7-05ec9dc7a305</guid>
+      <guid>c2556fe7-0777-4729-8931-7411bb80f8b4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/HD_Summary_FileOpen_Home</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>caf3be50-266d-46d6-808d-c595ff63b044</guid>
+      <guid>3c9d04c4-90e3-440c-b97f-064181f9d016</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/HD_Summary_FileOpen_Storage</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e1e98ae0-73f7-48b6-8ea5-bab04c87a2d8</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/HD_Summary_Contextmenu</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>b529d701-1044-4a15-94b6-c6596f09bfd3</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/HD_Summary_MenuMove</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>6a0c870b-e22c-4286-828c-f5a852a17534</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/HD_Summary_FilterSearch</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>2da27c9f-d2c6-4ad8-8431-c919e0625876</guid>
+      <guid>86cadd12-e7e3-4587-aaa7-92c990de9e53</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/HD_Summary_Logout</testCaseId>

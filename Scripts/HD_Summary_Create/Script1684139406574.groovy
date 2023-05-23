@@ -17,6 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.hancomdocs.com/')
+
+WebUI.click(findTestObject('HD_Landing/Landing_Appbar_Login'))
+
+WebUI.setText(findTestObject('HD_Landing/Login_input__email'), 'hcnewbiz+prdat1@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('HD_Landing/Login_input__password'), 'IiiKlAiWmeOR474j7JBH5w==')
+
+WebUI.click(findTestObject('HD_Landing/button_Login'))
+
 '새로만들기 버튼'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/LNB_Menu/Menu_NewCreate'), FailureHandling.CONTINUE_ON_FAILURE)
 

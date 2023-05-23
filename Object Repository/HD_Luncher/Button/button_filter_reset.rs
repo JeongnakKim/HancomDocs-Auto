@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_filter_reset</name>
+   <tag></tag>
+   <elementGuidId>20e585f5-2011-4169-8768-afdf7a158c18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = '필터 초기화' or . = '필터 초기화')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButtonBase-root.css-m30okg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6f6a41eb-b43b-4404-8c89-e7c05dfeacef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root css-m30okg</value>
+      <webElementGuid>0a6e3a7b-317f-4073-a0c2-faae17b6e11e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e40cf17e-fc88-42e0-bc64-08564fbf6699</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0654a1fc-8aaa-4926-8117-a677669e9cb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>필터 초기화</value>
+      <webElementGuid>659e9ca4-e865-48c4-9313-df68c5855038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root MuiDrawer-root MuiDrawer-modal css-3hh2i6&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation16 MuiDrawer-paper MuiDrawer-paperAnchorRight css-195cncu&quot;]/div[@class=&quot;MuiBox-root css-1miwzlu&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/button[@class=&quot;MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root css-m30okg&quot;]</value>
+      <webElementGuid>9b831adc-04f5-406b-a432-e6c01539e431</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[49]</value>
+      <webElementGuid>1add7fc7-53cf-4424-aeaa-28bd7da3fed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='다른 사람이 소유'])[1]/following::button[1]</value>
+      <webElementGuid>6baeb894-8119-43fb-8be9-1f7c762a8829</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='내가 소유'])[1]/following::button[2]</value>
+      <webElementGuid>ea28b91e-3ab1-49e1-9240-5a204cc08879</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='필터 초기화']/parent::*</value>
+      <webElementGuid>3695ea8e-4e9a-4f3f-bf90-6db8d17c2341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/button</value>
+      <webElementGuid>07a1654d-caf1-4651-ad26-a55df28b02bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '필터 초기화' or . = '필터 초기화')]</value>
+      <webElementGuid>b8128a5c-d21a-48af-afff-9e444dbf1bbf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

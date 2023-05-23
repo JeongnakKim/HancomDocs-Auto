@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Body_Home_Share_2</name>
+   <tag></tag>
+   <elementGuidId>d4a28e7e-03ed-4c88-b056-0f8508eb1a23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[1]/main/div[3]/div[2]/div[2]/div/div/div[2]/div[1]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>97aa8467-f3cf-42e3-868f-72827783a5a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-1pnq6ic</value>
+      <webElementGuid>021c69cb-aff2-4ac7-a925-a247066d0533</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>hwpx 보기권한</value>
+      <webElementGuid>f433c3f5-4ccc-40be-83ad-1495e1f0886c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[@class=&quot;MuiBox-root css-18174ce&quot;]/div[@class=&quot;list MuiBox-root css-1k2xkov&quot;]/div[@class=&quot;MuiBox-root css-1eaexpl&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;row MuiBox-root css-5f709d&quot;]/div[@class=&quot;MuiBox-root css-14miu69&quot;]/div[@class=&quot;MuiBox-root css-oynn15&quot;]/div[@class=&quot;MuiBox-root css-1pnq6ic&quot;]</value>
+      <webElementGuid>b414c83c-0734-4145-9d13-61f005deb26d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div[3]/div[2]/div[2]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>7babe294-4194-40b4-b9b2-7832c4b73c08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lBCiqL'])[1]/following::div[6]</value>
+      <webElementGuid>d9084683-c877-4cac-951f-c9f819d1fa88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hwpx 편집권한'])[1]/following::div[13]</value>
+      <webElementGuid>48b60297-917d-40f0-ac0a-7717ad872ee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lBCiqL'])[2]/preceding::div[6]</value>
+      <webElementGuid>7d88eb88-680e-4988-b4d1-b1f072ab707d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>e17537f3-1945-4140-86b1-713be312abe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'hwpx 보기권한' or . = 'hwpx 보기권한')]</value>
+      <webElementGuid>a8ea89c3-58bb-4566-96be-60c365cb0635</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

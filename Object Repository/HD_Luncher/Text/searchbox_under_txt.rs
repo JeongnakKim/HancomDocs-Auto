@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>searchbox_under_txt</name>
+   <tag></tag>
+   <elementGuidId>e6f2895c-d5f1-4e0e-b0fc-c1b44f4b87df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[1]/header/div/div/div[2]/div/form/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-body2.css-8n0e9u</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0aab6b7f-2062-4a06-8a72-3f0a3b8f8ffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body2 css-8n0e9u</value>
+      <webElementGuid>21cdce07-c327-4d8e-9d97-d67d0caf58a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>검색어는 2자 이상이어야 합니다.</value>
+      <webElementGuid>25713605-cb31-4bca-bbe2-8ab3b532f270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-ov9fzc&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-dense css-1lljh5p&quot;]/div[@class=&quot;MuiBox-root css-oajpp9&quot;]/div[@class=&quot;MuiBox-root css-ach2iy&quot;]/div[@class=&quot;css-2bvkzo&quot;]/form[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 searchInput isFocused css-1xlrwas&quot;]/div[@class=&quot;MuiBox-root css-1bnmd5r&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body2 css-8n0e9u&quot;]</value>
+      <webElementGuid>e0260cc3-5e1f-421e-851f-b174b934e41f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/header/div/div/div[2]/div/form/div[2]/p</value>
+      <webElementGuid>984ff0ab-3f9f-4c0a-bba8-0923a49c49ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='세부 정보'])[1]/preceding::p[1]</value>
+      <webElementGuid>deab0a12-19d4-41d6-8f59-42b170454a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='상세'])[1]/preceding::p[1]</value>
+      <webElementGuid>3052bf8a-0d19-4442-8f46-259546c891dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='검색어는 2자 이상이어야 합니다.']/parent::*</value>
+      <webElementGuid>1213fc7d-ef5a-4c61-9a83-bb2f759dff63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>5cbb7e53-e08e-4336-a857-283bedca7a1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '검색어는 2자 이상이어야 합니다.' or . = '검색어는 2자 이상이어야 합니다.')]</value>
+      <webElementGuid>1ce92556-ba40-4146-bd36-4b1fea63bade</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

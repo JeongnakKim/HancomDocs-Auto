@@ -67,7 +67,7 @@ WebUI.click(findTestObject('HD_Luncher/Checkbox/Storage_Checkbox_2'))
 
 WebUI.click(findTestObject('HD_Luncher/Checkbox/Storage_Checkbox_3'))
 
-WebUI.click(findTestObject('HD_Luncher/Button/button_header_delete'))
+WebUI.click(findTestObject('HD_Luncher/Button/button_tableheader_delete'))
 
 WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Trashbin'))
 

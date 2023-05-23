@@ -3,15 +3,15 @@
    <description></description>
    <name>vo1</name>
    <tag></tag>
-   <elementGuidId>5aad9e26-2f77-472d-87b8-58bd4d78a995</elementGuidId>
+   <elementGuidId>1df3a3e7-17f7-4857-b70f-30b3ae4f6ebe</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>h4.MuiTypography-root.MuiTypography-h4.css-1np3p3p</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//h4[(text() = '복사 테스트' or . = '복사 테스트')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4.MuiTypography-root.MuiTypography-h4.css-1np3p3p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -33,19 +33,19 @@ WebUI.click(findTestObject('Object Repository/HD_Landing/button_Login'), Failure
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/LNB_Menu/Menu_Hancell'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_-/button_app_template_close'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_app_template_close'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('Page_-/Buotton_App_hancell_new'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('HD_Luncher/Button/Buotton_App_hancell_new'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_-/button_app_tamplate_open'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_app_tamplate_open'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.verifyElementVisible(findTestObject('HD_Luncher/Template/Template_hancell_1'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_-/Home_Share_Tab'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/Tab/Home_Share_Tab'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_-/Nodata_share'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Text/Nodata_share'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_-/Home_Favorite_Tab'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/Tab/Home_Favorite_Tab'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Page_-/Body_Home_Favorite_1'), 'ods파일 테스트', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('HD_Luncher/BodyTable/Home/Body_Home_Favorite_1'), 'ods파일 테스트', FailureHandling.CONTINUE_ON_FAILURE)
 

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_seachresult_1</name>
+   <tag></tag>
+   <elementGuidId>db53950f-a772-4894-afbf-36504a25cff7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[1]/main/div[2]/div/div/div[2]/div[2]/div/div/div[1]/div[2]/div/div[1]/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.MuiTypography-root.MuiTypography-h3.css-55zma</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>6d8b47a6-1f2e-4c50-be8f-ede5c1e4880f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h3 css-55zma</value>
+      <webElementGuid>b95a33e1-e7c5-478f-ae0d-bd6ef65d766a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>clickFileName</value>
+      <webElementGuid>26685b36-a605-4436-8608-80a4f114ebaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>xls파일 테스트.xls</value>
+      <webElementGuid>152ad398-373a-4dd3-99ee-a0fa57487eb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[@class=&quot;drag-container MuiBox-root css-p8o0fd&quot;]/div[@class=&quot;MuiBox-root css-18174ce&quot;]/div[@class=&quot;MuiBox-root css-ohbggj&quot;]/div[@class=&quot;list MuiBox-root css-1k2xkov&quot;]/div[@class=&quot;MuiBox-root css-1eaexpl&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;row selected bordered MuiBox-root css-5f709d&quot;]/div[@class=&quot;MuiBox-root css-14miu69&quot;]/div[@class=&quot;MuiBox-root css-oynn15&quot;]/div[@class=&quot;MuiBox-root css-a0b9rr&quot;]/h3[@class=&quot;MuiTypography-root MuiTypography-h3 css-55zma&quot;]</value>
+      <webElementGuid>7eae4b56-892b-410f-a5d8-196172697908</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div[2]/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/h3</value>
+      <webElementGuid>fe14de2f-198e-4e99-a043-855a27480b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='xl'])[1]/following::h3[1]</value>
+      <webElementGuid>d53c605b-cc9e-4a23-9b09-2a4850a2e08c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='활동'])[1]/following::h3[1]</value>
+      <webElementGuid>068a5fa4-5ab6-4c0d-af95-17b3ffddfb89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='나'])[1]/preceding::h3[1]</value>
+      <webElementGuid>725e94f3-21d6-435c-99cd-a2a6f1894a37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='xlsx파일 테스트.xlsx'])[1]/preceding::h3[1]</value>
+      <webElementGuid>624ccc74-4936-42af-999a-1184be1fb190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='xls파일 테스트.xls']/parent::*</value>
+      <webElementGuid>35944b18-10fb-445a-ab67-576beb921ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/h3</value>
+      <webElementGuid>df8b16fc-5f1e-4534-85b0-41c96543e732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'xls파일 테스트.xls' or . = 'xls파일 테스트.xls')]</value>
+      <webElementGuid>30990aa6-d227-4825-a148-c516dc4608a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

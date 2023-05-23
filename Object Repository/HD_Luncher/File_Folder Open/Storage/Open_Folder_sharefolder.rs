@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Open_Folder_sharefolder</name>
+   <tag></tag>
+   <elementGuidId>6fa87c50-d51d-4ffe-82fe-2134a977ef37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3[(text() = '폴더자체를 공유' or . = '폴더자체를 공유')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.MuiTypography-root.MuiTypography-h3.css-tdx9sx</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>1d31925c-46c6-4c21-b203-b7522017d14c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h3 css-tdx9sx</value>
+      <webElementGuid>ff6370d2-d715-4f86-8866-71e29fbcd246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>clickFileName</value>
+      <webElementGuid>27409479-bbf9-44a5-9969-17c1029107f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>복사 테스트</value>
+      <webElementGuid>bc7fd92e-d4fe-451e-8e9e-d4ecd07f40cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[3]/div[@class=&quot;drag-container MuiBox-root css-p8o0fd&quot;]/div[@class=&quot;MuiBox-root css-18174ce&quot;]/div[@class=&quot;list MuiBox-root css-1k2xkov&quot;]/div[@class=&quot;MuiBox-root css-1eaexpl&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;row MuiBox-root css-hkl56t&quot;]/div[@class=&quot;MuiBox-root css-5qkzv&quot;]/div[@class=&quot;MuiBox-root css-oynn15&quot;]/div[@class=&quot;MuiBox-root css-1pnq6ic&quot;]/h3[@class=&quot;MuiTypography-root MuiTypography-h3 css-tdx9sx&quot;]</value>
+      <webElementGuid>1e3e5d5c-34df-474c-a8e5-2e3f54c7f520</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div[3]/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/h3</value>
+      <webElementGuid>e8044791-3334-41d9-a5bd-1860c805f1c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='새로 만들기'])[1]/following::h3[2]</value>
+      <webElementGuid>d3f3b0ff-cd7b-4853-a510-fb3d318238d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='저장 공간'])[1]/following::h3[2]</value>
+      <webElementGuid>0856753f-10bd-49f4-9f6f-834be54e5332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='방금'])[1]/preceding::h3[1]</value>
+      <webElementGuid>05cbe54f-0711-448e-a8f5-decec123cf64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='나'])[1]/preceding::h3[1]</value>
+      <webElementGuid>0d298bed-cdb7-4a29-b8ac-ac0745b32c1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='복사 테스트']/parent::*</value>
+      <webElementGuid>e141ce22-a491-4b4d-a205-fde9f0f56482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/h3</value>
+      <webElementGuid>105e95a7-79ae-446f-9e6d-b747b7dc9a66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = '복사 테스트' or . = '복사 테스트')]</value>
+      <webElementGuid>374fa83d-32df-40d1-a7e9-ffe494aaef32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

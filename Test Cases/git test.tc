@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>github 연동 테스트를 확인하기 위한 빈 테스트케이스 생성</description>
-   <name>git test</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>73559db5-3a65-481c-b3ae-e34e876d8520</testCaseGuid>
-</TestCaseEntity>

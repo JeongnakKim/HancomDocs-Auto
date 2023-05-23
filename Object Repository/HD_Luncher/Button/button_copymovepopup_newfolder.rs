@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_copymovepopup_newfolder</name>
+   <tag></tag>
+   <elementGuidId>982195f1-68aa-4f9d-a4cf-5bf6c2fae7aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[4]/div[3]/div[3]/button[1]
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeMedium.css-10tvsmb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e9aeafc7-754f-48bc-bbf4-13afad3c6fb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-10tvsmb</value>
+      <webElementGuid>0662e596-af17-44db-84a9-35cf1a173544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>cfa6e290-118c-49a2-839c-b4e46a3fc82a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9dfca0f8-9bec-43a3-9a00-a2e1cf0814da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root css-8ndowl&quot;]/div[@class=&quot;MuiBox-root css-4bkglz&quot;]/div[@class=&quot;MuiBox-root css-7xj8jm&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-10tvsmb&quot;]</value>
+      <webElementGuid>4877ae6f-ffc3-4741-9842-856cc97a61c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[83]</value>
+      <webElementGuid>b9fa77b1-7dcb-4851-b9a5-1c6430bc7e04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='하위 폴더가 없습니다.'])[1]/following::button[1]</value>
+      <webElementGuid>48388b28-99dd-4362-be26-b3d7fa713db5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='내 저장 공간'])[1]/following::button[1]</value>
+      <webElementGuid>09e8c80a-7eb6-459d-ad15-0c84de085282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='여기로 이동'])[1]/preceding::button[1]</value>
+      <webElementGuid>027c8164-3f73-4f73-827d-64db4f21d879</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/button</value>
+      <webElementGuid>5a2e1161-7d52-40ff-89a3-cc77c7aad790</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>d5857278-7102-466f-9f68-e2f8a562e915</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -224,7 +224,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/HD_Luncher/Menu/C
 WebUI.delay(2, FailureHandling.CONTINUE_ON_FAILURE)
 
 '기타파일(txt)'
-WebUI.click(findTestObject('Object Repository/HD_Luncher/BodyTable/Storage/context_storage_18'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.rightClick(findTestObject('HD_Luncher/BodyTable/Storage/Body_Storage_All_18'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/HD_Luncher/Menu/Contextmenu/contextmenu_share'), FailureHandling.CONTINUE_ON_FAILURE)
 

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>searchresult_txt_title</name>
+   <tag></tag>
+   <elementGuidId>dca9637c-d52f-4581-9afc-728bdf086b8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[1]/main/div[1]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-body1.css-16cfffh</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ae7add52-3cf1-4321-9b34-7dbc8ffcfb8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-16cfffh</value>
+      <webElementGuid>a6945298-c9cd-4e03-b3e9-544091d6b0f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>xl 검색 결과 2건</value>
+      <webElementGuid>089cbfdd-d8fa-4734-bdfc-d56427a201ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[@class=&quot;MuiBox-root css-r6b76f&quot;]/div[@class=&quot;MuiBox-root css-hig1pl&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-16cfffh&quot;]</value>
+      <webElementGuid>6870245d-9615-4079-8bfc-ce088e5b5567</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/div/p</value>
+      <webElementGuid>65221017-2dd5-4972-b513-d5d31602edc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='활동'])[1]/following::p[2]</value>
+      <webElementGuid>ad40132d-b6a1-48b4-b664-bf25f51b1e22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='상세'])[1]/following::p[2]</value>
+      <webElementGuid>513ea7d8-6a46-4ad0-8de9-d9a3e224e38f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='xls파일 테스트.xls'])[1]/preceding::p[6]</value>
+      <webElementGuid>1924099d-32c1-452f-86d9-3d6f6021b95b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='검색 결과']/parent::*</value>
+      <webElementGuid>75d8562b-d2f8-49aa-a46e-85eb801ee15e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/p</value>
+      <webElementGuid>393bc526-0102-4d0f-ad78-54ad9f2d8630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'xl 검색 결과 2건' or . = 'xl 검색 결과 2건')]</value>
+      <webElementGuid>5f560cff-dee1-493f-9384-143b2341d648</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
