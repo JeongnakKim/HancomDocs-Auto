@@ -112,7 +112,7 @@ WebUI.click(findTestObject('HD_Luncher/Button/button_back_versionmanage'), Failu
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/BodyTable/Home/context_home_17'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('HD_Luncher/BodyTable/Home/context_home_16'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/HD_Luncher/Menu/Contextmenu/contextmenu_web open'), FailureHandling.CONTINUE_ON_FAILURE)
 

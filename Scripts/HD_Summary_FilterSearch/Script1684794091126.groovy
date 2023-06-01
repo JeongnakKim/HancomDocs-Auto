@@ -96,11 +96,11 @@ WebUI.click(findTestObject('Object Repository/HD_Luncher/InPutBox/input_searchbo
 
 WebUI.setText(findTestObject('Object Repository/HD_Luncher/InPutBox/input_searchbox'), '한', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Button/Button_searchbox_ok'))
+WebUI.click(findTestObject('HD_Luncher/Button/Button_searchbox_ok'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Text/searchbox_under_txt'))
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Text/searchbox_under_txt'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Button/Button_searchbox_close'))
+WebUI.click(findTestObject('HD_Luncher/Button/Button_searchbox_close'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/InPutBox/input_searchbox'), FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -110,13 +110,15 @@ WebUI.click(findTestObject('Object Repository/HD_Luncher/InPutBox/input_searchbo
 
 WebUI.setText(findTestObject('Object Repository/HD_Luncher/InPutBox/input_searchbox'), 'xl', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Button/Button_searchbox_ok'))
+WebUI.click(findTestObject('HD_Luncher/Button/Button_searchbox_ok'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Text/searchresult_txt_title'))
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Text/searchresult_txt_title'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/BodyTable/Home/body_seachresult_1'), 'xls파일 테스트.xls')
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/BodyTable/Home/body_seachresult_1'), 'xls파일 테스트.xls', 
+    FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/BodyTable/Home/body_seachresult_2'), 'xlsx파일 테스트.xlsx')
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/BodyTable/Home/body_seachresult_2'), 'xlsx파일 테스트.xlsx', 
+    FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/InPutBox/input_searchbox'), FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -126,9 +128,9 @@ WebUI.click(findTestObject('Object Repository/HD_Luncher/InPutBox/input_searchbo
 
 WebUI.setText(findTestObject('Object Repository/HD_Luncher/InPutBox/input_searchbox'), 'asdfg', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Button/Button_searchbox_ok'))
+WebUI.click(findTestObject('HD_Luncher/Button/Button_searchbox_ok'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Text/Nodata_searchresult'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Text/Nodata_searchresult'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Home'))
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Home'), FailureHandling.CONTINUE_ON_FAILURE)
 

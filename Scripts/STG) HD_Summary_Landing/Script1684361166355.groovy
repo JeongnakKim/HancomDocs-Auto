@@ -21,6 +21,31 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://www.stg.hancomdocs.com/')
 
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Landing/MainCopy'), '이제 한컴오피스를 구독으로', FailureHandling.CONTINUE_ON_FAILURE)
+
+'다운로드 드롭다운 메뉴'
+WebUI.click(findTestObject('Object Repository/HD_Landing/button_download_dropdown'), FailureHandling.CONTINUE_ON_FAILURE)
+
+'한컴오피스 다운로드'
+WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Landing/button_download_hancomoffice'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Landing/button_download_machan'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/HD_Landing/button_download_iosapp'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Landing/AppStore_apple_txt'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.navigateToUrl('https://www.stg.hancomdocs.com', FailureHandling.CONTINUE_ON_FAILURE)
+
+'다운로드 드롭다운 메뉴'
+WebUI.click(findTestObject('Object Repository/HD_Landing/button_download_dropdown'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/HD_Landing/button_download_androidapp'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Landing/PlayStore_google_txt'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.navigateToUrl('https://www.stg.hancomdocs.com', FailureHandling.CONTINUE_ON_FAILURE)
+
 WebUI.scrollToElement(findTestObject('Object Repository/HD_Landing/button_Planmove_landing'), 0)
 
 WebUI.verifyElementText(findTestObject('Object Repository/HD_Landing/Plancard_personal_title_landing'), '개인용')
@@ -33,7 +58,7 @@ WebUI.navigateToUrl('http://www.stg.hancomdocs.com/')
 
 WebUI.click(findTestObject('Object Repository/HD_Landing/plancard_subscribe_personal_y'))
 
-WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+stgat1@gmail.com')
+WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+stgat2@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/HD_Landing/Login_input__password'), 'IiiKlAiWmeOR474j7JBH5w==')
 
@@ -63,7 +88,7 @@ WebUI.navigateToUrl('http://www.stg.hancomdocs.com/')
 
 WebUI.click(findTestObject('Object Repository/HD_Landing/button_Cupon'))
 
-WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+stgat1@gmail.com')
+WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+stgat2@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/HD_Landing/Login_input__password'), 'IiiKlAiWmeOR474j7JBH5w==')
 
@@ -111,7 +136,7 @@ WebUI.navigateToUrl('http://www.stg.hancomdocs.com/plans')
 
 WebUI.click(findTestObject('HD_Landing/plancard_subscribe_biz_m_plan'))
 
-WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+stgat1@gmail.com')
+WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+stgat2@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/HD_Landing/Login_input__password'), 'IiiKlAiWmeOR474j7JBH5w==')
 

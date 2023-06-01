@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>휴지통기능관련</description>
+   <description>휴지통 기능 체크
+ - 삭제
+ - 복원
+ - 완전히 삭제
+ - 휴지통 비우기</description>
    <name>HD_Summary_Trashbin</name>
    <tag></tag>
    <comment></comment>

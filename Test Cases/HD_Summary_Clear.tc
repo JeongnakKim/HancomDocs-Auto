@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>저장소 모두삭제</description>
+   <description>저장소 모두삭제
+ - 전체 체크 후 삭제</description>
    <name>HD_Summary_Clear</name>
    <tag></tag>
    <comment></comment>

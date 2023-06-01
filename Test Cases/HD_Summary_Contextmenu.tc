@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>컨텍스트 메뉴 체크
+ - 확장자 별 제공되는 컨텍스트 메뉴 확인
+ - 컨텍스트 메뉴 동작 확인 (일부 제외)</description>
    <name>HD_Summary_Contextmenu</name>
    <tag></tag>
    <comment></comment>

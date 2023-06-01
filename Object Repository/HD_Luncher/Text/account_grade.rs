@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>account_grade</name>
+   <tag></tag>
+   <elementGuidId>8cea8daa-5b38-480d-bb71-8ad130a74fec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiChip-label.MuiChip-labelMedium.css-9iedg7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popover1']/div[3]/div/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>87a5efb9-12c7-49bd-a909-8846bcaa61b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiChip-label MuiChip-labelMedium css-9iedg7</value>
+      <webElementGuid>25dbbfb6-ea4e-4eaf-9cff-f744a41fc516</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>무료</value>
+      <webElementGuid>03119df5-a9de-41d8-a174-32adbf91ff24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popover1&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-1qscgs6&quot;]/div[@class=&quot;MuiBox-root css-1j5kiwm&quot;]/div[@class=&quot;MuiBox-root css-jv1m4y&quot;]/div[@class=&quot;MuiBox-root css-1tafn34&quot;]/div[@class=&quot;MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-ormw3a&quot;]/span[@class=&quot;MuiChip-label MuiChip-labelMedium css-9iedg7&quot;]</value>
+      <webElementGuid>1ae5b69d-92e9-4282-aa27-788e0d8a3c3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popover1']/div[3]/div/div/div/div/span</value>
+      <webElementGuid>b66a8f1d-59be-4953-bb8e-93deaa254954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='필터 초기화'])[1]/following::span[1]</value>
+      <webElementGuid>35fff0a3-c01f-4fb5-b42b-b962386d43c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='적용'])[1]/following::span[1]</value>
+      <webElementGuid>55670f6b-ad28-41ae-8e72-ab076733f328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='자동화테스트 PRD 2번'])[1]/preceding::span[1]</value>
+      <webElementGuid>368fc2f2-fa0d-464b-b238-c3a84f3f252e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='계정 관리'])[1]/preceding::span[1]</value>
+      <webElementGuid>c03d2bc3-010c-49aa-b8ac-a34ea71d3621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='무료']/parent::*</value>
+      <webElementGuid>d3799498-69cb-4bbe-909d-798ad485a151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/span</value>
+      <webElementGuid>62d13c55-0a06-4b1d-9010-47983057ec13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '무료' or . = '무료')]</value>
+      <webElementGuid>a58797e7-54d1-4b59-81d1-3a0ec1d4192f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

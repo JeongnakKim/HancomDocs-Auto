@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>plantable_title_txt</name>
+   <tag></tag>
+   <elementGuidId>5e46f731-614d-4931-8104-7c4c13314ae6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.MuiTypography-root.MuiTypography-h2.css-wdhgy4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/header/div/div/div[3]/button[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>e0de1ed1-7c5d-43ca-b0c3-98452b463b6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h2 css-wdhgy4</value>
+      <webElementGuid>02b487f8-f450-4afb-a3fa-95102b8826bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>내게 맞는 요금제를 선택하세요</value>
+      <webElementGuid>a4b37bfd-5ca3-476e-a74b-25e73e51aefb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[@class=&quot;MuiBox-root css-i4ifzj&quot;]/div[@class=&quot;MuiBox-root css-8atqhb&quot;]/h2[@class=&quot;MuiTypography-root MuiTypography-h2 css-wdhgy4&quot;]</value>
+      <webElementGuid>32174085-abcd-45e5-9922-bfe2152c51b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/div[2]/h2</value>
+      <webElementGuid>274ff1cf-0109-4297-a196-20d5e38eaca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='요금제 업그레이드'])[1]/following::h2[1]</value>
+      <webElementGuid>8a7ab83e-c73c-4286-94eb-06662bc64ef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='설정'])[1]/following::h2[2]</value>
+      <webElementGuid>56fcbf80-e875-47a5-8dee-48ad987c5d42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='무료'])[1]/preceding::h2[1]</value>
+      <webElementGuid>c6100a50-5612-4cf6-86c0-9f62e3e2b115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₩0'])[1]/preceding::h2[2]</value>
+      <webElementGuid>3d2310ec-fef0-43f4-8401-4c1763fb29d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='내게 맞는 요금제를 선택하세요']/parent::*</value>
+      <webElementGuid>54d59fad-8fff-4795-96b9-e85394958a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h2</value>
+      <webElementGuid>7217465d-83d3-4b11-9893-dde02d0b0eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = '내게 맞는 요금제를 선택하세요' or . = '내게 맞는 요금제를 선택하세요')]</value>
+      <webElementGuid>ada5e16a-1836-44db-a5b7-e11acfb0c9da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

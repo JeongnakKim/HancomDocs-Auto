@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>복사
-이동</description>
+   <description>복사,이동 기능 체크
+ - 복사 기능
+ - 이동 기능
+ - 복사 및 이동시 폴더 생성 기능</description>
    <name>HD_Summary_CopyMove</name>
    <tag></tag>
    <comment></comment>

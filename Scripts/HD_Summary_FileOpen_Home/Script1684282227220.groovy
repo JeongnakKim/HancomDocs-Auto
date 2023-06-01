@@ -40,8 +40,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'owpml파일 테스트.owpml - 한글', 
-    FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'owpml파일 테스트.owpml - 한글', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -53,7 +52,7 @@ WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.delay(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'odp파일 테스트.odp - 한쇼', FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -69,8 +68,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'hwpx파일 테스트.hwpx - 한글', 
-    FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'hwpx파일 테스트.hwpx - 한글', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -84,8 +82,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'docx파일 테스트.docx - 한워드', 
-    FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'docx파일 테스트.docx - 한워드', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -99,8 +96,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'cell파일 테스트.cell - 한셀', 
-    FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'cell파일 테스트.cell - 한셀', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -114,8 +110,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'doc파일 테스트.doc - 한워드', 
-    FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'doc파일 테스트.doc - 한워드', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -143,8 +138,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'xlsx파일 테스트.xlsx - 한셀', 
-    FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'xlsx파일 테스트.xlsx - 한셀', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -174,8 +168,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'show파일 테스트.show - 한쇼', 
-    FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'show파일 테스트.show - 한쇼', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -189,8 +182,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'pptx파일 테스트.pptx - 한쇼', 
-    FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'pptx파일 테스트.pptx - 한쇼', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -204,8 +196,7 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'pdf파일 테스트.pdf - 한PDF', 
-    FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'pdf파일 테스트.pdf - 한PDF', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 

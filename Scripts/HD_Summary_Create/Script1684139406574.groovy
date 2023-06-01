@@ -82,7 +82,7 @@ WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_LNB_new_h
 
 WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.waitForPageLoad(15, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -152,7 +152,7 @@ WebUI.click(findTestObject('Object Repository/HD_Luncher/Template/Template_hange
 
 WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.waitForPageLoad(15, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 

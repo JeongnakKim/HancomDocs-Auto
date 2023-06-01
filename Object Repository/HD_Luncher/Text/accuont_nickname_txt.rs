@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>accuont_nickname_txt</name>
+   <tag></tag>
+   <elementGuidId>a15d961c-51d1-4a00-bc19-d2926bccec59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.MuiTypography-root.MuiTypography-h2.css-6w5kag</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popover1']/div[3]/div/div/div[2]/div/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>e521ab52-b5bc-4e8f-aa75-20bd5967e0db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h2 css-6w5kag</value>
+      <webElementGuid>3bbeef82-9d72-4174-a7b7-4e2f9fb56702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>자동화테스트 PRD 2번</value>
+      <webElementGuid>8eb72010-d76a-48e9-b39b-cf874d39e9f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popover1&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-1qscgs6&quot;]/div[@class=&quot;MuiBox-root css-1j5kiwm&quot;]/div[@class=&quot;MuiBox-root css-jv1m4y&quot;]/div[@class=&quot;MuiBox-root css-abnf1j&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-70qvj9&quot;]/div[@class=&quot;MuiBox-root css-13brihr&quot;]/h2[@class=&quot;MuiTypography-root MuiTypography-h2 css-6w5kag&quot;]</value>
+      <webElementGuid>47ca7e36-8d8c-487c-ac6e-40f8e5f868c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popover1']/div[3]/div/div/div[2]/div/div/div/h2</value>
+      <webElementGuid>c935cf71-1629-4205-b57f-2201b5d92399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='무료'])[1]/following::h2[1]</value>
+      <webElementGuid>0189be73-a268-4b2b-8943-3f8df0b3a693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='필터 초기화'])[1]/following::h2[1]</value>
+      <webElementGuid>a9fdc1ce-7f3a-4755-a027-5ee8d2bb8f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='계정 관리'])[1]/preceding::h2[1]</value>
+      <webElementGuid>742bb685-7cd7-45b1-9fe8-4d540da67d85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='구독하기'])[1]/preceding::h2[1]</value>
+      <webElementGuid>b468407b-dcfd-4199-bd2a-076909ad24de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='자동화테스트 PRD 2번']/parent::*</value>
+      <webElementGuid>ed16062f-3798-4a49-b0f5-3f5c89640fc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>6f52bebb-2e72-43fa-b772-4aa4f8202843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = '자동화테스트 PRD 2번' or . = '자동화테스트 PRD 2번')]</value>
+      <webElementGuid>5247d2a8-0a63-4413-929b-34e84f21e472</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

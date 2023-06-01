@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Account메뉴 체크
+ - 등급별 표시 확인
+ - 닉네임/이메일/아이콘 등 기본 제공 정보 확인
+ - 등급에 맞는 메뉴 노출 확인
+ - 각 메뉴 이동 확인
+
++ 연결된 기기, 조직관리, 구독정보 등 account메뉴에서 파생되는 간단한 기능 체크</description>
+   <name>HD_Summary_Accountmenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4bd47fea-0558-4352-bcc4-391977ca3c67</testCaseGuid>
+</TestCaseEntity>

@@ -17,35 +17,51 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.testobject.ConditionType as ConditionType
+import java.nio.file.Files as Files
+import java.nio.file.Path as Path
+import java.nio.file.Paths as Paths
 
-WebUI.openBrowser('', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.hancomdocs.com/', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.navigateToUrl('https://www.hancomdocs.com')
 
-WebUI.click(findTestObject('Object Repository/HD_Landing/Landing_Appbar_Login'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('HD_Landing/button_download_dropdown'))
 
-WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+prdat2@gmail.com', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('HD_Landing/button_download_machan'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/HD_Landing/Login_input__password'), 'IiiKlAiWmeOR474j7JBH5w==', 
-    FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('HD_Landing/button_download_dropdown'))
 
-WebUI.click(findTestObject('Object Repository/HD_Landing/button_Login'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('HD_Landing/button_download_PDF'))
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/LNB_Menu/Menu_Hancell'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.setText(findTestObject('HD_Landing/Login_input__email'), 'hcnewbiz+prdat1@gmail.com')
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_app_template_close'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.setEncryptedText(findTestObject('HD_Landing/Login_input__password'), 'IiiKlAiWmeOR474j7JBH5w==')
 
-WebUI.verifyElementVisible(findTestObject('HD_Luncher/Button/Buotton_App_hancell_new'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('HD_Landing/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_app_tamplate_open'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.delay(60)
 
-WebUI.verifyElementVisible(findTestObject('HD_Luncher/Template/Template_hancell_1'), FailureHandling.CONTINUE_ON_FAILURE)
+List<String> fileNames = ['HancomPDFplus_Setup.msi', 'HwpMac_HancomDocs.pkg']
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/Tab/Home_Share_Tab'), FailureHandling.CONTINUE_ON_FAILURE)
+String folderPath = 'C:\\Users\\hancom\\Downloads'
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Text/Nodata_share'), FailureHandling.CONTINUE_ON_FAILURE)
+for (String fileName : fileNames) {
+    Path filePath = Paths.get(folderPath, fileName)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/Tab/Home_Favorite_Tab'), FailureHandling.CONTINUE_ON_FAILURE)
+    if (!(Files.exists(filePath))) {
+        throw new RuntimeException("파일 $fileName이(가) 존재하지 않습니다. 경로: $filePath")
+    }
+}
 
-WebUI.verifyElementText(findTestObject('HD_Luncher/BodyTable/Home/Body_Home_Favorite_1'), 'ods파일 테스트', FailureHandling.CONTINUE_ON_FAILURE)
+for (String fileName : fileNames) {
+    Path filePath = Paths.get(folderPath, fileName)
+
+    if (Files.exists(filePath)) {
+        Files.delete(filePath)
+
+        println("파일 '$fileName'이(가) 성공적으로 삭제되었습니다.")
+    } else {
+        println("파일 '$fileName'이(가) 이미 존재하지 않습니다.")
+    }
+}
 

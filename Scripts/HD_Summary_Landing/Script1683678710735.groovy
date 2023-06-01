@@ -21,7 +21,30 @@ WebUI.openBrowser('', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.navigateToUrl('http://www.hancomdocs.com/', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Landing/MainCopy'), '이제 한컴오피스 구독으로', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Landing/MainCopy'), '이제 한컴오피스를 구독으로', FailureHandling.CONTINUE_ON_FAILURE)
+
+'다운로드 드롭다운 메뉴'
+WebUI.click(findTestObject('Object Repository/HD_Landing/button_download_dropdown'), FailureHandling.CONTINUE_ON_FAILURE)
+
+'한컴오피스 다운로드'
+WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Landing/button_download_hancomoffice'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Landing/button_download_machan'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/HD_Landing/button_download_iosapp'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Landing/AppStore_apple_txt'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.navigateToUrl('https://www.hancomdocs.com', FailureHandling.CONTINUE_ON_FAILURE)
+
+'다운로드 드롭다운 메뉴'
+WebUI.click(findTestObject('Object Repository/HD_Landing/button_download_dropdown'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/HD_Landing/button_download_androidapp'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Landing/PlayStore_google_txt'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.navigateToUrl('https://www.hancomdocs.com', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.scrollToElement(findTestObject('Object Repository/HD_Landing/button_Planmove_landing'), 0, FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -35,7 +58,7 @@ WebUI.navigateToUrl('http://www.hancomdocs.com/', FailureHandling.CONTINUE_ON_FA
 
 WebUI.click(findTestObject('Object Repository/HD_Landing/plancard_subscribe_personal_y'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+prdat1@gmail.com', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+prdat2@gmail.com', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/HD_Landing/Login_input__password'), 'IiiKlAiWmeOR474j7JBH5w==', 
     FailureHandling.CONTINUE_ON_FAILURE)
@@ -66,7 +89,7 @@ WebUI.navigateToUrl('http://www.hancomdocs.com/', FailureHandling.CONTINUE_ON_FA
 
 WebUI.click(findTestObject('Object Repository/HD_Landing/button_Cupon'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+prdat1@gmail.com', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+prdat2@gmail.com', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/HD_Landing/Login_input__password'), 'IiiKlAiWmeOR474j7JBH5w==', 
     FailureHandling.CONTINUE_ON_FAILURE)
@@ -118,7 +141,7 @@ WebUI.navigateToUrl('http://www.hancomdocs.com/plans', FailureHandling.CONTINUE_
 
 WebUI.click(findTestObject('HD_Landing/plancard_subscribe_biz_m_plan'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+prdat1@gmail.com', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+prdat2@gmail.com', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/HD_Landing/Login_input__password'), 'IiiKlAiWmeOR474j7JBH5w==', 
     FailureHandling.CONTINUE_ON_FAILURE)

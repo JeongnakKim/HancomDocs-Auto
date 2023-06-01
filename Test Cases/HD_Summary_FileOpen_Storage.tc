@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>저장소 파일,폴더 열고 정상동작인지 확인
- a.폴더
- b.문서파일
- c.뷰어파일
- d.기타파일</description>
+   <description>파일 실행 (저장소-전체)
+- 모든 파일 열기, 닫기 (독스 지원 모든 확장자)
+- 폴더 진입</description>
    <name>HD_Summary_FileOpen_Storage</name>
    <tag></tag>
    <comment></comment>
