@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/div/header/div/div/div[3]/button[3]/div</value>
+         <value>//h2[(text() = '내게 맞는 요금제를 선택하세요' or . = '내게 맞는 요금제를 선택하세요')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>e0de1ed1-7c5d-43ca-b0c3-98452b463b6f</webElementGuid>
+      <webElementGuid>99f8fc94-c873-47a9-8af9-4028ea77fe2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-h2 css-wdhgy4</value>
-      <webElementGuid>02b487f8-f450-4afb-a3fa-95102b8826bd</webElementGuid>
+      <webElementGuid>4a00db6e-29e5-45c4-934c-288f502061aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>내게 맞는 요금제를 선택하세요</value>
-      <webElementGuid>a4b37bfd-5ca3-476e-a74b-25e73e51aefb</webElementGuid>
+      <webElementGuid>5294ae52-ca18-44b9-8453-19ccc6dbbbc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[@class=&quot;MuiBox-root css-i4ifzj&quot;]/div[@class=&quot;MuiBox-root css-8atqhb&quot;]/h2[@class=&quot;MuiTypography-root MuiTypography-h2 css-wdhgy4&quot;]</value>
-      <webElementGuid>32174085-abcd-45e5-9922-bfe2152c51b2</webElementGuid>
+      <webElementGuid>f6ba9a10-3173-4245-ad89-7000d7c0af82</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div/div[2]/h2</value>
-      <webElementGuid>274ff1cf-0109-4297-a196-20d5e38eaca4</webElementGuid>
+      <webElementGuid>89eb941e-61a9-4227-8a74-e0397052c265</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='요금제 업그레이드'])[1]/following::h2[1]</value>
-      <webElementGuid>8a7ab83e-c73c-4286-94eb-06662bc64ef9</webElementGuid>
+      <webElementGuid>acdc1cc8-965f-4529-872a-53402f2bd012</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='설정'])[1]/following::h2[2]</value>
-      <webElementGuid>56fcbf80-e875-47a5-8dee-48ad987c5d42</webElementGuid>
+      <webElementGuid>b0a9f0ba-494c-423f-a444-572ac9e00a19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='무료'])[1]/preceding::h2[1]</value>
-      <webElementGuid>c6100a50-5612-4cf6-86c0-9f62e3e2b115</webElementGuid>
+      <webElementGuid>5f1256cc-d9ec-44cc-aa5e-49968fa0ec00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='₩0'])[1]/preceding::h2[2]</value>
-      <webElementGuid>3d2310ec-fef0-43f4-8401-4c1763fb29d4</webElementGuid>
+      <webElementGuid>173e5a70-b900-461e-9f85-7a45be3f75d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='내게 맞는 요금제를 선택하세요']/parent::*</value>
-      <webElementGuid>54d59fad-8fff-4795-96b9-e85394958a02</webElementGuid>
+      <webElementGuid>68fd4be1-bef9-4841-b615-f70471412e4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/h2</value>
-      <webElementGuid>7217465d-83d3-4b11-9893-dde02d0b0eba</webElementGuid>
+      <webElementGuid>098cc107-7ff4-40a7-a7fa-e70c7edf4fec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = '내게 맞는 요금제를 선택하세요' or . = '내게 맞는 요금제를 선택하세요')]</value>
-      <webElementGuid>ada5e16a-1836-44db-a5b7-e11acfb0c9da</webElementGuid>
+      <webElementGuid>4ed921f0-f931-4000-9457-f4ea126ccdb2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

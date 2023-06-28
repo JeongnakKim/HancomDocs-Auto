@@ -69,7 +69,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/certif
 
 WebUI.navigateToUrl('http://www.hancomdocs.com/home', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon_free'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_Logout'), FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -98,7 +98,7 @@ WebUI.click(findTestObject('Object Repository/HD_Landing/button_Login'), Failure
 
 WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/Title_Setting'), '설정', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon_free'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_Logout'), FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -152,7 +152,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/HD_Landing/certifictio
 
 WebUI.navigateToUrl('http://www.hancomdocs.com/home', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon_free'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_Logout'), FailureHandling.CONTINUE_ON_FAILURE)
 

@@ -68,7 +68,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/certif
 
 WebUI.navigateToUrl('http://www.stg.hancomdocs.com/home')
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'))
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon_free'))
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_Logout'))
 
@@ -96,7 +96,7 @@ WebUI.click(findTestObject('Object Repository/HD_Landing/button_Login'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/Title_Setting'), '설정')
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'))
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon_free'))
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_Logout'))
 
@@ -146,7 +146,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/HD_Landing/certifictio
 
 WebUI.navigateToUrl('http://www.stg.hancomdocs.com/home')
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'))
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon_free'))
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_Logout'))
 

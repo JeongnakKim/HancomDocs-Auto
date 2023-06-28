@@ -17,7 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('HD_Luncher/Profile_icon_free'))
+WebUI.openBrowser('')
 
-WebUI.click(findTestObject('HD_Luncher/Button/button_Logout'))
+WebUI.navigateToUrl('https://www.hancomdocs.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_/span_'))
+
+WebUI.click(findTestObject('Object Repository/Page_/input__email'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_/input__password'), 'IiiKlAiWmeOR474j7JBH5w==')
+
+WebUI.click(findTestObject('Object Repository/Page_/button_'))
 

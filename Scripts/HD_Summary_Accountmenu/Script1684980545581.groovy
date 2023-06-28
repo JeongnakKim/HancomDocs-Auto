@@ -30,7 +30,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/HD_Landing/Login_input_
 
 WebUI.click(findTestObject('Object Repository/HD_Landing/button_Login'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon_free'), FailureHandling.CONTINUE_ON_FAILURE)
 
 '등급 아이콘 (무료)'
 WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/account_grade'), '무료', FailureHandling.CONTINUE_ON_FAILURE)
@@ -68,7 +68,7 @@ WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon_free'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_help_accountmenu'), FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -84,7 +84,7 @@ WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon_free'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_conteatus_accountmenu'), FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -100,14 +100,14 @@ WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon_free'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_subscribe_accountmenu'), FailureHandling.CONTINUE_ON_FAILURE)
 
 '요금제 title'
 WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Text/plantable_title_txt'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon_free'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_setting_accountmenu'), FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -129,7 +129,7 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Text/pla
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_plantable_back'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon_free'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_Logout'), FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -142,7 +142,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/HD_Landing/Login_input_
 
 WebUI.click(findTestObject('Object Repository/HD_Landing/button_Login'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon_free'), FailureHandling.CONTINUE_ON_FAILURE)
 
 '등급 아이콘'
 WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/account_grade'), '개인용', FailureHandling.CONTINUE_ON_FAILURE)
@@ -206,7 +206,7 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Text/sub
 '구독 변경 기록 뒤로가기'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_back_setting'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon_free'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_Logout'), FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -219,7 +219,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/HD_Landing/Login_input_
 
 WebUI.click(findTestObject('Object Repository/HD_Landing/button_Login'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon_free'), FailureHandling.CONTINUE_ON_FAILURE)
 
 '등급 아이콘'
 WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/account_grade'), '기업용', FailureHandling.CONTINUE_ON_FAILURE)
@@ -251,7 +251,7 @@ WebUI.click(findTestObject('HD_Luncher/Button/button_setting_accountmenu'), Fail
 WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/connectdevice_name_area'), 'DESKTOP-PTKT1R2', 
     FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon_free'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_manage organization'), FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -259,7 +259,7 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Text/man
 
 WebUI.navigateToUrl('https://www.hancomdocs.com/home', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/Profile_icon_free'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_Logout'), FailureHandling.CONTINUE_ON_FAILURE)
 

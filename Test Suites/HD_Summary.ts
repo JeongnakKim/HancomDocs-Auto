@@ -4,7 +4,7 @@
    <name>HD_Summary</name>
    <tag></tag>
    <delayBetweenInstances>2</delayBetweenInstances>
-   <executionMode>SEQUENTIAL</executionMode>
+   <executionMode>PARALLEL</executionMode>
    <maxConcurrentInstances>2</maxConcurrentInstances>
    <testSuiteRunConfigurations>
       <TestSuiteRunConfiguration>
