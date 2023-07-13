@@ -57,7 +57,7 @@
       <guid>eca91c71-723b-46cb-b631-e82a9457eaf6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/HD_Summary_Logout</testCaseId>
+      <testCaseId>Test Cases/HD_Summary_Logout (subscribe)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

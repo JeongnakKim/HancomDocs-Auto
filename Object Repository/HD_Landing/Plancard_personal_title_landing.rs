@@ -6,12 +6,12 @@
    <elementGuidId>74b2b116-ada7-4479-9c5e-2f937736ff65</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/main/div/section[7]/div[2]/div/div[2]/div/h2</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12.MuiGrid-grid-md-6.MuiGrid-grid-lg-4.css-qy321i > div.MuiBox-root.css-18owihd > h2.MuiTypography-root.MuiTypography-h2.css-6w5kag</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[(text() = '개인용' or . = '개인용')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>600f3346-5c94-4f33-a7bd-b49b6ecf50a5</webElementGuid>
+      <webElementGuid>28b5260d-98bc-4200-9df2-20a5919a8f1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-h2 css-6w5kag</value>
-      <webElementGuid>acd5bd7c-f040-4349-a73b-07c8e7797a15</webElementGuid>
+      <webElementGuid>73d702ed-3555-4344-8435-3ea54cdc31d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>개인용</value>
-      <webElementGuid>29d7ef4c-92dc-4fe3-a30e-c4567de314d6</webElementGuid>
+      <webElementGuid>5aa24163-1ebe-48a9-85c5-caa0abeea655</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1j23mgk&quot;]/main[@class=&quot;MuiBox-root css-hngt96&quot;]/div[@class=&quot;MuiBox-root css-1t9hyv3&quot;]/section[@class=&quot;animation css-iu00zm HCScrollAni&quot;]/div[@class=&quot;MuiBox-root css-1f6yz4q&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-undefined css-1web69g&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4 css-qy321i&quot;]/div[@class=&quot;MuiBox-root css-18owihd&quot;]/h2[@class=&quot;MuiTypography-root MuiTypography-h2 css-6w5kag&quot;]</value>
-      <webElementGuid>6a21de64-7303-4bab-97f3-c67ae48e4b5a</webElementGuid>
+      <webElementGuid>916d4d6f-905a-4724-9e08-6bf5d62beca0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div/section[7]/div[2]/div/div[2]/div/h2</value>
-      <webElementGuid>24c2f13c-000c-4af4-8094-21ac158c20cd</webElementGuid>
+      <webElementGuid>add8ab41-3e73-4557-82dc-0319487e5115</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='₩0'])[1]/following::h2[1]</value>
-      <webElementGuid>0010ecc2-23ef-428a-89b0-12b256506785</webElementGuid>
+      <webElementGuid>df79c85d-8675-4b3f-816d-a3b7dc9ff0cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='무료'])[1]/following::h2[1]</value>
-      <webElementGuid>223ba0df-28ed-4e8d-89b7-61c9ad850999</webElementGuid>
+      <webElementGuid>9b3b3213-338e-4247-b24f-069a8caa8f13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='개인용']/parent::*</value>
-      <webElementGuid>1f021b92-1f64-4af7-b532-24909ec3b51e</webElementGuid>
+      <webElementGuid>e7c03d60-988a-43e3-bcbe-54d271fd09bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/h2</value>
-      <webElementGuid>b1035531-224d-4236-94e6-03e284532a72</webElementGuid>
+      <webElementGuid>43f461c5-144d-47d7-8d41-5ee4b6e7953c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = '개인용' or . = '개인용')]</value>
-      <webElementGuid>ef85f1ce-1d76-428c-a3fa-a4a0fb99ffcb</webElementGuid>
+      <webElementGuid>e86ec61d-903b-4ae0-8369-bae672323af9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

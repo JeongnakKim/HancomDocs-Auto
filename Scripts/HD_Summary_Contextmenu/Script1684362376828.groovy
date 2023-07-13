@@ -282,7 +282,8 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'hwp파일 테스트.hwp - 한글', FailureHandling.CONTINUE_ON_FAILURE)
+'기존 hwp파일인데, 계정 확인시 순서가 2번째에 owpml이 위치하는거 같아 바꿔봄'
+WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'owpml파일 테스트.owpml - 한글', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 

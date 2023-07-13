@@ -25,8 +25,8 @@ WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_filter_ha
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_filter_Ok'), FailureHandling.CONTINUE_ON_FAILURE)
 
-'5번 owpml파일 테스트 텍스트 비교'
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/BodyTable/Home/Body_Home_Recent_5'), 'owpml파일 테스트', 
+'5번 owpml파일 테스트 텍스트 비교 -> 5번 hwpx파일로 변경해봄'
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/BodyTable/Home/Body_Home_Recent_5'), 'hwpx파일 테스트', 
     FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_filter'), FailureHandling.CONTINUE_ON_FAILURE)

@@ -55,7 +55,7 @@ WebUI.click(findTestObject('HD_Luncher/Button/button_copy_herecopy'), FailureHan
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/variable object/copytest_newfolder_open'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('HD_Luncher/BodyTable/Storage/Body_Storage_All_1'), '보고서.docx', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('HD_Luncher/BodyTable/Storage/Body_Storage_All_1'), '이력서.docx', FailureHandling.CONTINUE_ON_FAILURE)
 
 '저장공간'
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/LNB_Menu/Menu_Storage'), FailureHandling.CONTINUE_ON_FAILURE)

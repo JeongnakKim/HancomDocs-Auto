@@ -38,7 +38,7 @@
       <guid>0d3330cb-9e3e-49ac-939a-1c42089afcda</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/HD_Summary_Logout</testCaseId>
+      <testCaseId>Test Cases/HD_Summary_Logout (subscribe)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -63,10 +63,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>86cadd12-e7e3-4587-aaa7-92c990de9e53</guid>
+      <guid>f3dac0ff-6221-4ce6-b4ac-dcb1ae57df9d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/HD_Summary_Logout</testCaseId>
+      <testCaseId>Test Cases/HD_Summary_Logout (free)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

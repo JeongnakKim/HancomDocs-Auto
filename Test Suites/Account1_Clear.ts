@@ -29,7 +29,7 @@
       <guid>cff4b402-39d9-4952-8099-baac515c1109</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/HD_Summary_Logout</testCaseId>
+      <testCaseId>Test Cases/HD_Summary_Logout (subscribe)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

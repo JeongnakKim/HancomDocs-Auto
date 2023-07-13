@@ -87,7 +87,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/HD_Landing/button_Logi
 
 WebUI.navigateToUrl('http://www.hancomdocs.com/', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Landing/button_Cupon'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Landing/button_Coupon'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+prdat2@gmail.com', FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -139,7 +139,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/HD_Landing/button_Logi
 
 WebUI.navigateToUrl('http://www.hancomdocs.com/plans', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Landing/plancard_subscribe_biz_m_plan'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Landing/plancard_subscribe_biz_m_plan'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+prdat2@gmail.com', FailureHandling.CONTINUE_ON_FAILURE)
 

@@ -6,12 +6,11 @@
    <elementGuidId>bea29ab6-e1b3-4d55-a913-55111346eec2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//li[(text() = 'iOS용 한컴독스' or . = 'iOS용 한컴독스')]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//li[(text() = 'iOS용 한컴독스' or . = 'iOS용 한컴독스')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>b28d1deb-1c58-485d-a50f-56b4ad8f6be8</webElementGuid>
+      <webElementGuid>1b12d047-1909-4d2d-81f4-93c01a173a7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root css-gqh2po</value>
-      <webElementGuid>e306224f-5d45-4bb3-b283-d114fdeaa860</webElementGuid>
+      <webElementGuid>8592325e-163d-4c88-889a-075c9c13fb5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>c4305f9e-8ab1-473e-bfa5-b7c08c3661ad</webElementGuid>
+      <webElementGuid>fd7c1b97-416c-449e-ba4b-32e5fdeba755</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>babb4c56-e182-4910-b960-3daa662a31a0</webElementGuid>
+      <webElementGuid>3f2454b2-1c99-4a1d-9fd6-f2c300509f89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>iOS용 한컴독스</value>
-      <webElementGuid>91811d3e-61e0-485a-9e5f-fea3dd2a491b</webElementGuid>
+      <webElementGuid>862c6d28-e7df-445d-9312-457cdfa0ffd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;appbar-download-menu&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiMenu-paper MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-161yt8n&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-r8u8y9&quot;]/li[@class=&quot;MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root css-gqh2po&quot;]</value>
-      <webElementGuid>5d238d4b-68b9-42dc-8284-d93a83def996</webElementGuid>
+      <webElementGuid>a3510698-8c52-43f3-949a-9dfd3bc83686</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='appbar-download-menu']/div[3]/ul/li[3]</value>
-      <webElementGuid>7e499b80-2193-4e45-bc53-b7e1f8fee9d8</webElementGuid>
+      <webElementGuid>d1c41f87-7d7b-4786-9057-2ffd2ffdcdd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='macOS용 한글'])[1]/following::li[1]</value>
-      <webElementGuid>b6b44584-aa41-4844-8cb9-7a5c7049a43e</webElementGuid>
+      <webElementGuid>e120804d-5402-49be-831d-959a0a0b61ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Windows용 한컴오피스'])[1]/following::li[2]</value>
-      <webElementGuid>35910818-1c5f-4dc1-a173-e4711b76553c</webElementGuid>
+      <webElementGuid>8c50fadb-247a-44ee-b603-12cc17e1bcbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Android용 한컴독스'])[1]/preceding::li[1]</value>
-      <webElementGuid>339623bf-5371-40d4-a9fd-6cbee62a9186</webElementGuid>
+      <webElementGuid>7a455931-b8ab-4b4c-b47a-7aadd95a8224</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Windows용 한PDF+'])[1]/preceding::li[2]</value>
-      <webElementGuid>9004ba04-7e4c-4bf1-8740-131fabc5f5a5</webElementGuid>
+      <webElementGuid>2b8e1a70-2c59-4e3f-893e-8603300952c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='iOS용 한컴독스']/parent::*</value>
-      <webElementGuid>4329bb7e-ee80-4e2d-b976-fce2d95f0f84</webElementGuid>
+      <webElementGuid>23ca9db6-9d7e-47b8-9023-20ff51378cb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/ul/li[3]</value>
-      <webElementGuid>0965f0ae-71f3-49c4-a855-9d3bef9e33d7</webElementGuid>
+      <webElementGuid>2b302dc6-d57d-44a8-8df5-7c75b9038028</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'iOS용 한컴독스' or . = 'iOS용 한컴독스')]</value>
-      <webElementGuid>803b1221-d62d-49f1-8565-9a529bd50c8b</webElementGuid>
+      <webElementGuid>4c760686-5515-4e26-8dc7-7bfe71e2dc96</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -2,8 +2,8 @@
 <TestCaseEntity>
    <description>로그아웃
  1.런처 > 계정메뉴를 통해 로그아웃 (랜딩페이지 이동)</description>
-   <name>HD_Summary_Logout</name>
+   <name>HD_Summary_Logout (free)</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>f7c07330-9733-40ca-b628-3d2e7d007351</testCaseGuid>
+   <testCaseGuid>6cf1ed58-d6cd-4285-ac70-541a2093bc4a</testCaseGuid>
 </TestCaseEntity>

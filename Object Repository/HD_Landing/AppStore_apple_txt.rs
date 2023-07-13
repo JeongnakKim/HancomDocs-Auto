@@ -6,12 +6,12 @@
    <elementGuidId>57b751ab-ca3b-41d4-8128-5b596e261696</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//nav[@id='localnav']/div/div[2]/div/a/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.we-localnav__title__product</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='localnav']/div/div[2]/div/a/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>9e216167-a1d0-4584-a803-04a7afa40dfa</webElementGuid>
+      <webElementGuid>3ac0b044-2579-4f5a-a5f5-453d4dc1b197</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>we-localnav__title__product</value>
-      <webElementGuid>72b2be10-16ad-46f0-a744-f9b194ac87fa</webElementGuid>
+      <webElementGuid>209dbbf5-069e-44d4-9b1d-2600d6736245</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>App Store</value>
-      <webElementGuid>04f2b193-42a9-4b24-9ea0-172393922e7b</webElementGuid>
+      <webElementGuid>b33043bb-fa10-4179-98ba-3e29b4619eed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;localnav&quot;)/div[@class=&quot;localnav-wrapper&quot;]/div[@class=&quot;localnav-content we-localnav__content&quot;]/div[@class=&quot;localnav-title we-localnav__title&quot;]/a[1]/span[@class=&quot;we-localnav__title__product&quot;]</value>
-      <webElementGuid>270345d0-2db6-4c44-aa22-33792eb40adb</webElementGuid>
+      <webElementGuid>61ba9926-239d-427a-b98a-27cd0034148c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//nav[@id='localnav']/div/div[2]/div/a/span</value>
-      <webElementGuid>88254488-ff09-4aff-9369-bd281f9db9d3</webElementGuid>
+      <webElementGuid>58854c24-b185-4c2a-98c1-d21b064481f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::span[2]</value>
-      <webElementGuid>d5854589-0b97-4b62-b99b-23cc937edb2c</webElementGuid>
+      <webElementGuid>dc1f468b-0960-4d2c-bb79-a57b05baac2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessibility'])[1]/following::span[14]</value>
-      <webElementGuid>325e8743-e37a-42f0-b8d4-1c2e12969d22</webElementGuid>
+      <webElementGuid>6c326373-b2e1-433d-ab6d-fcfac5980ab5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[1]/preceding::span[1]</value>
-      <webElementGuid>56e1e8ca-bfd1-4687-ba06-55059ddc7bbd</webElementGuid>
+      <webElementGuid>43a28f87-7937-499d-95b3-91e1ae94e3ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/a/span</value>
-      <webElementGuid>75b1b626-89f0-45c6-8049-38d6d27dd1aa</webElementGuid>
+      <webElementGuid>ce74a026-b5b7-467d-a612-04ebc30030a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'App Store' or . = 'App Store')]</value>
-      <webElementGuid>ef62638a-7bb1-4006-8e67-12018242e187</webElementGuid>
+      <webElementGuid>fb082c5c-3da6-4537-82f2-22083bf3e9a8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

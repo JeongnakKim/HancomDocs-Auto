@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Cupon</name>
+   <name>button_Coupon</name>
    <tag></tag>
    <elementGuidId>c51f3a54-1535-4268-b0cd-7bf786aecada</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/main/div/section[7]/div/div/div[2]/a[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.MuiTypography-root.MuiTypography-inherit.MuiLink-root.MuiLink-underlineHover.css-ktddar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[1]/main/div/section[6]/div[1]/div/div[2]/a[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8a6bfb9e-0359-4d4c-9b43-687b8d8a9df8</webElementGuid>
+      <webElementGuid>09c0bb17-f6f8-4e0a-85c5-c86611139b50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-ktddar</value>
-      <webElementGuid>1c3cce22-a51f-4f69-b94b-2f1a84781869</webElementGuid>
+      <webElementGuid>66fdd323-2cea-4503-b45a-596a09f0bda8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-analysis-id</name>
       <type>Main</type>
       <value>home_coupon_register</value>
-      <webElementGuid>98df1dd9-055b-4a46-83a9-4ab233898421</webElementGuid>
+      <webElementGuid>1895867e-d802-4ca4-a4da-87086006b415</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/settings/subscription</value>
-      <webElementGuid>9b975254-f8eb-4dd0-9834-f87fdda1713d</webElementGuid>
+      <webElementGuid>9f12ce72-3d1d-4bba-b612-002f55939b8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>이용권 등록하기</value>
-      <webElementGuid>b1a3773b-9601-43ed-8406-ac5219eac659</webElementGuid>
+      <webElementGuid>f2225e09-183d-425c-ba46-cf314260a38a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1j23mgk&quot;]/main[@class=&quot;MuiBox-root css-hngt96&quot;]/div[@class=&quot;MuiBox-root css-1t9hyv3&quot;]/section[@class=&quot;animation css-iu00zm HCScrollAni&quot;]/div[@class=&quot;MuiBox-root css-1pc1w1t&quot;]/div[@class=&quot;MuiBox-root css-uogtfz&quot;]/div[@class=&quot;MuiBox-root css-je5rna&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-ktddar&quot;]</value>
-      <webElementGuid>95ba786f-bc18-47c4-8c9b-6d5064ed49a9</webElementGuid>
+      <webElementGuid>e1fc6f40-04e5-41c3-a184-d4b35d2d6c71</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div/section[7]/div/div/div[2]/a[2]</value>
-      <webElementGuid>96f02519-3a94-4a12-a7ed-3fa9e07d13ad</webElementGuid>
+      <webElementGuid>da4fa597-4a3c-425f-99aa-d778626453c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'이용권 등록하기')])[2]</value>
-      <webElementGuid>31c71216-7d57-44a5-b9c5-f9167dd595f4</webElementGuid>
+      <webElementGuid>271f9115-cc0e-4ab1-8c47-24ffab9d198b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='요금제 자세히 보기'])[1]/following::a[1]</value>
-      <webElementGuid>b5cafca0-b6e1-43c0-b182-0c15dfbda788</webElementGuid>
+      <webElementGuid>1c3e6239-50c9-465a-9fd4-e40b3734a008</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='무료'])[1]/preceding::a[1]</value>
-      <webElementGuid>f9e71480-b91e-4f86-8add-fbab41ba1ea2</webElementGuid>
+      <webElementGuid>1c4a1988-e829-43e7-b5c2-9bd9d61dc7ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='₩0'])[1]/preceding::a[1]</value>
-      <webElementGuid>16045026-6b00-47a7-8f54-cbdc4f0a91c4</webElementGuid>
+      <webElementGuid>822f0d9f-7672-4695-92c2-f3e4d6e4fc39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/settings/subscription')])[2]</value>
-      <webElementGuid>b4f814f2-af55-4e5c-9fdf-41f6cac762e1</webElementGuid>
+      <webElementGuid>5adf48fe-5785-45b1-838a-a2768c3cf9b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
-      <webElementGuid>fd9c9463-1f27-4450-8882-27ea9d59aeaf</webElementGuid>
+      <webElementGuid>0e2c3b93-23d6-4a01-90db-ed2fc3bc7476</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/settings/subscription' and (text() = '이용권 등록하기' or . = '이용권 등록하기')]</value>
-      <webElementGuid>fec96aaa-5a23-4cfc-a931-53126543cc0d</webElementGuid>
+      <webElementGuid>0ac9cd7f-131e-40e0-b25e-da8ca6016787</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

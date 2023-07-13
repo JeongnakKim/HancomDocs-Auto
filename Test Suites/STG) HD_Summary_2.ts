@@ -54,10 +54,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>9282dc9e-fd6f-4cdd-b4d0-ea63cef8182b</guid>
+      <guid>890587aa-7416-4ad9-8a2d-6fe446e54105</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/HD_Summary_Logout</testCaseId>
+      <testCaseId>Test Cases/HD_Summary_Logout (free)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

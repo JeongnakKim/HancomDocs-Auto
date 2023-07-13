@@ -6,12 +6,12 @@
    <elementGuidId>62ab66e7-190f-4066-9e81-00bfb53a28d1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/main/div/section/div/h2</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>h2.MuiTypography-root.MuiTypography-h2.css-6w5kag</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/section/div/h2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>66612edd-d300-4743-9b73-c4e9442a8305</webElementGuid>
+      <webElementGuid>b16675c0-415b-4a74-ba3d-b1b334f66931</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-h2 css-6w5kag</value>
-      <webElementGuid>b110b3d2-f3cc-40ae-bc6a-445e9ba502b6</webElementGuid>
+      <webElementGuid>58d489bc-02bd-4680-9566-6e413f63680a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>이제 한컴오피스 구독으로</value>
-      <webElementGuid>77539048-3e7f-4602-af1a-6f3b921318c4</webElementGuid>
+      <webElementGuid>8534ba50-80e7-4cd6-acda-598f6c400e72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1j23mgk&quot;]/main[@class=&quot;MuiBox-root css-hngt96&quot;]/div[@class=&quot;MuiBox-root css-1t9hyv3&quot;]/section[@class=&quot;css-160flv4&quot;]/div[@class=&quot;MuiBox-root css-1pc1w1t&quot;]/h2[@class=&quot;MuiTypography-root MuiTypography-h2 css-6w5kag&quot;]</value>
-      <webElementGuid>ec78e48c-f308-49c7-80fe-56f4301ab664</webElementGuid>
+      <webElementGuid>4ec45668-3607-4d3a-a497-f6c4001ee1e8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div/section/div/h2</value>
-      <webElementGuid>108d65b1-b3e1-483c-b019-d0aeb1fc700b</webElementGuid>
+      <webElementGuid>70fcf142-81e5-432c-ab45-93994278766d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='이용권 등록하기'])[1]/following::h2[1]</value>
-      <webElementGuid>8704c5c2-2f52-483a-9219-ff8e8f4b4ead</webElementGuid>
+      <webElementGuid>f7b8e85b-80ef-438c-9fb1-cfbf3c1e64e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='구독하기'])[1]/following::h2[1]</value>
-      <webElementGuid>3a04de24-60ff-44c8-a5fa-8bd9d118d256</webElementGuid>
+      <webElementGuid>93f74b85-45d8-4a5e-9ca4-f72b46f54166</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='구독하기'])[2]/preceding::h2[1]</value>
-      <webElementGuid>34b61e69-208d-4eea-a884-71cebc48198b</webElementGuid>
+      <webElementGuid>17f4b749-ecdd-44a1-89d2-71c8db7f238f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='한컴오피스가 구독형 서비스인 한컴독스로 새롭게 바뀌었어요.'])[1]/preceding::h2[1]</value>
-      <webElementGuid>7c7a9614-f4f4-4ecb-b2b8-d6d658c5c196</webElementGuid>
+      <webElementGuid>26b5ea3b-d40d-4bd2-91ac-84b1868b4ad6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='이제 한컴오피스 구독으로']/parent::*</value>
-      <webElementGuid>80922e5f-e140-4794-8c89-1bd1085ce5b8</webElementGuid>
+      <webElementGuid>fc1f2d6b-ec66-4578-9e81-6bda20320a91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>1d512856-b54e-468e-bb63-43b5273dabcc</webElementGuid>
+      <webElementGuid>6458ca33-3ab1-4c53-b98d-55a2376b38f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = '이제 한컴오피스 구독으로' or . = '이제 한컴오피스 구독으로')]</value>
-      <webElementGuid>09ab6cc6-7c00-4494-8fd0-23fbfe494687</webElementGuid>
+      <webElementGuid>0cee087b-4512-4c58-ae90-73325d845f5e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

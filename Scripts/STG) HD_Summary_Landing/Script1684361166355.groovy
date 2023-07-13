@@ -86,7 +86,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/HD_Landing/button_Logi
 
 WebUI.navigateToUrl('http://www.stg.hancomdocs.com/')
 
-WebUI.click(findTestObject('Object Repository/HD_Landing/button_Cupon'))
+WebUI.click(findTestObject('Object Repository/HD_Landing/button_Coupon'))
 
 WebUI.setText(findTestObject('Object Repository/HD_Landing/Login_input__email'), 'hcnewbiz+stgat2@gmail.com')
 

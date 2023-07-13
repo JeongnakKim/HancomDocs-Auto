@@ -6,12 +6,12 @@
    <elementGuidId>7e2647b5-2910-4e6e-ba68-44cd41907711</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/main/div/div[2]/p</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>p.MuiTypography-root.MuiTypography-body1.css-ri9wdm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/div[2]/p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>e9dcd3b6-1ffb-434a-9bab-f9f0f11f82d1</webElementGuid>
+      <webElementGuid>5b125597-4bf8-4b31-85a5-7cf6088666d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-body1 css-ri9wdm</value>
-      <webElementGuid>9f957996-8163-4a37-8507-e61318ddd314</webElementGuid>
+      <webElementGuid>59d6640d-51f5-421e-abc6-9be6a0b86d1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>기업용 월간 이용</value>
-      <webElementGuid>5f90be3e-87c5-4a5f-9318-00e152ca360e</webElementGuid>
+      <webElementGuid>ffc6924d-e8e5-46f6-a10f-60d309c719af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[@class=&quot;MuiBox-root css-5094bx&quot;]/div[@class=&quot;MuiBox-root css-14f6zur&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-ri9wdm&quot;]</value>
-      <webElementGuid>0c1e99d6-cbb3-4876-bbf7-f6f4ca25bbfc</webElementGuid>
+      <webElementGuid>015e4277-f233-4e31-9aae-c07daca92f26</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div/div[2]/p</value>
-      <webElementGuid>691edecc-1856-4e63-8314-71d65dc834b0</webElementGuid>
+      <webElementGuid>0d417857-9509-4c46-9108-1c5012296dd0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='구성원 수'])[1]/following::p[1]</value>
-      <webElementGuid>0788fad5-501a-47f8-9458-ca6ef9c24a72</webElementGuid>
+      <webElementGuid>247a5433-f9fd-4223-8faf-55b98d42ac0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='조직 이름'])[1]/following::p[1]</value>
-      <webElementGuid>c7d186ad-ad44-45d9-afbb-406aea9eac14</webElementGuid>
+      <webElementGuid>6564c4ee-91c4-4500-88ef-6d6338cdf529</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='월간 이용']/parent::*</value>
-      <webElementGuid>7cd7d1b1-6940-4a59-a314-6c6511bcf8d5</webElementGuid>
+      <webElementGuid>885e6553-4a19-4d43-9fe5-8cbdeb5c2e6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/p</value>
-      <webElementGuid>5cb6383f-6611-4417-8dfc-d7dc129eebd8</webElementGuid>
+      <webElementGuid>3d8a611c-14ef-4968-a682-be573b860b8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = '기업용 월간 이용' or . = '기업용 월간 이용')]</value>
-      <webElementGuid>a3f13d71-bf7d-421f-afd5-61a42639c14d</webElementGuid>
+      <webElementGuid>cbc9d7d5-568a-4b49-b808-ff3347b07afd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

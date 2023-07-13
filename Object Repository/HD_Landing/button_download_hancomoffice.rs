@@ -6,12 +6,12 @@
    <elementGuidId>773e5472-f6c8-4028-86d7-0b030a04e46f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//li[(text() = 'Windows용 한컴오피스' or . = 'Windows용 한컴오피스')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>li.MuiMenuItem-root.MuiMenuItem-gutters.MuiButtonBase-root.css-gqh2po</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[(text() = 'Windows용 한컴오피스' or . = 'Windows용 한컴오피스')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>667931b4-3f84-46b1-bd75-9dc9399973ca</webElementGuid>
+      <webElementGuid>3195307c-2a89-4a4f-87d2-770b8c307409</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root css-gqh2po</value>
-      <webElementGuid>e4801b01-9e70-43e5-b2ef-843d6d301815</webElementGuid>
+      <webElementGuid>0537809d-3233-4bf4-a2db-8412fa086e01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>16e07812-82b8-43fc-963e-028c2f5a164f</webElementGuid>
+      <webElementGuid>c84d08c5-650a-41bb-b775-629f823df019</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>ef8db031-ebc2-4f80-a780-54c591b83a1e</webElementGuid>
+      <webElementGuid>41c56e4c-9826-4c54-b5a5-1f325c420b36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-analysis-id</name>
       <type>Main</type>
       <value>home_Windows_download_click</value>
-      <webElementGuid>849620d5-9b4a-4e7a-aa8b-d85cc4ad475d</webElementGuid>
+      <webElementGuid>b7d1414a-b108-4ceb-a7a7-12de38e8469e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Windows용 한컴오피스</value>
-      <webElementGuid>91dfcd60-27fe-4e00-b465-70e1a118d655</webElementGuid>
+      <webElementGuid>01612e79-9fc8-40a5-b41a-f7fe209a9299</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;appbar-download-menu&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiMenu-paper MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-161yt8n&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-r8u8y9&quot;]/li[@class=&quot;MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root css-gqh2po&quot;]</value>
-      <webElementGuid>c1f03a80-059f-4a3f-9826-fa7054b0f38b</webElementGuid>
+      <webElementGuid>336af35e-c5a4-40d0-8022-15de034e68aa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='appbar-download-menu']/div[3]/ul/li</value>
-      <webElementGuid>ba162876-87ae-447b-a837-9d026f865b65</webElementGuid>
+      <webElementGuid>69ed7ccf-4ff6-4ee9-b7de-cffec3c1e3d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hancom Inc.'])[1]/following::li[1]</value>
-      <webElementGuid>f43b6428-0470-4ce6-ab4c-e04c0f763769</webElementGuid>
+      <webElementGuid>75e4641f-a38d-499e-a43f-678af31bbe57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='고객지원: 평일 9시~18시 (1566-5192)'])[1]/following::li[1]</value>
-      <webElementGuid>1b1022c6-44a7-481b-9018-fc9b8022a87f</webElementGuid>
+      <webElementGuid>38d6cf49-a268-4447-abbf-0af410d81506</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='macOS용 한글'])[1]/preceding::li[1]</value>
-      <webElementGuid>ecab177a-252b-40ba-8420-36ef3d00baab</webElementGuid>
+      <webElementGuid>a31c4b30-2fb8-418e-a470-b8a7b5614567</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='iOS용 한컴독스'])[1]/preceding::li[2]</value>
-      <webElementGuid>11d7ae1f-d067-434f-888e-0893692b047d</webElementGuid>
+      <webElementGuid>deed072c-87b8-49c5-97b1-3290459e5312</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Windows용 한컴오피스']/parent::*</value>
-      <webElementGuid>c068fa53-5f89-432e-8d26-82e07f3c7012</webElementGuid>
+      <webElementGuid>a59faffc-b457-4b5c-8057-a69ae0e978c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/ul/li</value>
-      <webElementGuid>6bdc6a4f-0e9a-48dc-9190-42e9386fddd3</webElementGuid>
+      <webElementGuid>02140f6d-5436-46fb-8ad0-447c45d94ac7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Windows용 한컴오피스' or . = 'Windows용 한컴오피스')]</value>
-      <webElementGuid>f6367d70-38e0-4ead-a899-91dfc854d24e</webElementGuid>
+      <webElementGuid>1668e8d3-55ff-404d-b7a2-bdc67b86c838</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

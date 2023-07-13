@@ -17,81 +17,81 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Storage'))
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Storage'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Button/button_NewCreate'))
+WebUI.click(findTestObject('HD_Luncher/Button/button_NewCreate'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Button/button_NewCreate_hangeul'))
+WebUI.click(findTestObject('HD_Luncher/Button/button_NewCreate_hangeul'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.switchToWindowIndex(1)
+WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.waitForPageLoad(10)
+WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.delay(5)
+WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.closeWindowIndex(1)
+WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.switchToWindowIndex(0)
+WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Button/button_NewCreate'))
+WebUI.click(findTestObject('HD_Luncher/Button/button_NewCreate'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Button/button_NewCreate_hancell'))
+WebUI.click(findTestObject('HD_Luncher/Button/button_NewCreate_hancell'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.switchToWindowIndex(1)
+WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.waitForPageLoad(10)
+WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.delay(5)
+WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.closeWindowIndex(1)
+WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.switchToWindowIndex(0)
+WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Button/button_NewCreate'))
+WebUI.click(findTestObject('HD_Luncher/Button/button_NewCreate'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Button/button_NewCreate_hanshow'))
+WebUI.click(findTestObject('HD_Luncher/Button/button_NewCreate_hanshow'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.switchToWindowIndex(1)
+WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.waitForPageLoad(10)
+WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.delay(5)
+WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.closeWindowIndex(1)
+WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.switchToWindowIndex(0)
+WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Checkbox/Storage_Checkbox_1'))
+WebUI.click(findTestObject('HD_Luncher/Checkbox/Storage_Checkbox_1'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Checkbox/Storage_Checkbox_2'))
+WebUI.click(findTestObject('HD_Luncher/Checkbox/Storage_Checkbox_2'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Checkbox/Storage_Checkbox_3'))
+WebUI.click(findTestObject('HD_Luncher/Checkbox/Storage_Checkbox_3'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Button/button_tableheader_delete'))
+WebUI.click(findTestObject('HD_Luncher/Button/button_tableheader_delete'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Trashbin'))
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Trashbin'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/variable object/svg (1)'))
+WebUI.click(findTestObject('HD_Luncher/variable object/svg (1)'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Menu/Contextmenu/contextmenu_restoration'))
+WebUI.click(findTestObject('HD_Luncher/Menu/Contextmenu/contextmenu_restoration'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/variable object/svg (2)'))
+WebUI.click(findTestObject('HD_Luncher/variable object/svg (2)'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Menu/Contextmenu/contextmenu_complete delete'))
+WebUI.click(findTestObject('HD_Luncher/Menu/Contextmenu/contextmenu_complete delete'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Button/button_trashbinclear_OK'))
+WebUI.click(findTestObject('HD_Luncher/Button/button_trashbinclear_OK'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Storage'))
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Storage'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/variable object/svg'))
+WebUI.click(findTestObject('HD_Luncher/variable object/svg'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Menu/Contextmenu/contextmenu_delete'))
+WebUI.click(findTestObject('HD_Luncher/Menu/Contextmenu/contextmenu_delete'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Trashbin'))
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Trashbin'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Button/button_trashbinclear'))
+WebUI.click(findTestObject('HD_Luncher/Button/button_trashbinclear'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_Luncher/Button/button_trashbinclear_OK'))
+WebUI.click(findTestObject('HD_Luncher/Button/button_trashbinclear_OK'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('HD_Luncher/Text/Nodata_Trashbin'), '항목 없음')
+WebUI.verifyElementText(findTestObject('HD_Luncher/Text/Nodata_Trashbin'), '항목 없음', FailureHandling.CONTINUE_ON_FAILURE)
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Profile_icon_subcribe</name>
+   <name>Profile_icon_subscribe</name>
    <tag></tag>
    <elementGuidId>8ef471e2-d47b-4721-ab18-387328459cd1</elementGuidId>
    <selectorCollection>

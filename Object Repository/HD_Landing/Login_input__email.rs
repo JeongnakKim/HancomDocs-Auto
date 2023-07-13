@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>70249b93-1b8c-439e-b9a5-20ba1217887f</webElementGuid>
+      <webElementGuid>4071bf3b-09e8-4e3a-84c6-45b5b7c8d32b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>bbfa4416-8a77-4224-b5c0-66f71546e822</webElementGuid>
+      <webElementGuid>bd09d57f-6111-4c6b-8d46-4272b6a0eb9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>d607f2de-1b9f-4b5a-9e67-1928900fd4d2</webElementGuid>
+      <webElementGuid>bd6a36a1-242c-49cc-aa00-db1e8d313a9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>8973bbfe-a25b-4774-aad2-00ac5636dbec</webElementGuid>
+      <webElementGuid>39ec52f2-a8e7-4802-a1dd-d7b2566c9bb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>이메일</value>
-      <webElementGuid>c1076a12-0e3a-4e55-aa8e-e4d0956577fb</webElementGuid>
+      <webElementGuid>3ca4acdc-e20b-453a-ba56-bb3770ed9da4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>63fef586-4c83-4e0e-a38d-5fd101b81867</webElementGuid>
+      <webElementGuid>0286774f-303a-4920-9411-ffaa4fb42ca8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiInput-input css-mnn31</value>
-      <webElementGuid>8e661294-d448-4a81-b8f9-4c3c298e3c1f</webElementGuid>
+      <webElementGuid>264237a0-0d8a-448e-aac6-7fe487b6954e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;email&quot;)</value>
-      <webElementGuid>1b567481-51fd-441d-90be-47ed19102d2c</webElementGuid>
+      <webElementGuid>ced4ca81-be36-40cb-aa63-ab141bbb280f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='email']</value>
-      <webElementGuid>c0c8c60f-0378-4d05-875c-531b40045c47</webElementGuid>
+      <webElementGuid>766c8aa2-3f00-4a70-bb67-518731561274</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/form/div/div/div/input</value>
-      <webElementGuid>2e2201f3-d648-44db-8ff3-e90d0003a5cc</webElementGuid>
+      <webElementGuid>09ab052f-3cb1-4d73-90f9-1b25dbd4b567</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>64953b89-0cff-4d0b-a59f-0cbd33b43483</webElementGuid>
+      <webElementGuid>8dc56846-9fa9-4549-ad61-19e973686a7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'email' and @name = 'email' and @placeholder = '이메일' and @type = 'text']</value>
-      <webElementGuid>d064d8d5-f470-43f9-9a84-fc4ac72bc37e</webElementGuid>
+      <webElementGuid>1a108608-2745-413d-a327-ebb639cf5134</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
