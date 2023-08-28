@@ -7,13 +7,12 @@
    <imagePath>Screenshots/Targets/Page_/plancard_subscribe_personal_m.png</imagePath>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-disableElevation.MuiButtonBase-root.css-8u5v98</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[1]/main/div/section[7]/div[2]/div/div[2]/div[3]/button[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;root&quot;]/div/div[1]/main/div/section[6]/div[2]/div/div[2]/div[3]/button[1]
-</value>
+         <key>CSS</key>
+         <value>button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-disableElevation.MuiButtonBase-root.css-8u5v98</value>
       </entry>
       <entry>
          <key>IMAGE</key>
@@ -28,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>acfed156-96cf-4d14-8e8d-a7df04514b92</webElementGuid>
+      <webElementGuid>ab641013-1943-4ad0-9822-fb5ca81200b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,7 +35,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-disableElevation MuiButtonBase-root css-8u5v98</value>
-      <webElementGuid>3a488420-a74f-433d-a781-72a07c5d443d</webElementGuid>
+      <webElementGuid>4d67cd07-babe-4339-9014-f3272a82fac0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +43,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>87ad8976-7679-4603-ae6a-65000f8dd51d</webElementGuid>
+      <webElementGuid>89d98373-6164-4403-84ad-d7ad29c04c3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -52,7 +51,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b8853663-1982-47f3-b8ea-63400b5ed6de</webElementGuid>
+      <webElementGuid>7067f39c-78c9-4d0e-8b86-8d4eb33cfbe1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +59,7 @@
       <name>data-analysis-id</name>
       <type>Main</type>
       <value>home_personal_cta_click</value>
-      <webElementGuid>b991dca4-aa45-45db-93b4-e4fa135691e8</webElementGuid>
+      <webElementGuid>7298ab96-dd54-4945-9dca-07747d6f4934</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -68,7 +67,7 @@
       <name>text</name>
       <type>Main</type>
       <value>구독하기</value>
-      <webElementGuid>265874e0-bed4-4d56-8fa1-f2300dc55d53</webElementGuid>
+      <webElementGuid>f4616352-62de-4f32-89b1-24fbb24bf2e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +75,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1j23mgk&quot;]/main[@class=&quot;MuiBox-root css-hngt96&quot;]/div[@class=&quot;MuiBox-root css-1t9hyv3&quot;]/section[@class=&quot;animation css-iu00zm HCScrollAni&quot;]/div[@class=&quot;MuiBox-root css-1f6yz4q&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-undefined css-1web69g&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4 css-qy321i&quot;]/div[@class=&quot;css-p9zori&quot;]/button[@class=&quot;MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-disableElevation MuiButtonBase-root css-8u5v98&quot;]</value>
-      <webElementGuid>fe226822-c68a-47f4-b758-c894ade108f3</webElementGuid>
+      <webElementGuid>6a6405ff-b461-4d26-b8ba-79ea012d866f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -84,7 +83,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[8]</value>
-      <webElementGuid>0063e0ac-d70f-44db-9758-6f4ff299f851</webElementGuid>
+      <webElementGuid>cdc53519-6f60-4b45-8126-04fef8fd7ab4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +91,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div/section[7]/div[2]/div/div[2]/div[3]/button</value>
-      <webElementGuid>89fe9ef0-f5e0-43fb-bb22-33fb1486bfe2</webElementGuid>
+      <webElementGuid>1453023e-ede1-4796-926a-e39c8c82a469</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*5대의 PC에서 동시 사용 가능'])[1]/following::button[1]</value>
-      <webElementGuid>82c973e3-0821-4c29-95f1-266515bf96a2</webElementGuid>
+      <webElementGuid>1d4369e1-260f-468f-89a4-b7180cd8dfcd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Windows 한PDF+'])[1]/following::button[1]</value>
-      <webElementGuid>466eb7ee-88b7-4764-89ac-fcb0eabad06d</webElementGuid>
+      <webElementGuid>2c86a778-ef48-4a00-8c7e-70763a7f545d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='또는'])[1]/preceding::button[1]</value>
-      <webElementGuid>b514b7ca-e543-4720-b563-73160bdfe413</webElementGuid>
+      <webElementGuid>28529688-8d6f-40bb-8354-f00ec0f387de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,7 +123,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='₩49,000/년으로 구독'])[1]/preceding::button[1]</value>
-      <webElementGuid>8a0054d5-6f97-466f-ae85-f38d2c1d683f</webElementGuid>
+      <webElementGuid>8469d730-a3dd-4586-91cc-91bf0524167a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,7 +131,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>bcb4caad-6e4e-4079-b8ae-243f37937bcc</webElementGuid>
+      <webElementGuid>d4e4315a-bc80-40b4-a1c1-e896b9103d07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,6 +139,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = '구독하기' or . = '구독하기')]</value>
-      <webElementGuid>1dff7323-552f-4f57-a107-45e6be79c1db</webElementGuid>
+      <webElementGuid>9095032f-d2e2-4b98-a322-f97de9f307be</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

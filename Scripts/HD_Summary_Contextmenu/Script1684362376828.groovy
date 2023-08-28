@@ -70,7 +70,7 @@ WebUI.click(findTestObject('Object Repository/HD_Luncher/BodyTable/Home/context_
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Menu/Contextmenu/contextmenu_share'), FailureHandling.CONTINUE_ON_FAILURE)
 
 '공유탭 링크 보내기 헤더 텍스트'
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/Title_Sharepopup_Link'), '링크 보내기', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/Share_dialog_linkcopy'), '링크 복사', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_close_share'), FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -112,7 +112,7 @@ WebUI.click(findTestObject('HD_Luncher/Button/button_back_versionmanage'), Failu
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('HD_Luncher/BodyTable/Home/context_home_16'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('HD_Luncher/BodyTable/Home/context_home_15'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/HD_Luncher/Menu/Contextmenu/contextmenu_web open'), FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -295,7 +295,7 @@ WebUI.click(findTestObject('Object Repository/HD_Luncher/BodyTable/Storage/conte
 
 WebUI.click(findTestObject('HD_Luncher/Menu/Contextmenu/contextmenu_share'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('HD_Luncher/Text/Title_Sharepopup_Link'), '링크 보내기', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('HD_Luncher/Text/Share_dialog_linkcopy'), '링크 복사', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('HD_Luncher/Button/button_close_share'), FailureHandling.CONTINUE_ON_FAILURE)
 

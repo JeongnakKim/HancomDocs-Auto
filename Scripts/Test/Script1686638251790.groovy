@@ -19,13 +19,17 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.hancomdocs.com/')
+WebUI.navigateToUrl('https://www.stg.hancomdocs.com/ko/')
 
 WebUI.click(findTestObject('Object Repository/Page_/span_'))
 
-WebUI.click(findTestObject('Object Repository/Page_/input__email'))
+WebUI.setText(findTestObject('Object Repository/Page_/input__email'), 'jeongnak.kim@hancom.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_/input__password'), 'IiiKlAiWmeOR474j7JBH5w==')
 
-WebUI.click(findTestObject('Object Repository/Page_/button_'))
+WebUI.sendKeys(findTestObject('Object Repository/Page_/input__password'), Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_9'))
+
+WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_9_close'))
 

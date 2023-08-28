@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/div/main/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[2]/div/div</value>
+         <value>//*[@id=&quot;root&quot;]/div/div[1]/main/div[4]/div/div/div[2]/div[2]/div/div/div[3]/div[2]/div/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ab664670-062e-4ae9-ac3a-0248d661b756</webElementGuid>
+      <webElementGuid>4dd1f48d-3ef9-46d6-a3d7-c9fc049f88fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiBox-root css-1pnq6ic</value>
-      <webElementGuid>f2aed495-3721-4c1f-acb2-197ff6a71e24</webElementGuid>
+      <webElementGuid>875ad200-d7c6-483e-a948-3aa8b0dd36af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>hfrm파일 테스트.hfrm</value>
-      <webElementGuid>01409913-b5da-49c0-b984-a19e6451fad1</webElementGuid>
+      <webElementGuid>44e89d41-f710-44aa-bb54-6b13517e015b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[3]/div[@class=&quot;drag-container MuiBox-root css-p8o0fd&quot;]/div[@class=&quot;MuiBox-root css-18174ce&quot;]/div[@class=&quot;list MuiBox-root css-1k2xkov&quot;]/div[@class=&quot;MuiBox-root css-1eaexpl&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;row MuiBox-root css-5f709d&quot;]/div[@class=&quot;MuiBox-root css-14miu69&quot;]/div[@class=&quot;MuiBox-root css-oynn15&quot;]/div[@class=&quot;MuiBox-root css-1pnq6ic&quot;]</value>
-      <webElementGuid>0d4772ae-7a8d-4e15-a12e-c849b176a299</webElementGuid>
+      <webElementGuid>e19b9d3e-39dd-43a8-b690-b000914324b1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[2]/div/div</value>
-      <webElementGuid>01117d9c-c5b0-49a6-99bb-278071063099</webElementGuid>
+      <webElementGuid>189b6b53-fb9d-47ee-89ac-1e17ffd1fff4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='나'])[2]/following::div[6]</value>
-      <webElementGuid>bc12fbfd-297e-4e1b-a8c9-029e9736746e</webElementGuid>
+      <webElementGuid>9e5e81c5-7982-4fb4-ada6-b5e85a00c8c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='hwp파일 테스트.hwp'])[1]/following::div[13]</value>
-      <webElementGuid>006397f2-760c-4e64-9719-4e6bf3b43153</webElementGuid>
+      <webElementGuid>737ffb49-e2b4-4597-b84a-da062bab8b17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='나'])[3]/preceding::div[6]</value>
-      <webElementGuid>efc90efa-2849-4462-9d82-f6338a78c7ad</webElementGuid>
+      <webElementGuid>79d75006-4882-4dfb-aaa2-914a55aefa27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/div</value>
-      <webElementGuid>69322126-b18e-4640-8c04-5deded6da912</webElementGuid>
+      <webElementGuid>53dc6b17-9af1-4e62-a2f7-3d97803bafc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'hfrm파일 테스트.hfrm' or . = 'hfrm파일 테스트.hfrm')]</value>
-      <webElementGuid>79634060-ccd0-43f5-bfc8-b2b0b860d82f</webElementGuid>
+      <webElementGuid>0a1d1fd8-ed68-4d4f-9b27-01f7a371e7ae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

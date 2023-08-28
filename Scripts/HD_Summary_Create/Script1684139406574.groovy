@@ -212,7 +212,7 @@ WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.delay(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 

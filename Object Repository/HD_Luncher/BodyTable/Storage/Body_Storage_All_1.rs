@@ -7,7 +7,8 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/div/main/div[3]/div/div/div[2]/div[2]/div/div/div[1]/div[2]/div/div
+         <value>//*[@id=&quot;root&quot;]/div/div[1]/main/div[4]/div/div/div[2]/div[2]/div/div/div[1]/div[2]/div/div
+
 </value>
       </entry>
       <entry>
@@ -23,7 +24,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c8511d29-e892-48bc-a785-3f79e217232d</webElementGuid>
+      <webElementGuid>c61777e5-62d8-45ae-aa88-0482849299a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +32,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiBox-root css-1pnq6ic</value>
-      <webElementGuid>02abc67e-5361-4d2c-b9c6-a1d5c7f77399</webElementGuid>
+      <webElementGuid>5adb017a-4176-40c7-a445-739a475dbe19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +40,7 @@
       <name>text</name>
       <type>Main</type>
       <value>owpml파일 테스트.owpml</value>
-      <webElementGuid>97f067b8-4836-4c09-b33e-1d12ab376ad9</webElementGuid>
+      <webElementGuid>4d6163f9-8bc4-49f5-90f5-ec675f16ec58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +48,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[3]/div[@class=&quot;drag-container MuiBox-root css-p8o0fd&quot;]/div[@class=&quot;MuiBox-root css-18174ce&quot;]/div[@class=&quot;list MuiBox-root css-1k2xkov&quot;]/div[@class=&quot;MuiBox-root css-1eaexpl&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;row MuiBox-root css-5f709d&quot;]/div[@class=&quot;MuiBox-root css-14miu69&quot;]/div[@class=&quot;MuiBox-root css-oynn15&quot;]/div[@class=&quot;MuiBox-root css-1pnq6ic&quot;]</value>
-      <webElementGuid>ff706084-8cc9-4758-9742-06c1a183a9f2</webElementGuid>
+      <webElementGuid>7a1ff0e4-3557-43f1-bc46-4696117b1511</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +56,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div[3]/div/div/div[2]/div[2]/div/div/div/div[2]/div/div</value>
-      <webElementGuid>305c0f1c-f65e-4c1f-9984-1c5d274d529b</webElementGuid>
+      <webElementGuid>9c7c2f44-179b-41e6-ba91-81960d71c84a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +64,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='한컴독스 지원 포맷 폴더'])[1]/following::div[20]</value>
-      <webElementGuid>97347e44-3568-42be-8db9-3dbc37d5502f</webElementGuid>
+      <webElementGuid>046ec1d5-1d09-4ddc-b079-057554deb198</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='내 저장 공간'])[1]/following::div[21]</value>
-      <webElementGuid>280451c0-686d-48ca-892b-89490c9ccc61</webElementGuid>
+      <webElementGuid>c3945539-0810-4156-b41e-f4b2d46602e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='어제'])[1]/preceding::div[4]</value>
-      <webElementGuid>196a3419-12ae-4d7b-9aa1-2aa947fd0b35</webElementGuid>
+      <webElementGuid>4b2df320-ec7e-4c69-9207-24da9d3ed7bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +88,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/div/div[2]/div/div</value>
-      <webElementGuid>06552329-0ecf-4849-a927-0954673d140c</webElementGuid>
+      <webElementGuid>8879b485-930b-40c4-8a68-d7f2bd988dff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +96,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'owpml파일 테스트.owpml' or . = 'owpml파일 테스트.owpml')]</value>
-      <webElementGuid>34bbc57e-0286-4e71-ab95-923c50e3614d</webElementGuid>
+      <webElementGuid>3d350369-e79e-4fc3-84ed-8184ea5c7cd7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

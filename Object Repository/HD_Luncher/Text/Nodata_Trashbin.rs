@@ -6,12 +6,12 @@
    <elementGuidId>bc55561b-8bff-45df-89a6-ba0f9bc7f961</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>h2.MuiTypography-root.MuiTypography-h2.css-6w5kag</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[1]/main/div[4]/div/div/div[2]/h2</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/main/div[3]/div/div/div[2]/h2</value>
+         <key>CSS</key>
+         <value>h2.MuiTypography-root.MuiTypography-h2.css-6w5kag</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>f20e93b3-e4ba-4925-a770-be25680cf036</webElementGuid>
+      <webElementGuid>fb09f1ed-d6d6-47f7-8763-aed984b7728d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-h2 css-6w5kag</value>
-      <webElementGuid>c059f47b-33da-475a-a8b8-03bcb754bb4d</webElementGuid>
+      <webElementGuid>6ffea09a-f2f3-40a6-a778-d9889551da1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>항목 없음</value>
-      <webElementGuid>39a4600e-1583-4855-a3da-70f8fd2cdbcc</webElementGuid>
+      <webElementGuid>26ae3fdd-8bc7-4eb2-8e60-e60c7ecf8fcf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[@class=&quot;drag-container MuiBox-root css-p8o0fd&quot;]/div[@class=&quot;MuiBox-root css-18174ce&quot;]/div[@class=&quot;MuiBox-root css-15u9pkf&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/h2[@class=&quot;MuiTypography-root MuiTypography-h2 css-6w5kag&quot;]</value>
-      <webElementGuid>70ebe17f-9250-4806-b4ef-1ebba5262c3d</webElementGuid>
+      <webElementGuid>8d19360a-1b2b-4f56-80d5-4d44bdb14a9f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div[3]/div/div/div[2]/h2</value>
-      <webElementGuid>61140a8f-a7f6-4f29-b2b5-1ac23c6d7350</webElementGuid>
+      <webElementGuid>7d5e74dc-c045-4a48-ab96-5417fc01cccb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='휴지통에 있는 항목은 30일 후 완전히 삭제됩니다.'])[1]/following::h2[1]</value>
-      <webElementGuid>46c7f3b9-9125-4136-9c5e-6272d59bf735</webElementGuid>
+      <webElementGuid>4d66df3d-947c-4afb-8ad0-bdf3c491ed75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='휴지통 비우기'])[1]/following::h2[1]</value>
-      <webElementGuid>da508154-f8f5-4c2e-a4ac-d555fd981d98</webElementGuid>
+      <webElementGuid>ed97b5e6-c85d-4c29-b86f-edaa4777c186</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='홈'])[1]/preceding::h2[1]</value>
-      <webElementGuid>3d5a63b5-1891-4bb6-b9db-40bd44be8fe7</webElementGuid>
+      <webElementGuid>e136a77f-b47f-4193-80a9-749e12e2da92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='문서 만들기'])[1]/preceding::h2[1]</value>
-      <webElementGuid>4f9cddc4-ec6c-414b-83a5-409ea4a63553</webElementGuid>
+      <webElementGuid>605c4d22-28ab-419f-ac66-f9bbf625f2ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='항목 없음']/parent::*</value>
-      <webElementGuid>3e090fe9-d037-4727-a803-4fe61b2fe68b</webElementGuid>
+      <webElementGuid>b0cf90b8-1ba9-460c-903d-4aa68b750f67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>c9a9a917-1265-4f91-b20b-90ae5fe7915c</webElementGuid>
+      <webElementGuid>8d459fac-9369-4f39-91b0-3360a039ceaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = '항목 없음' or . = '항목 없음')]</value>
-      <webElementGuid>a5e64619-6a6a-441c-a0a2-69f4b7e385f8</webElementGuid>
+      <webElementGuid>4df9dc43-2de3-45a9-a7eb-fb325ffd4d16</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

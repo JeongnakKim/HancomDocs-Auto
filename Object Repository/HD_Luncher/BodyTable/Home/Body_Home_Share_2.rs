@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;root&quot;]/div/div[1]/main/div[3]/div[2]/div[2]/div/div/div[2]/div[1]/div/div</value>
+         <value>//*[@id=&quot;root&quot;]/div/div[1]/main/div[4]/div[2]/div[2]/div/div/div[2]/div[1]/div/div</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>97aa8467-f3cf-42e3-868f-72827783a5a6</webElementGuid>
+      <webElementGuid>cf226c58-88c7-4f07-b714-415a72d5b565</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiBox-root css-1pnq6ic</value>
-      <webElementGuid>021c69cb-aff2-4ac7-a925-a247066d0533</webElementGuid>
+      <webElementGuid>2fa4bb99-d480-4765-9e6b-2c513a7f5eee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>hwpx 보기권한</value>
-      <webElementGuid>f433c3f5-4ccc-40be-83ad-1495e1f0886c</webElementGuid>
+      <webElementGuid>7ce5bbe6-e3ca-4766-ad33-3356e5c2eaf3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[@class=&quot;MuiBox-root css-18174ce&quot;]/div[@class=&quot;list MuiBox-root css-1k2xkov&quot;]/div[@class=&quot;MuiBox-root css-1eaexpl&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;row MuiBox-root css-5f709d&quot;]/div[@class=&quot;MuiBox-root css-14miu69&quot;]/div[@class=&quot;MuiBox-root css-oynn15&quot;]/div[@class=&quot;MuiBox-root css-1pnq6ic&quot;]</value>
-      <webElementGuid>b414c83c-0734-4145-9d13-61f005deb26d</webElementGuid>
+      <webElementGuid>3d6bb79e-7b0c-40db-bd16-b454995341dc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div[3]/div[2]/div[2]/div/div/div[2]/div/div/div</value>
-      <webElementGuid>7babe294-4194-40b4-b9b2-7832c4b73c08</webElementGuid>
+      <webElementGuid>6da186fc-88bd-458a-b37a-0d1e9755ad3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='lBCiqL'])[1]/following::div[6]</value>
-      <webElementGuid>d9084683-c877-4cac-951f-c9f819d1fa88</webElementGuid>
+      <webElementGuid>31b47b38-2fd3-44d2-a351-8f1b37768697</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='hwpx 편집권한'])[1]/following::div[13]</value>
-      <webElementGuid>48b60297-917d-40f0-ac0a-7717ad872ee8</webElementGuid>
+      <webElementGuid>88b105b2-3282-4013-901d-f7fd67867dc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='lBCiqL'])[2]/preceding::div[6]</value>
-      <webElementGuid>7d88eb88-680e-4988-b4d1-b1f072ab707d</webElementGuid>
+      <webElementGuid>97ac3ff0-160d-4e3f-b986-ab63ab578609</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div/div/div</value>
-      <webElementGuid>e17537f3-1945-4140-86b1-713be312abe8</webElementGuid>
+      <webElementGuid>af776587-9be0-4560-adff-e9f9c836af3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'hwpx 보기권한' or . = 'hwpx 보기권한')]</value>
-      <webElementGuid>a8ea89c3-58bb-4566-96be-60c365cb0635</webElementGuid>
+      <webElementGuid>8a4f4715-bc86-4789-b7d2-f8f4a63278d8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

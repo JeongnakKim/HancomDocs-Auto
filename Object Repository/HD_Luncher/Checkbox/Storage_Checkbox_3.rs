@@ -6,12 +6,12 @@
    <elementGuidId>f710e69c-6f83-4ceb-a432-159e53c279e3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.MuiCheckbox-root.MuiCheckbox-colorDefault.MuiButtonBase-root.MuiCheckbox-root.MuiCheckbox-colorDefault.PrivateSwitchBase-root.Mui-checked.css-1talt1g > input.PrivateSwitchBase-input.css-1m9pwf3</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[1]/main/div[4]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/span/input</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;root&quot;]/div/div[1]/main/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/span/input</value>
+         <key>CSS</key>
+         <value>span.MuiCheckbox-root.MuiCheckbox-colorDefault.MuiButtonBase-root.MuiCheckbox-root.MuiCheckbox-colorDefault.PrivateSwitchBase-root.Mui-checked.css-1talt1g > input.PrivateSwitchBase-input.css-1m9pwf3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>797523bc-827d-4c8b-8a9e-35cc60192753</webElementGuid>
+      <webElementGuid>d07e8c23-f494-4578-8aa4-6e79601db18a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>PrivateSwitchBase-input css-1m9pwf3</value>
-      <webElementGuid>e6a07162-6549-4b86-a35e-ac7e55c23e87</webElementGuid>
+      <webElementGuid>8a7f41f7-2bd0-44b8-925d-3f0fb29905db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>4627256e-fe80-4ed9-ae07-bdbc6f5d66d0</webElementGuid>
+      <webElementGuid>369f74f3-fb88-4f61-973d-00f96a6d1ef5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-indeterminate</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>895bcf6c-5b50-4851-a629-d686672cfc6f</webElementGuid>
+      <webElementGuid>eeed1215-8518-4c31-bde3-e6445b0c48bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Checkbox</value>
-      <webElementGuid>083cced9-6675-4f3d-b577-b341edc006e3</webElementGuid>
+      <webElementGuid>20053aa8-eef7-493a-b163-b2a55e254226</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[3]/div[@class=&quot;drag-container MuiBox-root css-p8o0fd&quot;]/div[@class=&quot;MuiBox-root css-18174ce&quot;]/div[@class=&quot;list MuiBox-root css-1k2xkov&quot;]/div[@class=&quot;MuiBox-root css-1eaexpl&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;row selected MuiBox-root css-5f709d&quot;]/div[@class=&quot;MuiBox-root css-b2p8ml&quot;]/span[@class=&quot;MuiCheckbox-root MuiCheckbox-colorDefault MuiButtonBase-root MuiCheckbox-root MuiCheckbox-colorDefault PrivateSwitchBase-root Mui-checked css-1talt1g&quot;]/input[@class=&quot;PrivateSwitchBase-input css-1m9pwf3&quot;]</value>
-      <webElementGuid>12eadd6c-44d7-4e68-a679-f3d2770d672f</webElementGuid>
+      <webElementGuid>7d5dbd19-857b-496f-9b53-e77cea7dc87c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='checkbox'])[2]</value>
-      <webElementGuid>77b6a98b-2a5a-4d33-905a-c221c93b267f</webElementGuid>
+      <webElementGuid>6117b8c8-222d-48a1-8d58-3303b644b908</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div[3]/div/div/div[2]/div[2]/div/div/div/div/span/input</value>
-      <webElementGuid>6110c7f0-ac52-489d-8f0c-f34533eca6c5</webElementGuid>
+      <webElementGuid>d8c8d231-30e4-4bd6-859f-f00d0be77292</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/span/input</value>
-      <webElementGuid>9dd96c9a-b0b4-4b07-bb45-250954b754cc</webElementGuid>
+      <webElementGuid>eb1d118f-081d-45cd-8da5-24872d6574f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox']</value>
-      <webElementGuid>83a7c519-9cc0-4a88-9cf0-1ac90c87d611</webElementGuid>
+      <webElementGuid>4e5bacc7-94ff-4e33-a6ec-f2f8fa45eb6b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

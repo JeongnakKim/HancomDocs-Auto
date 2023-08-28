@@ -6,12 +6,12 @@
    <elementGuidId>befe89fd-a75f-4409-a96c-9a31c09a0c6c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>h5.MuiTypography-root.MuiTypography-h5.css-nw8w3k</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[1]/main/div/section[3]/div/h5</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/main/div/section[3]/div/h5</value>
+         <key>CSS</key>
+         <value>h5.MuiTypography-root.MuiTypography-h5.css-nw8w3k</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h5</value>
-      <webElementGuid>bee50b26-7737-4337-a36a-003f593964a4</webElementGuid>
+      <webElementGuid>c3ad22df-b1a9-49af-a408-cc4e3880fa42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-h5 css-nw8w3k</value>
-      <webElementGuid>ab7cd4e0-bafb-49f3-82ed-2e8032ca634f</webElementGuid>
+      <webElementGuid>6eea7897-cbae-49da-8336-73460ec7abd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>요금제 비교</value>
-      <webElementGuid>b2ee3082-b709-4170-b2d3-ce21d7ae6b2a</webElementGuid>
+      <webElementGuid>ce66991c-3653-4dee-bde8-ba74278a9572</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1j23mgk&quot;]/main[@class=&quot;MuiBox-root css-hngt96&quot;]/div[@class=&quot;MuiBox-root css-1t9hyv3&quot;]/section[@class=&quot;css-5cbihu&quot;]/div[@class=&quot;MuiBox-root css-1pc1w1t&quot;]/h5[@class=&quot;MuiTypography-root MuiTypography-h5 css-nw8w3k&quot;]</value>
-      <webElementGuid>013796bf-4739-4d43-9ea8-1021377f382f</webElementGuid>
+      <webElementGuid>3fe523e0-567a-4b36-89e0-65d0100421d9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div/section[3]/div/h5</value>
-      <webElementGuid>1a200149-2eaa-4cb8-822d-eb451acd34e0</webElementGuid>
+      <webElementGuid>b8cbed33-a84d-4823-bfd2-c3062f39e712</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='₩99,000원/년으로 구독'])[1]/following::h5[1]</value>
-      <webElementGuid>027cfb44-4d75-47c0-9827-eeae15477b04</webElementGuid>
+      <webElementGuid>ad4a7730-9467-4f59-a1bf-d54dba8508e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='또는'])[2]/following::h5[1]</value>
-      <webElementGuid>6418295e-8dc5-40ae-8226-9561d5336270</webElementGuid>
+      <webElementGuid>9640d1cc-0f42-4ef5-b8fc-b86abeb7912b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='기본 항목'])[1]/preceding::h5[1]</value>
-      <webElementGuid>38eab5a6-a8f5-4648-a350-be781af047e8</webElementGuid>
+      <webElementGuid>1a8281cd-8070-4ebc-8a3a-51b9531e3e75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='무료'])[2]/preceding::h5[1]</value>
-      <webElementGuid>c31848dc-684d-48e9-bff8-04d23826ca78</webElementGuid>
+      <webElementGuid>2c147130-2eb2-483b-bc40-81a4eeedbfc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='요금제 비교']/parent::*</value>
-      <webElementGuid>128f92fe-a6ed-4ca1-865f-c869ec18e8fa</webElementGuid>
+      <webElementGuid>7de7881c-f85c-4a16-8fee-6f499f313234</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h5</value>
-      <webElementGuid>6496cb3a-6b8b-4f4e-af59-030d5b9df8fa</webElementGuid>
+      <webElementGuid>6cdae725-4bd8-4def-a655-40593eaf7887</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h5[(text() = '요금제 비교' or . = '요금제 비교')]</value>
-      <webElementGuid>6c87a34b-f78c-485c-a303-9ca52598425a</webElementGuid>
+      <webElementGuid>ac66506f-82a7-45d6-8544-585b00106d9a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
