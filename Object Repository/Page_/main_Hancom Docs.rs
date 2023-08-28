@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>main_Hancom Docs</name>
+   <tag></tag>
+   <elementGuidId>670b08af-f35d-45a0-b55f-392512da6697</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/main</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>main.MuiBox-root.css-1nhc2mf</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>main</value>
+      <webElementGuid>da906ffd-7f9c-4bbf-8eb6-c9cc60667e58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-1nhc2mf</value>
+      <webElementGuid>389fa434-01fc-4684-a391-2bb93dc62747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>한글과컴퓨터 서비스 계정으로 Hancom Docs 서비스를 이용하세요.신규 사용자이신가요?계정 만들기로그인아이디 찾기비밀번호 찾기소셜 계정으로 로그인다른 계정으로 로그인</value>
+      <webElementGuid>a56f3fb2-a3e5-4033-9f4d-2450ccb0e410</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiContainer-root MuiContainer-disableGutters css-1rl4rbt&quot;]/div[@class=&quot;MuiBox-root css-noddd&quot;]/main[@class=&quot;MuiBox-root css-1nhc2mf&quot;]</value>
+      <webElementGuid>62c904f0-4921-4e46-bef9-518462e6dcc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/main</value>
+      <webElementGuid>31d60d3a-8acf-4ec4-bb3b-0b75a3f32082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main</value>
+      <webElementGuid>5c029e88-d997-4ef5-b264-580b4a6d0c19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//main[(text() = '한글과컴퓨터 서비스 계정으로 Hancom Docs 서비스를 이용하세요.신규 사용자이신가요?계정 만들기로그인아이디 찾기비밀번호 찾기소셜 계정으로 로그인다른 계정으로 로그인' or . = '한글과컴퓨터 서비스 계정으로 Hancom Docs 서비스를 이용하세요.신규 사용자이신가요?계정 만들기로그인아이디 찾기비밀번호 찾기소셜 계정으로 로그인다른 계정으로 로그인')]</value>
+      <webElementGuid>aaf5568a-2e5b-4859-89ef-26136e26207d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

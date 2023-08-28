@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>8b80a18d-f6f2-42c3-b6d8-c616f370c442</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='내 저장 공간'])[1]/following::div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiListItemButton-root.MuiListItemButton-gutters.MuiButtonBase-root.css-1gqq0op</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf193ee3-adc0-49f7-b9e0-2ac3225603af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-1gqq0op</value>
+      <webElementGuid>25d908e8-fab4-4ad4-8d51-806ade136d74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b81f073c-84eb-49df-8f2d-988dc70b471a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>708e7d01-1565-46be-ba6e-4c083a000634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>이동 테스트</value>
+      <webElementGuid>c71cb6af-d3d9-4c7c-96ac-880dce2e6d84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root css-8ndowl&quot;]/div[@class=&quot;MuiBox-root css-ejj513&quot;]/div[@class=&quot;MuiBox-root css-1msv0b3&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/ul[@class=&quot;MuiList-root css-1uzmcsd&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters css-kfvvl0&quot;]/div[@class=&quot;MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-1gqq0op&quot;]</value>
+      <webElementGuid>9080456c-ddbf-4001-88f1-8794ecd8e272</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='내 저장 공간'])[1]/following::div[4]</value>
+      <webElementGuid>0160c4a2-f479-440e-ab56-195c0ee428d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='필터 초기화'])[1]/following::div[10]</value>
+      <webElementGuid>3cae723e-66cd-4fa1-981a-153c7252c17b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='복사 테스트'])[2]/preceding::div[2]</value>
+      <webElementGuid>b4787e81-c87f-4d21-b681-f8b07bc8fa7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/li/div</value>
+      <webElementGuid>a70d62c1-0d7b-418b-9542-5df869c5b923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '이동 테스트' or . = '이동 테스트')]</value>
+      <webElementGuid>598b564a-4814-4dbf-9eff-7a3ed1217bf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

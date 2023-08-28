@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>bba01a76-3e8f-43ce-b1e7-72d56db3021b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.css-1nqj4jh > svg.icon-neutral > g > path:nth-of-type(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>b531a99c-46ef-4aa3-9faf-266f1820f1de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M10.25 21.083h8.667V10.25H10.25v10.833zm0 8.667h8.667v-6.5H10.25v6.5zm10.833 0h8.667V18.917h-8.667V29.75zm0-19.5v6.5h8.667v-6.5h-8.667z</value>
+      <webElementGuid>fcbcb101-f904-43cf-a953-348cd2a0201f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#1C1C1E</value>
+      <webElementGuid>0816f40e-e2dc-4bb4-ac1e-dfec36cdca09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked css-12ldakr&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft css-le3spj&quot;]/div[@class=&quot;MuiList-root MuiList-padding css-x5uutx&quot;]/li[@class=&quot;MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root css-yb6xbr&quot;]/a[@class=&quot;css-1mftry9&quot;]/span[@class=&quot;css-1nqj4jh&quot;]/svg[@class=&quot;icon-neutral&quot;]/g[1]/path[3]</value>
+      <webElementGuid>bbcf0d58-3a2d-47b7-81b8-a43666aa0f81</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
