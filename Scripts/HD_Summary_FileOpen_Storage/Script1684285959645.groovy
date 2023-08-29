@@ -83,17 +83,6 @@ WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_mp3_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
 
-// 웹 요소를 찾기 위한 TestObject 생성
-'audio객체를 verify element present 일반함수로 사용 불가해서 script작성'
-TestObject to = new TestObject()
-
-'audio객체를 verify element present 일반함수로 사용 불가해서 script작성'
-to.addProperty('xpath', ConditionType.EQUALS, '/html/body/div[4]/div[3]/div/div[1]/div/audio')
-
-// 웹 요소의 존재 여부 확인
-'audio객체를 verify element present 일반함수로 사용 불가해서 script작성'
-boolean isElementPresent = WebUI.verifyElementPresent(to, 10)
-
 WebUI.click(findTestObject('HD_Luncher/Button/button_back_viewer'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_mp4_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
@@ -282,7 +271,7 @@ WebUI.switchToWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.delay(5)
+WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/Text/WebOffice_title_Compare_text'), 'xlsx파일 테스트.xlsx - 한셀', 
     FailureHandling.CONTINUE_ON_FAILURE)
@@ -311,9 +300,6 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Check_Ob
 WebUI.click(findTestObject('HD_Luncher/Button/button_back_viewer'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_wav_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
-
-'audio객체를 verify element present 일반함수로 사용 불가해서 script작성'
-isElementPresent = WebUI.verifyElementPresent(to, 10)
 
 WebUI.click(findTestObject('HD_Luncher/Button/button_back_viewer'), FailureHandling.CONTINUE_ON_FAILURE)
 

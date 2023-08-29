@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[4]/div[3]/div[5]/button/p</value>
+         <value>/html/body/div[5]/div[3]/div[5]/button/p</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h3</value>
-      <webElementGuid>8a4a8f8b-90e2-435c-804d-d5f6b9dd51a8</webElementGuid>
+      <webElementGuid>4a9d1398-0ffd-4bbc-ad78-7024b81783c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-h3 css-1uvzwff</value>
-      <webElementGuid>1c2fc9f3-5a9b-47ce-bcbd-949a164c3930</webElementGuid>
+      <webElementGuid>e3ed600e-cdb2-4df6-927d-6fd259f3dfc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>링크 보내기</value>
-      <webElementGuid>d5adca15-a4e7-431b-b22f-d941a620c742</webElementGuid>
+      <webElementGuid>104c7a6d-baba-47bd-89e4-20bd99244922</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root css-8ndowl&quot;]/div[@class=&quot;MuiBox-root css-1qcfv48&quot;]/div[@class=&quot;MuiBox-root css-1eqyiot&quot;]/div[@class=&quot;css-y150rr&quot;]/div[@class=&quot;css-95g4uk&quot;]/div[@class=&quot;css-j7qwjs&quot;]/h3[@class=&quot;MuiTypography-root MuiTypography-h3 css-1uvzwff&quot;]</value>
-      <webElementGuid>702a4956-509f-4500-9648-cd29e193047f</webElementGuid>
+      <webElementGuid>0c9b6e4b-fb1a-48b6-afb6-0de1221c915f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='‘hwp파일 테스트.hwp'])[1]/following::h3[1]</value>
-      <webElementGuid>db765e41-1f58-48ee-b5bd-0c6417867e89</webElementGuid>
+      <webElementGuid>bf030af5-2045-44a5-a9b7-f9427714634b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='필터 초기화'])[1]/following::h3[1]</value>
-      <webElementGuid>94cb20be-c221-4649-9a76-8ddd7dc6e399</webElementGuid>
+      <webElementGuid>0037beab-1816-453e-804c-c3f1248493ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::h3[1]</value>
-      <webElementGuid>1c559b80-9956-4221-b9dd-e481063bca8e</webElementGuid>
+      <webElementGuid>dc081448-5f45-4913-9b62-710ddc99238e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='링크 설정'])[1]/preceding::h3[1]</value>
-      <webElementGuid>4166bc5f-fbf1-4532-8510-2b2c71bd5234</webElementGuid>
+      <webElementGuid>de41a31c-70c7-4aa2-93c6-448c3930bf5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='링크 보내기']/parent::*</value>
-      <webElementGuid>a3f4e56f-ecf0-4f51-8020-4bdfe7df352f</webElementGuid>
+      <webElementGuid>d8a3727a-c12d-4bd4-a234-4d0c304e4c5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/div/div/h3</value>
-      <webElementGuid>4bcf9dcb-03ee-4f10-9cf0-12e7acf3e5e4</webElementGuid>
+      <webElementGuid>a35f4548-6801-4360-8f78-965d2a3ed3e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h3[(text() = '링크 보내기' or . = '링크 보내기')]</value>
-      <webElementGuid>d810d46f-2028-4585-ab85-42a52204a9dc</webElementGuid>
+      <webElementGuid>a7ef0307-ae08-457d-be54-d5852f7227ef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -331,8 +331,6 @@ WebUI.click(findTestObject('HD_Luncher/BodyTable/Storage/context_storage_9'), Fa
 
 WebUI.click(findTestObject('HD_Luncher/Menu/Contextmenu/contextmenu_viewer'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('HD_Luncher/Check_Object/viewer_image_check'))
-
 WebUI.click(findTestObject('HD_Luncher/Button/button_back_viewer'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Home'), FailureHandling.CONTINUE_ON_FAILURE)

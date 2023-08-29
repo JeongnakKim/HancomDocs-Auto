@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[5]/div[3]/div[2]/div/div/input</value>
+         <value>/html/body/div[6]/div[3]/div[2]/div/div/input</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>29b30703-1d66-49fe-92ed-981043ee2558</webElementGuid>
+      <webElementGuid>02161345-d3d0-4823-a827-50c71bb61218</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>166ac3d8-9bb4-4ed3-b9e7-ddd1d464f7b8</webElementGuid>
+      <webElementGuid>1e95b82a-b6f8-4ff7-8882-4988f9a117b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>bcd3c5ed-3525-4d88-b597-46c7a355c445</webElementGuid>
+      <webElementGuid>7c9f77c8-cdcf-42bb-b825-497aa2aa5cf2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>PrivateSwitchBase-input css-1m9pwf3</value>
-      <webElementGuid>bb2be912-834f-49ee-8669-88adbdb1e7ea</webElementGuid>
+      <webElementGuid>54ef9ab3-bce8-47ee-97d7-643c34da1a68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>value</name>
       <type>Main</type>
       <value>새 폴더</value>
-      <webElementGuid>70a1f738-a09f-41d3-a4e1-179ffb6bef9e</webElementGuid>
+      <webElementGuid>e490209f-bdcd-40b3-9cac-9c2e12f8e34b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[3]/div[@class=&quot;drag-container MuiBox-root css-p8o0fd&quot;]/div[@class=&quot;MuiBox-root css-18174ce&quot;]/div[@class=&quot;list MuiBox-root css-1k2xkov&quot;]/div[@class=&quot;MuiBox-root css-1eaexpl&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;row selected MuiBox-root css-hkl56t&quot;]/div[@class=&quot;MuiBox-root css-1udziaz&quot;]/span[@class=&quot;MuiCheckbox-root MuiCheckbox-colorDefault MuiButtonBase-root MuiCheckbox-root MuiCheckbox-colorDefault PrivateSwitchBase-root Mui-checked css-fkh2dn&quot;]/input[@class=&quot;PrivateSwitchBase-input css-1m9pwf3&quot;]</value>
-      <webElementGuid>905eb8f2-c8ca-4fe7-b248-7af13865dcd5</webElementGuid>
+      <webElementGuid>fd7fbbbe-60da-4d99-a712-f1162a10be0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-indeterminate</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f6f8e03f-b679-473b-8318-c6bb48fd1d2b</webElementGuid>
+      <webElementGuid>f77e5dde-c2bd-4861-b693-99f3c6cdf2fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Checkbox</value>
-      <webElementGuid>f568b4c5-2f51-4a61-a6bd-a837ebebf5e6</webElementGuid>
+      <webElementGuid>63ac7f97-a5c3-4941-a639-b50b5530171b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='checkbox'])[4]</value>
-      <webElementGuid>cffa541d-571e-4eaa-8a5d-66bedf7872d4</webElementGuid>
+      <webElementGuid>936070f5-d12e-4286-a9cd-d63e699ae914</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div/span/input</value>
-      <webElementGuid>c7e8a507-129d-4cec-9642-a886f641f544</webElementGuid>
+      <webElementGuid>6dbec9b0-85ee-48b2-8da2-ea1806d35c59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/span/input</value>
-      <webElementGuid>ee85d616-87ca-4acb-bd4d-cd9908b437f7</webElementGuid>
+      <webElementGuid>0e19fda8-7ed4-41b5-9575-5b7efa84ccff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox']</value>
-      <webElementGuid>c4325df0-ef1d-4462-ae3c-4afa12590c9a</webElementGuid>
+      <webElementGuid>450b0b01-49a2-4c9d-8e5f-d78e5411e22b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='새 폴더']</value>
-      <webElementGuid>82b9cd36-e51e-4de5-99da-5670e3f472e3</webElementGuid>
+      <webElementGuid>13867363-3f02-4975-8e89-b015b56ea7aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/input</value>
-      <webElementGuid>0e29cbbc-780f-42aa-98a7-3ea70c34c504</webElementGuid>
+      <webElementGuid>9eae3eca-d993-4ffe-839b-4e10f77acfd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>dd2f4303-27d8-4c3d-af55-bd90cebb83a6</webElementGuid>
+      <webElementGuid>3703b8f0-d410-47e2-b6a3-c5f526408279</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

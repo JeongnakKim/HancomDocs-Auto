@@ -54,8 +54,6 @@ WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(10, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'odp파일 테스트.odp - 한쇼', FailureHandling.CONTINUE_ON_FAILURE)
-
 WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)

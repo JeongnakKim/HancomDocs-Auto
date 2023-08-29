@@ -7,15 +7,14 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='로그인'])[1]/following::button[2]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value></value>
+         <value>/html/body/div[2]/div[3]/div[3]/button[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//*[@type = 'button' and (text() = '로그인' or . = '로그인')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0885a2e0-0f26-494d-a99d-f9a0f3f7e74a</webElementGuid>
+      <webElementGuid>5f0e177a-9e4b-4755-84cf-1712a8a07469</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +33,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root css-n79115</value>
-      <webElementGuid>a5b5b198-a9cd-4cda-a2f2-927ec097a63d</webElementGuid>
+      <webElementGuid>80e15002-9cef-4de5-bc8a-3e3b5c0894e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +41,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>db3d6bd4-f617-4843-b514-c460dca1502b</webElementGuid>
+      <webElementGuid>09f7b6f4-b3cb-42db-9ee4-5f23df01bcfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +49,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a935e2a1-89b8-4cf9-bbe9-5ba81337115e</webElementGuid>
+      <webElementGuid>e3d8da8f-c8aa-4561-bf72-b4b6c38b1e90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +57,7 @@
       <name>data-analysis-id</name>
       <type>Main</type>
       <value>share_link_login</value>
-      <webElementGuid>2131a9fb-62d8-4ff7-8c5b-fe0f5173f455</webElementGuid>
+      <webElementGuid>fabcaadd-91b7-4183-bfc7-eb7e5406442a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,7 +65,7 @@
       <name>text</name>
       <type>Main</type>
       <value>로그인</value>
-      <webElementGuid>4ac9467a-480a-4573-a1cc-62ddd5c0f965</webElementGuid>
+      <webElementGuid>926044dd-8e3d-4adf-ad51-70508f05f886</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root css-8ndowl&quot;]/div[@class=&quot;MuiBox-root css-l6v2mk&quot;]/div[@class=&quot;MuiBox-root css-1s145v0&quot;]/button[@class=&quot;MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root css-n79115&quot;]</value>
-      <webElementGuid>6115f1cf-357c-4864-a2f4-d50df2d77cee</webElementGuid>
+      <webElementGuid>bcea96d3-6ab1-4d7f-9cae-85d667795fbb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -82,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[3]</value>
-      <webElementGuid>5fddff88-9c80-4cbf-89c1-8dae00b59016</webElementGuid>
+      <webElementGuid>b3819399-1bd1-4704-97e4-e5174d4a9683</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='뷰어로 열기'])[1]/following::button[1]</value>
-      <webElementGuid>c05b79be-d39e-4205-8b97-f691e0878b27</webElementGuid>
+      <webElementGuid>03d67a8a-3372-4815-9c45-54b28f6b1286</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='로그인'])[1]/following::button[2]</value>
-      <webElementGuid>e81509fb-c2f4-4cc5-84cc-de3037b799b0</webElementGuid>
+      <webElementGuid>249e2a02-cc3d-42b2-a204-3d3f09c59b7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +105,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>4543e48c-1bfd-4b6a-933c-b05c46f19d68</webElementGuid>
+      <webElementGuid>fc57cafe-1627-4653-8262-48203395104d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,6 +113,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = '로그인' or . = '로그인')]</value>
-      <webElementGuid>15e9c297-dae8-492d-9ba0-51ee454aed9c</webElementGuid>
+      <webElementGuid>fb86da87-4105-440e-8bce-ccd7b1c44f69</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,7 +7,8 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*/text()[normalize-space(.)='삭제']/parent::*</value>
+         <value>//*[@id=&quot;root&quot;]/div/div[1]/main/div[3]/div/div[2]/button[4]
+</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>0e58ae43-56df-4cb6-9518-26d24010c6e2</webElementGuid>
+      <webElementGuid>853e48b5-f06a-49b5-b870-b96bfbe7086f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-body1 css-1h0c0u1</value>
-      <webElementGuid>54463939-9f03-479e-8e20-4cc3e739fd3d</webElementGuid>
+      <webElementGuid>a316012b-d74b-46b4-9e39-ea7c1c9f4d5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>삭제</value>
-      <webElementGuid>65a5e2a6-a1dc-4087-9847-3bdea23f272e</webElementGuid>
+      <webElementGuid>95c401a7-0d95-471b-a94d-e0245d027dfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/main[@class=&quot;MuiBox-root css-1lscubz&quot;]/div[@class=&quot;MuiBox-root css-r6b76f&quot;]/div[@class=&quot;MuiBox-root css-2slx2t&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/button[@class=&quot;MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root css-1raqicx&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-1h0c0u1&quot;]</value>
-      <webElementGuid>f5bfc2ca-784f-4b4e-b2b3-2c2ef69e8946</webElementGuid>
+      <webElementGuid>b6734fa3-264c-4390-aced-5bb218a02875</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/main/div[2]/div/div[2]/button[4]/p</value>
-      <webElementGuid>b1a5dc91-c581-4d71-84c9-0ff3352d7bd9</webElementGuid>
+      <webElementGuid>8ecd8367-ef0c-48e6-a6df-602eca0ff973</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='새로 만들기'])[1]/following::p[4]</value>
-      <webElementGuid>fb6f6d81-f749-4ac2-b218-f1a725ae410d</webElementGuid>
+      <webElementGuid>fd6f216f-d482-48ed-ba5d-ac8645b22f66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='저장 공간'])[1]/following::p[4]</value>
-      <webElementGuid>b8fb921a-5a91-4735-a180-7562281557c8</webElementGuid>
+      <webElementGuid>15630263-0fa7-4e80-9d21-5fabd53b1d53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='새 한쇼.pptx'])[1]/preceding::p[5]</value>
-      <webElementGuid>17e5e0e8-13e8-435a-b9e1-22738bd9eaa2</webElementGuid>
+      <webElementGuid>571f6949-a41d-4989-90ed-1445735f29d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='방금'])[1]/preceding::p[5]</value>
-      <webElementGuid>3af7fb5e-5b2b-4802-ae42-efd947cfa72c</webElementGuid>
+      <webElementGuid>ca162245-63ef-4175-beaa-33f711ca60f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='삭제']/parent::*</value>
-      <webElementGuid>c576a011-fb27-45b4-aabf-63afbfda702b</webElementGuid>
+      <webElementGuid>2cbc8280-a950-434d-8886-a50baa946959</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[4]/p</value>
-      <webElementGuid>4c082ca7-22fe-4a40-b36b-46788daf447f</webElementGuid>
+      <webElementGuid>b412e45a-8cb6-4abb-a653-3f310c64fe01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = '삭제' or . = '삭제')]</value>
-      <webElementGuid>3f7afa21-e879-4ad3-aa98-fa7d13d1a1a7</webElementGuid>
+      <webElementGuid>0c14f05b-c8aa-41ef-9481-b64ee4aa1fe5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

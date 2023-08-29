@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[4]/div[3]/div[1]</value>
+         <value>/html/body/div[5]/div[3]/div[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>486464ff-0e91-4b2b-b3f4-80b5ffddd687</webElementGuid>
+      <webElementGuid>ab3d333b-630d-493e-950b-d04e7cdb1c67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-h2 css-6w5kag</value>
-      <webElementGuid>313e8430-2fc3-4e3f-874c-630cf1103a55</webElementGuid>
+      <webElementGuid>5773245d-2ff2-4beb-a764-deeca3e80028</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>이름 바꾸기</value>
-      <webElementGuid>c1395ba3-bee8-479d-a2f1-f49b21be3e5e</webElementGuid>
+      <webElementGuid>2bed580e-66c0-46bb-9311-cf571f6eb841</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root css-8ndowl&quot;]/div[@class=&quot;MuiBox-root css-l6v2mk&quot;]/div[@class=&quot;MuiBox-root css-1gsv4z&quot;]/h2[@class=&quot;MuiTypography-root MuiTypography-h2 css-6w5kag&quot;]</value>
-      <webElementGuid>ade09cd8-d51c-4dc8-85d7-ff75e0b5ba65</webElementGuid>
+      <webElementGuid>ac0407c1-fe8a-4a3d-a1ce-9f9032aac006</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='필터 초기화'])[1]/following::h2[1]</value>
-      <webElementGuid>f028c0b6-d61c-435c-8cb8-4a5fd71814eb</webElementGuid>
+      <webElementGuid>0b7c7352-389e-45af-bb1e-c3ce1fd1583b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='적용'])[1]/following::h2[1]</value>
-      <webElementGuid>5abd7fc9-4d59-46f3-b4e0-34e3acd30bb5</webElementGuid>
+      <webElementGuid>5cf4401b-26ad-4dcf-b769-99d60ee091f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='바꾸기'])[1]/preceding::h2[1]</value>
-      <webElementGuid>2071e7c0-9c45-4818-8153-691dee593d4e</webElementGuid>
+      <webElementGuid>9cda61b9-5774-417f-8d23-6883f74903b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[1]/preceding::h2[1]</value>
-      <webElementGuid>99405efe-9bd6-48d2-bc9a-0c15a6203ff2</webElementGuid>
+      <webElementGuid>fbb0711c-04bd-4e82-ba77-c883c8524e95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='이름 바꾸기']/parent::*</value>
-      <webElementGuid>654b2eb7-457e-4402-bfed-3174dc773bd1</webElementGuid>
+      <webElementGuid>823d8e81-444e-437f-8db3-fef47dbefdb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>d216ec50-fa3a-4249-a935-5d48868fb985</webElementGuid>
+      <webElementGuid>2809b1dd-e372-439f-83c5-00ecb61f8fd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = '이름 바꾸기' or . = '이름 바꾸기')]</value>
-      <webElementGuid>45f16622-780f-4661-9ac8-1fd089a25a7e</webElementGuid>
+      <webElementGuid>a1c2aa50-023a-4f99-ba83-ccb66c2402cf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

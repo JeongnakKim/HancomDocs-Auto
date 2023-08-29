@@ -6,12 +6,13 @@
    <elementGuidId>7b14636f-76f3-4bb1-86f6-6eafeb8a8822</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>svg.icon-neutral</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[1]/div[1]/div/div[1]/li[1]/a
+</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;root&quot;]/div/div[1]/div[1]/div/div[1]/li[1]/a</value>
+         <key>CSS</key>
+         <value>svg.icon-neutral</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>70a98a83-150a-4e16-ac78-bab8197e0df3</webElementGuid>
+      <webElementGuid>5f6ac790-d799-4efb-bc95-1e418d7a4dc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +31,7 @@
       <name>width</name>
       <type>Main</type>
       <value>40</value>
-      <webElementGuid>720ac2f7-2e07-4413-a856-bd3616c7d40b</webElementGuid>
+      <webElementGuid>4b5d62b6-8006-49dd-9934-20830614089e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +39,7 @@
       <name>height</name>
       <type>Main</type>
       <value>40</value>
-      <webElementGuid>a7a35624-d411-4236-afbb-a884e0030aee</webElementGuid>
+      <webElementGuid>26d2dff2-8323-464a-b632-d7b9a97fab91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +47,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 40 40</value>
-      <webElementGuid>3d48635b-f889-4170-a667-f270b0852fdb</webElementGuid>
+      <webElementGuid>e48d18d6-5029-4aec-bf21-1aaf0512d4ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +55,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>007b8a96-2411-4c25-8199-75e806c0b729</webElementGuid>
+      <webElementGuid>5386301a-6157-41de-b04e-b59b2dea4ae0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +63,7 @@
       <name>class</name>
       <type>Main</type>
       <value>icon-neutral</value>
-      <webElementGuid>53448ba4-b5c2-4614-9eb2-00c26eb06e11</webElementGuid>
+      <webElementGuid>640c576b-ae02-4696-b04c-25adff316a9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-1ixckvq&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked css-1fkn2w9&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft css-tis9jq&quot;]/div[@class=&quot;MuiList-root MuiList-padding css-x5uutx&quot;]/li[@class=&quot;MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root css-8j73l6&quot;]/a[@class=&quot;css-17hk9hw active&quot;]/span[@class=&quot;css-fvxm3m&quot;]/svg[@class=&quot;icon-neutral&quot;]</value>
-      <webElementGuid>e58d13d6-2b58-4ea9-b07e-9266b0ec3780</webElementGuid>
+      <webElementGuid>210fbec6-39d0-4be2-aa5a-7436f408087b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='세부 정보'])[1]/preceding::*[name()='svg'][10]</value>
-      <webElementGuid>f3db10fb-9ea9-4494-a204-d19779539e8e</webElementGuid>
+      <webElementGuid>fdfbfbd3-8ace-4c9b-82c2-aa155a696550</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +87,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='상세'])[1]/preceding::*[name()='svg'][10]</value>
-      <webElementGuid>b7e19968-96b8-49c7-b4b5-c73d27637d9b</webElementGuid>
+      <webElementGuid>1607e453-5862-4e65-a428-810d0b7fa8e8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
