@@ -280,14 +280,14 @@ WebUI.closeWindowIndex(1, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.switchToWindowIndex(0, FailureHandling.CONTINUE_ON_FAILURE)
 
-'gif파일 클릭\r\n'
-WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_gif_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_bmp_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Check_Object/viewer_image_check'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('HD_Luncher/Button/button_back_viewer'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_bmp_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
+'gif파일 클릭\r\n'
+WebUI.click(findTestObject('Object Repository/HD_Luncher/File_Folder Open/Storage/Open_gif_Account2'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/HD_Luncher/Check_Object/viewer_image_check'), FailureHandling.CONTINUE_ON_FAILURE)
 

@@ -34,7 +34,7 @@ WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_
 'account2의 hwp 편집권한 허용 공유링크'
 WebUI.navigateToUrl('https://www.hancomdocs.com/open?fileId=m%3A0%3A1234497385', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_etc(Link)/button_editpopup_viewer'))
+WebUI.click(findTestObject('HD_etc(Link)/button_editpopup_viewer'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.waitForPageLoad(10, FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -45,7 +45,7 @@ WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_
 'account2의 hwp 편집권한 허용 공유링크'
 WebUI.navigateToUrl('https://www.hancomdocs.com/open?fileId=m%3A0%3A1234497385', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('HD_etc(Link)/button_editpopup_login'))
+WebUI.click(findTestObject('HD_etc(Link)/button_editpopup_login'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.setText(findTestObject('HD_Landing/Login_input__email'), 'hcnewbiz+prdat1@gmail.com', FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -59,5 +59,5 @@ WebUI.delay(5, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('HD_Luncher/Text/WebOffice_title_Compare_text'), 'hwp파일 테스트.hwp - 한글', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.closeBrowser()
+WebUI.closeBrowser(FailureHandling.CONTINUE_ON_FAILURE)
 

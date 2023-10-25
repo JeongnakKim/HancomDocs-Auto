@@ -70,11 +70,12 @@ WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_filter_re
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Button/button_filter_Ok'), FailureHandling.CONTINUE_ON_FAILURE)
 
-'3번 hfrm 파일 테스트 텍스트 비교'
-WebUI.verifyElementText(findTestObject('Object Repository/HD_Luncher/BodyTable/Storage/Body_Storage_All_3'), 'hfrm파일 테스트.hfrm', 
-    FailureHandling.CONTINUE_ON_FAILURE)
+'1번 odp 파일 테스트 텍스트 비교'
+WebUI.verifyElementText(findTestObject('HD_Luncher/BodyTable/Storage/Body_Storage_All_1'), 'odp파일 테스트.odp', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('HD_Luncher/Menu/LNB_Menu/Menu_Storage'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(3, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/HD_Luncher/Checkbox/Storage_Checkbox_3'), FailureHandling.CONTINUE_ON_FAILURE)
 
